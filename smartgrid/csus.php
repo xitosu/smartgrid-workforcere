@@ -18,10 +18,10 @@ getFooter();
 function ucContent(){
     $html = "";
 	$html .= "<div class=\"grid_13 homepage\">\n";
-	$html .= "<h1>University of California</h1>\n";
+	$html .= "<h1>California State University</h1>\n";
 	$html .= "<p></p>\n";
 	$html .= "	<form id=\"schoolForm\" class=\"grid_14\">\n";
-	$html .= "		<select id=\"schools\" onchange=\"addClasses2()\">\n";
+	$html .= "		<select id=\"schools\" onchange=\"addClasses()\">\n";
 	$html .= "			<option name=\"select\" id=\"select\">Select a School</option>\n";
 	$html .= "			<option name=\"chanis\" id=\"chanis\">CSU Channel Islands</option>\n";
 	$html .= "			<option name=\"chico\" id=\"chico\">CSU Chico</option>\n";
