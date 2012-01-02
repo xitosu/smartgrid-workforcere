@@ -182,10 +182,52 @@ function addClasses()
 		davisClasses += "<h3><a href=\"http://registrar.ucdavis.edu/UCDWebCatalog/programs/ERS/ERScourses.html\" name=\"Envivonrmental Resources Sciences\">Environment Resources Sciences:</a></h3>";
 		davisClasses += "<ul><li>186. Environmental Remote Sensing</li><li>195. Integrating Environmental Science and Management</li></ul>";
   
-  //UC Merced
-  var irvineClasses = "<h2>Mechanical Engineering</h2>";
-  irvineClasses += "<p>MAE117 Solar and Renewable Energy Systems</p>";
-  irvineClasses += "<p>MAE118 Sustainable Energy Systems</p>";
+  //UC Irvine
+  var irvineClasses = "<h1>University of California, Irvine</h1>";
+  irvineClasses += "<h2>Certificate Programs</h2>";
+  irvineClasses += "<h3>Sustainable Business Management</h3>";
+  irvineClasses += "<h4>Program Objectives</h4>";
+  irvineClasses += "<p>Identify current and future key environmental regulatory compliance legislation that impacts organizational strategy, planning and operations. a broad, systems-thinking approach to affect every value-creation lever responding to government legislation consumer concerns and stakeholder pressure.</p><p>Link competitive advantage and corporate social responsibility to assess strategic opportunities and risks while minimizing potential liability.</p>";
+
+  irvineClasses += "<h4>Who Should Attend</h4>";
+  irvineClasses += "<p>Individuals seeking a career change or positions within the sustainability field, managers, directors, architects, urban planners, landscape architects, designers, business owners, consultants, and all those responsible for going “green.”</p>";
+  irvineClasses += "<h4>COURSES:</h4>";
+  irvineClasses += "<h5>Introduction to Corporate Social Responsibility, Sustainability and Green Business ( 3 units )</h5>";
+  irvineClasses += "<p>Course #   MGMT X430.12</p><p>The explosion of corporate social responsibility into mainstream business decision-making has been fueled by an unprecedented number of recent environmental, financial, legal, social and climate events. </p>";
+  irvineClasses += "<h5>Legal Developments Concerning the Environment and Climate Change</h5>";
+  irvineClasses += "<p>Course #   SOCECOL X416.5</p><p>A general sense of urgency, and the realization that there is little time to waste, has given rise to a host of legislative and regulatory enactments. Review global and federal developments, with particular attention on developments in California.</p>";
+
+  irvineClasses += "<h5>Framework for Strategic Leadership</h5>";
+  irvineClasses += "<p>Course #   SOCECOL X417.21</p><p>The course will also provide an overview of the LEED system for sustainable construction; examine traditional professional and contract liabilities and how these liabilities and associated risks may be expected to play out in the new arena of sustainability.</p>";
+  irvineClasses += "<h5>Green Marketing Principles: Winning Strategies for a New Era</h5>";
+  irvineClasses += "<p>Course #   MGMT X461.63</p><p>Socio-economic, cultural and legislative pressures are creating an inevitable tide towards a future in which companies will be more socially responsible and provide cleaner and more efficient products and services that damage the planet less.</p>";
+  irvineClasses += "<h5>Climate Protection and Environmental Sustainability</h5>";
+  irvineClasses += "<p>Course #   ENGRCEE X468</p><p> In this course you will explore the forces driving sustainability change, the application of sustainable practices, and be guided through an analysis that will help you develop a vision and plan for implementation.</p>";
+  irvineClasses += "<h5>Sustainability Reporting: Drivers, Protocols and Quantitative Methods</h5>";
+  irvineClasses += "<p>Course #   SOCECOL X417.26</p><p>This course introduces students to the typical drivers and stakeholders associated with sustainability programs; some of the available reporting protocols; factors to consider when selecting KPIs and metrics; and how to establish goals and describe performance on a quantitative or qualitative basis.</p>";
+  irvineClasses += "<h5>The Social Component of Sustainability</h5";
+  irvineClasses += "<p>Course #   SOCECOL X417.37</p><p>Identify various social impacts as opportunities for adopting sustainable practices, including life-cycle analyses and community engagement strategies that will inspire your consumer base, adding value beyond direct Return-On-Investment (ROI).</p>";
+
+  irvineClasses += "<hr />";
+
+
+
+  irvineClasses += "<h2>Courses treated as Full Time/Part Time in the field of Engineering.</h2>";
+  irvineClasses += "<h3><a href=\"http://www.editor.uci.edu/catalogue/engr/engr.11.htm\" name=\"Mechanical Engineering\">Mechanical Engineering:</a></h3>";
+  irvineClasses += "<ul><li>MAE117 Solar and Renewable Energy Systems</li><li>MAE118 Sustainable Energy Systems</li><li>MAE170 Introduction to Control Systems</li><li>MAE183 Computer-Aided Mechanism Design</li><li>MAE218 Sustainable Energy Systems</li><li>MAE249 Micro-Sensors and Actuators</li></ul>";
+
+  irvineClasses += "<h3><a href=\"http://www.editor.uci.edu/catalogue/engr/engr.9.htm\" name=\"Electrical Engineering\">Electrical Engineering:</a></h3>";
+
+  irvineClasses += "<ul><li>EECS116 Introduction to Data Management</li><li>EECS141A,B Communication Systems</li><li>EECS148 Introduction to Computer Networks</li><li>EECS160A Introduction to Control Systems</li><li>EECS160LA Control Systems I Laboratory</li><li>EECS160B Sampled-Data and Digital Control Systems</li><li>EECS163 Power Systems</li><li>EECS163L Power Systems Laboratory</li><li>EECS166A Industrial and Power Electronics</li><li>EECS166B Advanced Topics in Industrial and Power Electronics</li><li>EECS179 Microelectromechanical Systems (MEMS)</li><li>EECS241A Digital Communications</li><li>EECS244 Wireless Communications</li><li>EECS248A Internet</li><li>EECS267A,B Industrial and Power Electronics</li><li>EECS279 Micro-Sensors and Actuators</li></ul>";
+
+  irvineClasses += "<h3><a href=\"http://www.editor.uci.edu/catalogue/ics/ics.3.htm#courses\" name=\"Computer Science\">Computer Science:</a></h3>";
+
+  irvineClasses += "<ul><li>122A Introduction to Data Management</li><li>122B Project in Databases and Web Applications</li><li>125 Next Generation Search Systems</li><li>132 Computer Networks</li><li>134 Computer and Network Security</li><li>137 Internet Applications Engineering</li><li>167 Introduction to Applied Cryptography</li><li>168 Network Optimization</li><li>201 Foundations of Cryptographic Protocols</li><li>202 Applied Cryptography</li><li>203 Network and Distributed Systems Security</li><li>221 Information Retrieval, Filtering, and Classification</li><li>222 Principles of Data Management</li><li>
+223 Transaction Processing and Distributed Data Management</li><li>224 Advanced Topics in Data Management</li><li>235 Internet Technology</li><li>236 Wireless and Mobile Networking</li></ul>";
+
+irvineClasses += "<h3><a href=\"http://www.editor.uci.edu/catalogue/ics/ics.3.htm#courses\" name=\"Other Engineering\">Others:</a></h3>";
+
+irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Management</li></ul>";
   
   //UCLA
   var uclaClasses = "<h2>Mechanical Engineering</h2>";
