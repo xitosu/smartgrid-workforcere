@@ -222,8 +222,7 @@ function addClasses()
 
   irvineClasses += "<h3><a href=\"http://www.editor.uci.edu/catalogue/ics/ics.3.htm#courses\" name=\"Computer Science\">Computer Science:</a></h3>";
 
-  irvineClasses += "<ul><li>122A Introduction to Data Management</li><li>122B Project in Databases and Web Applications</li><li>125 Next Generation Search Systems</li><li>132 Computer Networks</li><li>134 Computer and Network Security</li><li>137 Internet Applications Engineering</li><li>167 Introduction to Applied Cryptography</li><li>168 Network Optimization</li><li>201 Foundations of Cryptographic Protocols</li><li>202 Applied Cryptography</li><li>203 Network and Distributed Systems Security</li><li>221 Information Retrieval, Filtering, and Classification</li><li>222 Principles of Data Management</li><li>
-223 Transaction Processing and Distributed Data Management</li><li>224 Advanced Topics in Data Management</li><li>235 Internet Technology</li><li>236 Wireless and Mobile Networking</li></ul>";
+  irvineClasses += "<ul><li>122A Introduction to Data Management</li><li>122B Project in Databases and Web Applications</li><li>125 Next Generation Search Systems</li><li>132 Computer Networks</li><li>134 Computer and Network Security</li><li>137 Internet Applications Engineering</li><li>167 Introduction to Applied Cryptography</li><li>168 Network Optimization</li><li>201 Foundations of Cryptographic Protocols</li><li>202 Applied Cryptography</li><li>203 Network and Distributed Systems Security</li><li>221 Information Retrieval, Filtering, and Classification</li><li>222 Principles of Data Management</li><li>223 Transaction Processing and Distributed Data Management</li><li>224 Advanced Topics in Data Management</li><li>235 Internet Technology</li><li>236 Wireless and Mobile Networking</li></ul>";
 
 irvineClasses += "<h3><a href=\"http://www.editor.uci.edu/catalogue/ics/ics.3.htm#courses\" name=\"Other Engineering\">Others:</a></h3>";
 
@@ -259,11 +258,10 @@ function addClasses2()
   
   var valu = selecter.options[selecter.selectedIndex].id;
   
-  if (valu == "berk") {result.innerHTML = "<input type=\"submit\" value=\"Continue\" name=\"Continue_berk\" action=\"submit\" /> <input type=\"hidden\" id=\"berk\" name=\"berk\" value=\"berk\" />";
-  }
-  if (valu == "davis") { result.innerHTML = = "<input type=\"submit\" value=\"Continue\" name=\"Continue_davis\" action=\"submit\" /> <input type=\"hidden\" id=\"davis\" name=\"davis\" value=\"davis\" />"; }
-  if (valu == "irvine") { result.innerHTML = = "<input type=\"submit\" value=\"Continue\" name=\"Continue_irvine\" action=\"submit\" /> <input type=\"hidden\" id=\"irvine\" name=\"irvine\" value=\"irvine\" />"; }
-  if (valu == "ucla") { result.innerHTML = = "<input type=\"submit\" value=\"Continue\" name=\"Continue_ucla\" action=\"submit\" /> <input type=\"hidden\" id=\"ucla\" name=\"ucla\" value=\"ucla\" />"; }
+  if (valu == "berk") {result.innerHTML = "<input type=\"submit\" value=\"Continue\" name=\"Continue_berk\" action=\"submit\" /> <input type=\"hidden\" id=\"berk\" name=\"berk\" value=\"berk\" />"; }
+  if (valu == "davis") { result.innerHTML = "<input type=\"submit\" value=\"Continue\" name=\"Continue_davis\" action=\"submit\" /> <input type=\"hidden\" id=\"davis\" name=\"davis\" value=\"davis\" />"; }
+  if (valu == "irvine") { result.innerHTML = "<input type=\"submit\" value=\"Continue\" name=\"Continue_irvine\" action=\"submit\" /> <input type=\"hidden\" id=\"irvine\" name=\"irvine\" value=\"irvine\" />"; }
+  if (valu == "ucla") { result.innerHTML = "<input type=\"submit\" value=\"Continue\" name=\"Continue_ucla\" action=\"submit\" /> <input type=\"hidden\" id=\"ucla\" name=\"ucla\" value=\"ucla\" />"; }
 
   //if (valu == "davis") {result.innerHTML = davisClasses;}
   //if (valu == "irvine") {result.innerHTML = irvineClasses;}
