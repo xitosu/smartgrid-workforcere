@@ -261,8 +261,14 @@ function addClasses2()
   
   if (valu == "berk") {result.innerHTML = "<input type=\"submit\" value=\"Continue\" name=\"Continue_berk\" action=\"submit\" /> <input type=\"hidden\" id=\"berk\" name=\"berk\" value=\"berk\" />";
   }
-  if (valu == "davis") {result.innerHTML = davisClasses;}
-  if (valu == "irvine") {result.innerHTML = irvineClasses;}
-  if (valu == "ucla") {result.innerHTML = uclaClasses;}
+  if (valu == "davis") { result.innerHTML = = "<input type=\"submit\" value=\"Continue\" name=\"Continue_davis\" action=\"submit\" /> <input type=\"hidden\" id=\"davis\" name=\"davis\" value=\"davis\" />"; }
+  if (valu == "irvine") { result.innerHTML = = "<input type=\"submit\" value=\"Continue\" name=\"Continue_irvine\" action=\"submit\" /> <input type=\"hidden\" id=\"irvine\" name=\"irvine\" value=\"irvine\" />"; }
+  if (valu == "ucla") { result.innerHTML = = "<input type=\"submit\" value=\"Continue\" name=\"Continue_ucla\" action=\"submit\" /> <input type=\"hidden\" id=\"ucla\" name=\"ucla\" value=\"ucla\" />"; }
+
+  //if (valu == "davis") {result.innerHTML = davisClasses;}
+  //if (valu == "irvine") {result.innerHTML = irvineClasses;}
+  //if (valu == "ucla") {result.innerHTML = uclaClasses;}
   
+  //eventually, re-work to use objects and use the following
+  //result.innerHTML = selecter.options[selecter.selectedIndex].classes
 }
