@@ -233,6 +233,32 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   uclaClasses += "<p>133AL. Power Conversion Thermodynamics Laboratory</p>";
   uclaClasses += "<p>136. Energy and Environment</p>";
   
+  //chabot college
+  //Chabot College
+	var chabot = "";
+	chabot += "<h1>Chabot College</h1>";
+	chabot += "<p>P: (510) 723-6700 (Office of Admissions and Records)</p><p>E-mail: ccarcom@iserver.clpccd.cc.ca.us (Office of Admissions and Records)</p><p>College Catalog - 	http://www.chabotcollege.edu/academics/schedule/pdfs/Spring2012Schedule.pdf</p><p>Website – http://www.chabotcollege.edu/</p>";
+	
+	chabot += "<h2><a href=\"http://www.chabotcollege.edu/csci/\" name=\"Comp Sci Associate in Art\">Computer Science Associate in Art/Science Degrees</a></h2>";
+	chabot += "<p>The Chabot Computer Science Department offers a broad curriculum including both academic and vocational programs. Our academic curriculum is designed primarily to prepare students for transfer to a four year college in Computer Science, Engineering or a related field. Vocational programs include certificates and degrees that provide marketable and up-to-date technical skills. A number of our courses are offered at night or in web-based format to accommodate students with geographic or scheduling constraints.</p>";
+	chabot += "<h3>CSCI 8 Computer Literacy</h3>";
+	chabot += "<p>(page 31 of course catalog)</p><p>Intro to computers including: Microsoft Windows, Microsoft Office, multimedia, using browsers and World Wide Web, types of computer software in use including programming languages, electronic mail, computer-based careers and trends, and other computing issues.</p>";
+	chabot += "<h2><a href=\"http://www.chabotcollege.edu/degreescertificates/electronicsystemstechnology.cfm\" name=\"Electronic Systems Technology Associate in Science Degree\">Electronic Systems Technology Associate in Science Degree</a></h2>";
+	chabot += "<p>Chabot offers three programs in Electronic Systems Technology: Certificate in Consumer Technology, Certificate in Industrial Electronic Technology, and AS degree in Electronic Systems Technology. This degree prepares you for entry-level positions in a wide range of industries that use electronics technician skills, including biotechnology, manufacturing, entertainment, automotive and consumer products. Electronic Systems Technology is a key enabler of all of these contemporary industries.</p>";
+	chabot += "<h3>EST 58 Digital Logic Systems</h3>"; 
+	chabot += "<p>(page 35 of course catalog)</p><p>Architecture, programming, application and troubleshooting of complex programmable logic device (CPLD) electronic systems. Includes programming in VHDL. Digital building blocks, number systems, Boolean algebra, combinational and sequential logic, integrated logic families, digital circuit measurement techniques and instrumentation, troubleshooting techniques.</p>";
+	chabot += "<h2><a href=\"http://www.chabotcollege.edu/degreescertificates/engineering.cfm\" name=\"Engineering Associate in Science Degree\">Engineering Associate in Science Degree</a></h2>";
+	chabot += "<p>The Associate in Science degree is designed to provide the foundation for subsequent transfer to a CSU or UC Engineering program. The core courses fulfill most of the lower division requirements for the majority of CSU and UC engineering majors. The Associate in Science degree, as well as putting students on the path to transfer, ensures that students develop a strong foundation in engineering, mathematics, and the sciences.</p>";
+	chabot += "<h3>Engineering 45 Materials of Engineering</h3>";
+	chabot += "<p>(page 36 of course catalog).</p><p>Application of principles of chemistry and physics to the properties of engineering materials. The relation of microstructure to mechanical, electrical, thermal and optical properties of metals. Solid material phase equilibria and transformations. The physical, chemical, mechanical and optical properties of ceramics, composites, and 	polymers. Operation and use of materials characterization instruments and methods.</p>";
+	chabot += "<h2><a href=\"http://www.chabotcollege.edu/degreescertificates/consumertechnology.cfm\" name=\"Consumer Technology Certificate\">Consumer Technology Certificate</a></h2>";
+	chabot += "<h3>EST 55A Microcontroller Systems</h3>"
+	chabot += "<p>(page 118 of college catalog)</p><p>Architecture, programming, application and troubleshooting of single-chip microcontroller electronic systems. Digital building blocks, number systems, programming in high-level and assembly language. Interfacing the microcontroller for practical applications, measurement techniques and instrumentation, troubleshooting techniques.</p>";
+	chabot += "<h3>EST 55B Digital Logic Systems</h3>";
+	chabot += "<p>(page 118 of college catalog)</p><p>Architecture, programming, application and troubleshooting of complex programmable logic device (CPLD) electronic systems. Includes programming in VHDL. Digital building blocks, number systems, Boolean algebra, combinational and sequential logic, integrated logic families, digital circuit measurement techniques and instrumentation, troubleshooting techniques.</p>";
+	chabot += "<h3>EST 58 Wireless Communication Systems</h3>";
+	chabot += "<p>(page 119 of college catalog)</p><p>Introduction to wireless communications concepts and data communications, including modulation techniques, antenna and wave propagation. Digital data communication fundamentals and digital modulation techniques. Fiber optic and laser technology.</p>";
+  
   //get the value
   var valu = selecter.options[selecter.selectedIndex].id;
   
@@ -240,6 +266,7 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   if (valu == "davis") {result.innerHTML = davisClasses;}
   if (valu == "irvine") {result.innerHTML = irvineClasses;}
   if (valu == "ucla") {result.innerHTML = uclaClasses;}
+  if (valu =="chabot") {result.innerHTML = chabot;}
 }
 
 /********************************************************************
