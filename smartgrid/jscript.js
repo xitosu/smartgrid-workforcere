@@ -192,21 +192,21 @@ function addClasses()
   irvineClasses += "<h4>Who Should Attend</h4>";
   irvineClasses += "<p>Individuals seeking a career change or positions within the sustainability field, managers, directors, architects, urban planners, landscape architects, designers, business owners, consultants, and all those responsible for going “green.”</p>";
   irvineClasses += "<h4>COURSES:</h4>";
-  irvineClasses += "<h5>Introduction to Corporate Social Responsibility, Sustainability and Green Business ( 3 units )</h5>";
-  irvineClasses += "<p>Course #   MGMT X430.12</p><p>The explosion of corporate social responsibility into mainstream business decision-making has been fueled by an unprecedented number of recent environmental, financial, legal, social and climate events. </p>";
-  irvineClasses += "<h5>Legal Developments Concerning the Environment and Climate Change</h5>";
-  irvineClasses += "<p>Course #   SOCECOL X416.5</p><p>A general sense of urgency, and the realization that there is little time to waste, has given rise to a host of legislative and regulatory enactments. Review global and federal developments, with particular attention on developments in California.</p>";
+  irvineClasses += "<h5>Introduction to Corporate Social Responsibility, Sustainability and Green Business ( 3 units ): Course #   MGMT X430.12</h5>";
+  irvineClasses += "<p>The explosion of corporate social responsibility into mainstream business decision-making has been fueled by an unprecedented number of recent environmental, financial, legal, social and climate events. </p>";
+  irvineClasses += "<h5>Legal Developments Concerning the Environment and Climate Change: Course #   SOCECOL X416.5</h5>";
+  irvineClasses += "<p>A general sense of urgency, and the realization that there is little time to waste, has given rise to a host of legislative and regulatory enactments. Review global and federal developments, with particular attention on developments in California.</p>";
 
-  irvineClasses += "<h5>Framework for Strategic Leadership</h5>";
-  irvineClasses += "<p>Course #   SOCECOL X417.21</p><p>The course will also provide an overview of the LEED system for sustainable construction; examine traditional professional and contract liabilities and how these liabilities and associated risks may be expected to play out in the new arena of sustainability.</p>";
-  irvineClasses += "<h5>Green Marketing Principles: Winning Strategies for a New Era</h5>";
-  irvineClasses += "<p>Course #   MGMT X461.63</p><p>Socio-economic, cultural and legislative pressures are creating an inevitable tide towards a future in which companies will be more socially responsible and provide cleaner and more efficient products and services that damage the planet less.</p>";
-  irvineClasses += "<h5>Climate Protection and Environmental Sustainability</h5>";
-  irvineClasses += "<p>Course #   ENGRCEE X468</p><p> In this course you will explore the forces driving sustainability change, the application of sustainable practices, and be guided through an analysis that will help you develop a vision and plan for implementation.</p>";
-  irvineClasses += "<h5>Sustainability Reporting: Drivers, Protocols and Quantitative Methods</h5>";
-  irvineClasses += "<p>Course #   SOCECOL X417.26</p><p>This course introduces students to the typical drivers and stakeholders associated with sustainability programs; some of the available reporting protocols; factors to consider when selecting KPIs and metrics; and how to establish goals and describe performance on a quantitative or qualitative basis.</p>";
-  irvineClasses += "<h5>The Social Component of Sustainability</h5";
-  irvineClasses += "<p>Course #   SOCECOL X417.37</p><p>Identify various social impacts as opportunities for adopting sustainable practices, including life-cycle analyses and community engagement strategies that will inspire your consumer base, adding value beyond direct Return-On-Investment (ROI).</p>";
+  irvineClasses += "<h5>Framework for Strategic Leadership: Course #   SOCECOL X417.21</h5>";
+  irvineClasses += "<p>The course will also provide an overview of the LEED system for sustainable construction; examine traditional professional and contract liabilities and how these liabilities and associated risks may be expected to play out in the new arena of sustainability.</p>";
+  irvineClasses += "<h5>Green Marketing Principles: Winning Strategies for a New Era: Course #   MGMT X461.63</h5>";
+  irvineClasses += "<p>Socio-economic, cultural and legislative pressures are creating an inevitable tide towards a future in which companies will be more socially responsible and provide cleaner and more efficient products and services that damage the planet less.</p>";
+  irvineClasses += "<h5>Climate Protection and Environmental Sustainability: Course #   ENGRCEE X468</h5>";
+  irvineClasses += "<p> In this course you will explore the forces driving sustainability change, the application of sustainable practices, and be guided through an analysis that will help you develop a vision and plan for implementation.</p>";
+  irvineClasses += "<h5>Sustainability Reporting: Drivers, Protocols and Quantitative Methods: Course #   SOCECOL X417.26</h5>";
+  irvineClasses += "<p>This course introduces students to the typical drivers and stakeholders associated with sustainability programs; some of the available reporting protocols; factors to consider when selecting KPIs and metrics; and how to establish goals and describe performance on a quantitative or qualitative basis.</p>";
+  irvineClasses += "<h5>The Social Component of Sustainability: Course #   SOCECOL X417.37</h5";
+  irvineClasses += "<p>Identify various social impacts as opportunities for adopting sustainable practices, including life-cycle analyses and community engagement strategies that will inspire your consumer base, adding value beyond direct Return-On-Investment (ROI).</p>";
 
   irvineClasses += "<hr />";
 
