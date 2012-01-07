@@ -315,6 +315,7 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   siskiyous += "<br>E-mail: registration@siskiyous.edu";
   siskiyous += "<br>College Catalog - 	http://www.siskiyous.edu/catalog/catalog0911.pdf";
   siskiyous += "<br>Website – <a href=\"http://www.siskiyous.edu\">http://www.siskiyous.edu</a>";
+  siskiyous += "";
   siskiyous += "<h3>Certificate Programs</h3>";
   siskiyous += "<h4>Environmental Resources Certificate and Associate Degree Program</h4>";
   siskiyous += "<p>The Environmental Resources program provides students with education, hands-on training, and exploration of the relationships between people and natural systems for sustainable jobs, careers, and communities. The program is a unique collaboration of three distinct yet closely interrelated programs. Associate of Science Degrees and certificates are available in Natural Resources, Power Generation Technology, and Sustainable Communities.";
@@ -351,7 +352,87 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   siskiyous += "<p>The Associate of Science Degree in Engineering provides the student the opportunity to complete all the lower division courses required for transfer to a university to pursue a degree in Engineering. The core courses provide the technical knowledge and skills needed for students to complete their upper division engineering course work at the university. Students will be building upon their high school mathematics and physical science background.";
   siskiyous += "<br>    - ENGR  17 Intro to Circuit Analysis ";
   siskiyous += "<br>    - ENGR 2035 Mechanics for Engineers – Statics";
-
+  
+  //Feather River College
+  var feather = "";
+  feather += "";
+  feather += "<h1>Feather River College</h1>";
+  feather += "<p>Phone: 530-283-0202";
+  feather += "<br>E-mail: jorloff@frc.edu";
+  feather += "<br>College Catalog - 	<a href=\"http://www.frc.edu/admissionsandrecords/documents/catalog.pdf\">http://www.frc.edu/admissionsandrecords/documents/catalog.pdf</a>";
+  feather += "<br>Website – <a href=\"www.frc.edu/index.cfm\">www.frc.edu/index.cfm</a>";
+  feather += "";
+  feather += "<h3>Certificate Programs</h3>";
+  feather += "<p>No related Engineering Certificates / Programs offered.";
+  
+  //Las Positas College
+  var positas = "";
+  positas += "";
+  positas += "<h1>Las Positas College</h1>";
+  positas += "<p>Phone: 925-424-1000";
+  positas += "<br>E-mail: lpcarcom@laspositascollege.edu ";
+  positas += "<br>College Catalog - 	<a href=\"http://www.laspositascollege.edu/students/documents/2010Catalog.pdf\">http://www.laspositascollege.edu/students/documents/2010Catalog.pdf</a>";
+  positas += "<br>Website – <a href=\"www.laspositascollege.edu/\">www.laspositascollege.edu/</a>";
+  positas += "";
+  positas += "<h3>Certificate Programs</h3>";
+  positas += "<h4>Computer Science Degree</h4>";
+  positas += "<p>This degree prepares students for transfer to four-year institutions for continued study in computer science. The program outlined fulfills typical lower-division requirements at four-year transfer institutions.";
+  positas += "<br>    - CS 37 Web Programming ";
+  positas += "<br>    - CS 39 Java Servlets and JSP ";
+  positas += "<br>    - CS 44 Advanced Web Programming ";
+  positas += "<br>    - CS 45 Database Programming ";
+  positas += "";
+  positas += "<h4>Computer Information Systems Program - Computer Applications Software (Microcomputers) Certificate </h4>";
+  positas += "<p>This program introduces microcomputer applications, focusing on the most widely used 	applications of word processing, spreadsheets and databases. This certificate prepares students 	for employment in many entry-level positions using business software.";
+  positas += "<br>    - CIS 59A Web Development: HTML/XHTML ";
+  positas += "<br>    - CIS 69 Web Development: Web Design Technologies and Tools";
+  positas += "<br>    - CIS 66 Networking Fundamentals ";
+  positas += "";
+  positas += "<h4>Computer Network Technology</h4>";
+  positas += "<p>The Computer Networking Technology program prepares students for a variety of career opportunities including the networking field. CNT classes prepare students for Cisco CCNA and CCNP certification tests, Microsoft MCSE and MCSA tests, and CompTIA Net+, Security+ and A+ tests. Constantly evolving and modernizing classes include targeted skills training in Emerging Technologies like Wireless, VoIP, VPN, Computer Forensics, Incident Response, Network Security and OS Hardening. Many of these subjects have become basic required knowledge even in other career fields. Students in Business, the Sciences, Arts and Administration of Justice will all need skills in network technologies to excel in their fields. The Certifications for Achievement and Career Certifications provide quick paths to validate training in today’s important tech knowledge areas. The program also includes an AS degree in Network Security Administration. This degree incorporates the latest in Emerging Technologies and skills employers are seeking.";
+  positas += "<br>    - CNT 52 Networking Fundamentals ";
+  positas += "<br>    - CNT 67 Wireless Networks and Security CWNA "; 
+  positas += "<br>    - CNT 69 Network Security Sec+";
+  positas += "";
+  positas += "<h4>Computer Programming Certificate and Associate Degree </h4>";
+  positas += "<p>The curriculum is designed to prepare students for employment as computer programming 	professionals. Programming professionals in this field have a variety of titles, such as 		Programmer, Programmer/Analyst, Business Analyst, Systems Analyst, Computer Scientist, 	Information Technologist, Information Systems Professional, Information Technology 	Professional, Programming Professional, Software Developer, or Software Engineer.";
+  positas += "<br>    - CS 20 Adv Prog w/Data Structures/C++  ";
+  positas += "";
+  positas += "<h4>Computer Programming for the Web Associate Degree </h4>";
+  positas += "<p>The curriculum is designed to prepare students for employment as computer programming professionals in the web. Programming professionals in this field have a variety of titles, such as Webmaster, Programmer, Programmer/Analyst, Business Analyst, Systems Analyst, Computer Scientist, Information Technologist, Information Systems Professional, Information Technology Professional, Programming Professional, Software Developer, or Software Engineer.";
+  positas += "<br>    - CS 4951	C# Programming  ";
+  positas += "";
+  positas += "<h4>Electronics Technology Certificate and Associate Degree </h4>";
+  positas += "<p>The Electronics programs are designed to prepare students for a variety of career opportunities in the fields of electronics, computers, and related technologies. Students may prepare for direct job entry as technicians in computer sales, installation and repair.The Electronics Telecommunications Systems AS and Certificate programs prepare students for entry-level employment as technicians in the Electronics Communications (Telecommunications) fields.";
+  positas += "<br>    - ELEC 56B Radio Communications II ";
+  positas += "<br>    - ELEC 9901 Computer Assembly and Usage  ";
+  positas += "<br>    - ELEC 9904 PC Troubleshooting/User Maint  ";
+  positas += "<br>    - ELEC 9925 Networking Fundamentals  "; 
+  positas += "";
+  positas += "<h4>Engineering Transfer Program (Degree Program) </h4>";
+  positas += "<p>This accredited and articulated program provides lower division engineering, mathematics, and science courses to prepare students to transfer to a four year institution to pursue an engineering degree. By completing the equivalent of a two-year lower-division program of courses, engineering students will be able to transfer to virtually any four-year college or university within California, or in other states.";
+  positas += "<br>    - ENGR 44 Intro to Circuit Analysis  ";
+  positas += "";
+  positas += "<h4>Environmental Studies Degree Program </h4>";
+  positas += "<p>The AA Degree program in Environmental Studies is a multi-disciplinary program which provides students the academic foundation for understanding the scientific and technological basis of energy technology, as well as the political, environmental, and economic factors that underlie the energy policy choices, at both the national and global levels, our students will make throughout their professional careers and also as informed citizens.";
+  positas += "<br>    - EVST 5 ENERGY AND SUSTAINABILITY ";
+  positas += "";
+  
+  //West Hills College Coalinga
+  var westHills = "";
+  westHills += "";
+  westHills += "<h1>West Hills College Coalinga</h1>";
+  westHills += "<p>Phone: 559-934-2000";
+  westHills += "<br>E-mail: None Provided ";
+  westHills += "<br>College Catalog - 	<a href=\"http://www.westhillscollege.com/coalinga/academics/catalog/2009-2011_whcc_academic_catalog.pdf\">http://www.westhillscollege.com/coalinga/academics/catalog/2009-2011_whcc_academic_catalog.pdf</a>";
+  westHills += "<br>Website – <a href=\"www.laspositascollege.edu/\">www.laspositascollege.edu/</a>";
+  westHills += "";
+  westHills += "<h3>Certificate Programs</h3>";
+  westHills += "<h4>Computer Information Systems Associate Degree and Certificate</h4>";
+  westHills += "<p>The Computer Information Systems Program teaches concepts, procedures and terminology, as 	well as the skills and applications necessary to operate computers. ";
+  westHills += "<br>    - CIS 19B Database Creation & Management ";
+  westHills += "";
+  
   //get the value
   var valu = selecter.options[selecter.selectedIndex].id;
   
@@ -362,6 +443,9 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   if (valu =="chabot") {result.innerHTML = chabot;}
   if (valu == "deanza") {result.innerHTML = deanza;}
   if (valu =="siskiyous") {result.innerHTML = siskiyous;}
+  if (valu =="feather") {result.innerHTML = feather;}
+  if (valu =="positas") {result.innerHTML = positas;}
+  if (valu =="westHills") {result.innerHTML = westHills;}
 }
 
 /********************************************************************

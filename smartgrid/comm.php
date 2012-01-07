@@ -26,6 +26,9 @@ function ucContent(){
 	$html .= "			<option name=\"chabot\" id=\"chabot\">Chabot College</option>\n";
 	$html .= "			<option name=\"deanza\" id=\"deanza\">De Anza College</option>\n";
 	$html .= "			<option name=\"siskiyous\" id=\"siskiyous\">College of the Siskiyous</option>\n";
+	$html .= "			<option name=\"feather\" id=\"feather\">Feather River College</option>\n";
+	$html .= "			<option name=\"positas \" id=\"positas\">Las Positas College</option>\n";
+	$html .= "			<option name=\"westHills\" id=\"westHills\">West Hills College Coalinga</option>\n";
 	$html .= "		</select>\n";
 	$html .= "	</form>\n";
 		
