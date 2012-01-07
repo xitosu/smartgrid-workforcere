@@ -493,6 +493,81 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   santaRosa += "<br>    - CEST 81 Civil Engineering Design/ Drafting ";
   santaRosa += "";
 
+  //Fresno City College
+  var fresnoCity = "";
+  fresnoCity += "";
+  fresnoCity += "<h1>Fresno City College</h1>";
+  fresnoCity += "<p>Phone: 559-442-4600";
+  fresnoCity += "<br>E-mail: fcc.admissions@fresnocitycollege.edu";
+  fresnoCity += "<br>College Catalog - 	<a href=\"http://www.fresnocitycollege.edu/index.aspx?page=1854\">http://www.fresnocitycollege.edu/index.aspx?page=1854</a>";
+  fresnoCity += "<br>Website – <a href=\"www.fresnocitycollege.edu\">http://www.fresnocitycollege.edu</a>";
+  fresnoCity += "";
+  fresnoCity += "<h3>Certificates / Programs</h3>";
+  fresnoCity += "<h4>Electrical Systems Technology Certificate and Associate </h4>";
+  fresnoCity += "<p>Electrical Systems Technology provides an opportunity for students to prepare for employment in the electronics/electrical industry. Specific occupational preparation is provided in the following program.";
+  fresnoCity += "<br>    - EST 56C Industrial Electronics ";
+  fresnoCity += "<br>    - EST 59 Instrumentation Systems";
+  fresnoCity += "<br>    - EST 58 Programmable Logic Controllers ";
+  fresnoCity += "<br>    - CEST 81 Civil Engineering Design/ Drafting";
+  fresnoCity += "";
+  fresnoCity += "<h4>Information Security Certificate </h4>";
+  fresnoCity += "<p>Designed to meet the training needs for qualified entry-level computer network security professionals. It is also designed to help prepare students for industry standard security certifications like CompTIA Security+, Security Certified Professional (SCP) and others.";
+  fresnoCity += "<br>    - CIT 57 Wireless Networking ";
+  fresnoCity += "<br>    - CIT 58C Network Security Fundamentals ";
+  fresnoCity += "<br>    - CIT 58D Network Defense and Countermeasures  ";
+  fresnoCity += "<br>    - CIT 58E Network Defense and Countermeasures ";
+  fresnoCity += "";
+  fresnoCity += "<h4>Microcomputer Software Specialist Certificate and Associate</h4>";
+  fresnoCity += "<p>Designed for the nontransfer student leading to employment as a microcomputer software specialist or similar computer specialist. Completing the program with the college graduation requirements leads to an AS degree; with the graduation requirements, student is eligible for a certificate of achievement.";
+  fresnoCity += "<br>    - CIT 45 Data Communications  ";
+  fresnoCity += "";
+  fresnoCity += "<h4>Networking/Computer Technician Associate Degree and Certificate</h4>";
+  fresnoCity += "<p>This option is designed to meet the training needs for qualified entry-level microcomputer and networking technicians.";
+  fresnoCity += "<br>    - CIT 40 Computer Operating Systems  ";
+  fresnoCity += "<br>    - CIT 45 Data Communications ";
+  fresnoCity += "<br>    - CIT 50 Fundamentals of Networking ";
+  fresnoCity += "<br>    - EST 61 Networking Essentials ";
+  fresnoCity += "";
+  fresnoCity += "<h4>Wireless Networks Certificate</h4>";
+  fresnoCity += "<p>Training is designed to prepare the student for employment as a networking technician emphasizing Wireless Local Area Networks.";
+  fresnoCity += "<br>    - EST 61 Networking Essentials ";
+  fresnoCity += "";
+  fresnoCity += "<h4>Computer Science Transfer Degree </h4>";
+  fresnoCity += "<br>    - CSCI 30 - PROGRAMMING IN THE PASCAL LANGUAGE";
+  fresnoCity += "";
+  fresnoCity += "<h4>Engineering Transfer Degree </h4>";
+  fresnoCity += "<p>The following curriculum satisfies the lower division requirements of most colleges and universities that offer degrees in engineering. Depending upon the engineering field selected, students may be required to complete additional prerequisite classes. The student is strongly advised to consult with an advisor and compare his/her planned program with that listed in the catalog of the senior institution to which he/she expects to transfer.";
+  fresnoCity += "<br>    - ENGR 4 – Engineering Materials ";
+  fresnoCity += "";
+  fresnoCity += "<h4>Solar Technician </h4>";
+  fresnoCity += "<p>The Fresno City College Training Institute, in partnership with the Applied Technology Division of Fresno City College, is conducting a training program for Solar Technicians. The program is grant funded and free to participants. The next class will begin on February 6, 2012. The training is comprised of 128 hours, inclusive of: electrical fundamentals; solar energy fundamentals; electrical safety; PV modules and components; system sizing; electrical and mechanical design; maintenance and troubleshooting; CPR/First Aid; OSHA construction safety; and job search preparation. ";
+  fresnoCity += "<br>    - Course information unavailable";
+  fresnoCity += "";
+  fresnoCity += "<h4>CISCO CCNA Preparation Certificate</h4>";
+  fresnoCity += "<p>This option is to prepare students for the CISCO Certified Network Associate (CCNA) certification 	test. By completing this option, a student will have basic knowledge of networking hardware, 	including routers.";
+  fresnoCity += "<br>    - EST 61 Networking Fundamentals";
+  fresnoCity += "<br>    - EST 62 Routing Protocols and Concepts";
+  fresnoCity += "<br>    - EST 63 Advanced Routing and Switching";
+  fresnoCity += "<br>    - EST 64 Advanced Networking and Management";
+  fresnoCity += "";
+  fresnoCity += "<h4>CISCO CCNP Preparation</h4>";
+  fresnoCity += "<p>This option is to prepare students for the CISCO Certified Networking Professional (CCNP) 	certification test. By completing this option, a student will have advanced knowledge of 	networking hardware, including routers and switches.";
+  fresnoCity += "<br>    - EST 66 Building Multilayer Switched Networks";
+  fresnoCity += "<br>    - EST 68 Optimizing Converged Networks";
+  fresnoCity += "";
+  fresnoCity += "<h4>Control Systems Certificate</h4>";
+  fresnoCity += "<p>Training in this specialized field is designed to prepare the student for employment as a control 	and instrument technician.";
+  fresnoCity += "<br>    - EST 58 Programmable Logic Controllers";
+  fresnoCity += "<br>    - EST 59 Instrumentation Systems";
+  fresnoCity += "<br>    - EST 63 Advanced Routing and Switching";
+  fresnoCity += "<br>    - EST 64 Advanced Networking and Management";
+  fresnoCity += "";
+  fresnoCity += "<h4>Network Security Certificate</h4>";
+  fresnoCity += "<p>Training is designed to prepare the student for employment as a networking technician 	emphasizing network security.";
+  fresnoCity += "<br>    - EST 61 Networking Fundamentals";
+  fresnoCity += "<br>    - EST 64 Advanced Networking and Management";
+  fresnoCity += "<br>    - EST 269A Fund of Network Security-Firewalls";
+  fresnoCity += "";
   
   //get the value
   var valu = selecter.options[selecter.selectedIndex].id;
@@ -509,6 +584,7 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   if (valu =="westHills") {result.innerHTML = westHills;}
   if (valu =="santaRosa") {result.innerHTML = santaRosa;}
   if (valu =="westValley") {result.innerHTML = westValley;}
+  if (valu =="fresnoCity") {result.innerHTML = fresnoCity;}
 }
 
 /********************************************************************
