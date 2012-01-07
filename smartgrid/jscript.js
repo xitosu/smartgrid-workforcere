@@ -433,6 +433,67 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   westHills += "<br>    - CIS 19B Database Creation & Management ";
   westHills += "";
   
+  //West Valley Community College
+  var westValley = "";
+  westValley += "";
+  westValley += "<h1>West Valley Community College</h1>";
+  westValley += "<p>Phone: 408-867-2200";
+  westValley += "<br>E-mail: askwvc@westvalley.edu ";
+  westValley += "<br>College Catalog - 	<a href=\"http://www.westvalley.edu/documents/catalog/2011-2012_WVC_Catalog.pdf\">http://www.westvalley.edu/documents/catalog/2011-2012_WVC_Catalog.pdf</a>";
+  westValley += "<br>Website – <a href=\"http://www.westvalley.edu/\">http://www.westvalley.edu</a>";
+  westValley += "";
+  westValley += "<h3>Computer Information Systems Program</h3>";
+  westValley += "<h4>Computer Science Option Associate Degree </h4>";
+  westValley += "<p>The Computer and Information Systems Department at West Valley College offers a complete computer curriculum using state-of-the-art computing equipment. Students may choose a Business Applications option or Computer Science option (A.S. Degree or Certificate). The West Valley College counselors will aid in choosing the option that best meets the student's needs. The department's curriculum is grouped into four areas of interest. For those interested in general knowledge about computers and their applications, the Department offers introductory classes. These classes are often required for advanced study in business or other degrees and may be transferred to four-year colleges. A second area of emphasis is Business Applications where the emphasis is on the development of computer information systems within organizations. The third area is Computer Science, focusing on the study of programming languages and computer operations. ";
+  westValley += "<br>    - PHYS 0004A Engineering Physics Mechanics ";
+  westValley += "<br>    - PHYS 0004B Engineering Physics Electricity and Magnetism ";
+  westValley += "<br>    - CIS 015 Software Design ";
+  westValley += "";
+  westValley += "<h4>Computer Science Certificate </h4>";
+  westValley += "<p>After completing a CIS Computer Science Option Certificate, a student will be able to apply basic programming skills in the development of computing applications and operations within the general field of information technology.";
+  westValley += "<br>    - CIS 015 Software Design ";
+  westValley += "";
+  westValley += "<h4>Engineering Associate Degree </h4>";
+  westValley += "<p>Common Lower-Division Requirements: Certain math and physical science courses are common to all engineering programs as follows (check with your counselor regarding the specific four-year transfer school of your choice).";
+  westValley += "<br>    - ENGR 020 Engineering Graphics ";
+  westValley += "<br>    - ENGR 023 Vector Mechanics ";
+  westValley += "";
+  
+  //Santa Rosa Jr College
+  var santaRosa = "";
+  santaRosa += "";
+  santaRosa += "<h1>Santa Rosa Junior College</h1>";
+  santaRosa += "<p>Phone: 707-527-4011";
+  santaRosa += "<br>E-mail: mleahy@santarosa.edu ";
+  santaRosa += "<br>College Catalog - 	<a href=\"http://www.santarosa.edu/schedules/college_catalog/SRJC.CATALOG.2011.2012.pdf\">http://www.santarosa.edu/schedules/college_catalog/SRJC.CATALOG.2011.2012.pdf</a>";
+  santaRosa += "<br>Website – <a href=\"http://www.santarosa.edu\">http://www.santarosa.edu</a>";
+  santaRosa += "";
+  santaRosa += "<h3>Certificates / Programs</h3>";
+  santaRosa += "<h4>Civil Engineering Technology Associate Degree and Certificate</h4>";
+  santaRosa += "<p>The Civil Engineering Technology program prepares students for variety of technical positions in the civil engineering and engineering construction professions. The program recommended course sequence is set up to allow the student to progress through four 	semesters and achieve an Associates Degree or Certificate of Achievement.";
+  santaRosa += "<br>    - CEST 81 Civil Engineering Design/ Drafting";
+  santaRosa += "";
+  santaRosa += "<h4>Computer Science Associate Degree </h4>";
+  santaRosa += "<p>The computer Sciences major will allow students whose planned transfer major is Computer Science to earn an Associate Degree while meeting the typical lower division requirements for a Computer Science degree at a four-year institution.";
+  santaRosa += "<br>    - CS 11 Data Structures and Algorithms ";
+  santaRosa += "";
+  santaRosa += "<h4>Electronic Technology Associate Degree </h4>";
+  santaRosa += "<p>The Electronic Technology major offers students the basic foundation to perform the work of an electronic technician in both traditional engineering environments and service related environments.";
+  santaRosa += "<br>    - ELEC 60B Fundamentals of Electronic Devices  ";
+  santaRosa += "<br>    - ELEC 156 Photovoltaic Systems Design and Installation ";
+  santaRosa += "<br>    - ELEC 157 Advanced Photovoltaic Systems ";
+  santaRosa += "";
+  santaRosa += "<h4>Engineering Associate Degree </h4>";
+  santaRosa += "<p>The Engineering Transfer Program is designed for students seeking to fulfill lower division preparation for junior level transfer to bachelor degree engineering programs at four-year colleges and universities.  Students develop the analysis, teamwork, design, and communication skills necessary to succeed in their upper division work and as an engineer in industry.";
+  santaRosa += "<br>    - ENGR 16 Electric Circuits & Devices   ";
+  santaRosa += "<br>    - ENGR 25 Engineering Graphics and Design";
+  santaRosa += "";
+  santaRosa += "<h4>Civil Engineering Technology Certificate </h4>";
+  santaRosa += "<p>The Civil Engineering Technology program prepares students for variety of technical 	positions in the civil engineering and engineering construction professions";
+  santaRosa += "<br>    - CEST 81 Civil Engineering Design/ Drafting ";
+  santaRosa += "";
+
+  
   //get the value
   var valu = selecter.options[selecter.selectedIndex].id;
   
@@ -446,6 +507,8 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   if (valu =="feather") {result.innerHTML = feather;}
   if (valu =="positas") {result.innerHTML = positas;}
   if (valu =="westHills") {result.innerHTML = westHills;}
+  if (valu =="santaRosa") {result.innerHTML = santaRosa;}
+  if (valu =="westValley") {result.innerHTML = westValley;}
 }
 
 /********************************************************************
