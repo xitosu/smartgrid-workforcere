@@ -232,8 +232,7 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   var uclaClasses = "<h2>Mechanical Engineering</h2>";
   uclaClasses += "<p>133AL. Power Conversion Thermodynamics Laboratory</p>";
   uclaClasses += "<p>136. Energy and Environment</p>";
-  
-  //chabot college
+
   //Chabot College
 	var chabot = "";
 	chabot += "<h1>Chabot College</h1>";
@@ -259,6 +258,54 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
 	chabot += "<h3>EST 58 Wireless Communication Systems</h3>";
 	chabot += "<p>(page 119 of college catalog)</p><p>Introduction to wireless communications concepts and data communications, including modulation techniques, antenna and wave propagation. Digital data communication fundamentals and digital modulation techniques. Fiber optic and laser technology.</p>";
   
+  //College of the Siskiyous
+  var siskiyous = "";
+  siskiyous += "";
+  siskiyous += "<h1>College of the Siskiyous</h1>";
+  siskiyous += "<p>Phone: 530-938-5555";
+  siskiyous += "<br>E-mail: registration@siskiyous.edu";
+  siskiyous += "<br>College Catalog - 	http://www.siskiyous.edu/catalog/catalog0911.pdf";
+  siskiyous += "<br>Website – <a href=\"http://www.siskiyous.edu\">http://www.siskiyous.edu</a>";
+  siskiyous += "<h3>Certificate Programs</h3>";
+  siskiyous += "<h4>Environmental Resources Certificate and Associate Degree Program</h4>";
+  siskiyous += "<p>The Environmental Resources program provides students with education, hands-on training, and exploration of the relationships between people and natural systems for sustainable jobs, careers, and communities. The program is a unique collaboration of three distinct yet closely interrelated programs. Associate of Science Degrees and certificates are available in Natural Resources, Power Generation Technology, and Sustainable Communities.";
+  siskiyous += "<h4>Power Generation Technology Certificate and Associate Degree</h4>";
+  siskiyous += "<p>This program will prepare students for entry level positions in the steam and electrical power generation and distribution industry.  Students will be trained to control, monitor and maintain boilers, turbines, generators, and auxiliary equipment in power-generating plants.";
+  siskiyous += "<br>    - ERPG 62 Electrical Generation and Transmission – course information not provided";
+  siskiyous += "<br>    - ERPG 64 Instrumentation and Control – course information not provided";
+  siskiyous += "";
+  siskiyous += "<h4>Environmental Resources - Sustainable Communities Certificate and Associate Degree </h4>";
+  siskiyous += "<p>The Sustainable Communities program offers a practical, integrated and interdisciplinary examination of the interactions between humans and natural ecosystems with an emphasis on solutions and entrepreneurship. Students will explore a variety of green industries, new trends, entrepreneurial niches and green income opportunities. Through various hands on skills labs, community based internships and service projects students will gain marketable skills and customize their entry points into a green career pathway. ";
+  siskiyous += "<br>    - ERRT 22 Introduction to Surveying ";
+  siskiyous += "<br>    - ERRT 33 Forest Products";
+  siskiyous += "";
+  siskiyous += "<h4>Computer Science PC Network/Hardware/Software Certificate Program </h4>";
+  siskiyous += "<p>This 16-unit certiﬁcate program is intended for individuals interested in building a solid foundation in the design and development of Internet communications. The coursework is appropriate for those exploring a new career as well as for those who want to add Web design to their current skill set.";
+  siskiyous += "<br>    - CSCI 27 Computer Network ";
+  siskiyous += "<br>    - CSCI 33 PC Hardware Certification";
+  siskiyous += "<br>    - CSCI 34 PC Software Certification";
+  siskiyous += "<br>    - CSCI 36 Wireless Communications";
+  siskiyous += "";
+  siskiyous += "<h4>Web Design Certificate </h4>";
+  siskiyous += "<p>College of the Siskiyous is proud of the fact that we are able to offer up-to-date hardware and software which is on a continuous replacement plan.";
+  siskiyous += "<br>    - ART 35 Web Design";
+  siskiyous += "<br>    - CSCI 12 Web Programming";
+  siskiyous += "<br>    - CSCI 28A Web Publishing I";
+  siskiyous += "<br>    - CSCI 28B Web Publishing II";
+  siskiyous += "";
+  siskiyous += "<h4>Computer Science Associate Degree</h4>";
+  siskiyous += "<p>This field of study is designed for students who seeks an associate degree to transfer and major in computer science or who seek employment at the technician level in the science or mathematics fields.";
+  siskiyous += "<br>    - CSCI 4 Visual Basic Programming";
+  siskiyous += "<br>    - CSCI 7 Programming I";
+  siskiyous += "";
+  siskiyous += "<h4>Engineering</h4>";
+  siskiyous += "<p>The Associate of Science Degree in Engineering provides the student the opportunity to complete all the lower division courses required for transfer to a university to pursue a degree in Engineering. The core courses provide the technical knowledge and skills needed for students to complete their upper division engineering course work at the university. Students will be building upon their high school mathematics and physical science background.";
+  siskiyous += "<br>    - ENGR  17 Intro to Circuit Analysis ";
+  siskiyous += "<br>    - ENGR 2035 Mechanics for Engineers – Statics";
+  
+  
+
+  
   //get the value
   var valu = selecter.options[selecter.selectedIndex].id;
   
@@ -267,6 +314,7 @@ irvineClasses += "<ul><li>CEE110 Methods III: Modeling, Economics, and Managemen
   if (valu == "irvine") {result.innerHTML = irvineClasses;}
   if (valu == "ucla") {result.innerHTML = uclaClasses;}
   if (valu =="chabot") {result.innerHTML = chabot;}
+  if (valu =="siskiyous") {result.innerHTML = siskiyous;}
 }
 
 /********************************************************************
