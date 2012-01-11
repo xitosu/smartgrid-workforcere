@@ -31,7 +31,7 @@ function getHeader() {
     $html .= "<body>\n\n";
     //content wrapper and header div for all pages
     $html .="<div class=\"container_16\">\n";
-	$html .="<div class=\"grid_16 header\">&nbsp;</div>";
+	$html .="<div class=\"grid_16 header\"><img src=\"images/banner1.jpg\" alt=\"Plugging into Smart Grid\" /></div>";
 
     //echo the HTML so that it displays
     echo $html;
