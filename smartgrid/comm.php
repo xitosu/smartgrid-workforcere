@@ -1,4 +1,5 @@
 <?
+//I hate github
 include_once "support_functions.php";
 
 //gets the header function (support_functions.php)
