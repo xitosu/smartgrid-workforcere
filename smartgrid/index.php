@@ -13,6 +13,9 @@ getSide();
 //content goes here now
 indexContent();
 
+//get the footer
+getFooter();
+
 function indexContent() {
 	$html = "";
 	$html .= "<div class=\"grid_13 homepage\">\n";

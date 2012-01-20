@@ -121,10 +121,13 @@ function getFooter(){
 	$html = "";
 	$html .= "<!-- Close content. -->\n";
 	$html .= "</div>\n";
+	$html .= "<div class=\"footer\">";
+	$html .= "<p>California Smart Grid Center | 6000 J Street | Sacramento, CA 95819 | (916) 278-6366</p>";
+	$html .= "</div>\n";
 	$html .= "</div> <!-- closes the .wrapper div -->\n";
 	$html .= "</body>\n";
 	$html .= "</html>\n";
-	
+
 	echo $html;
 }
 ?>
