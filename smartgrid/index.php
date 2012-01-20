@@ -16,6 +16,20 @@ indexContent();
 function indexContent() {
 	$html = "";
 	$html .= "<div class=\"grid_13 homepage\">\n";
+	
+	$html .= "<div class=\"grid_3 homelink hsgrad\">\n";
+	$html .="<a href=\"highschoolgrad.php\">Recent High School Graduates</a>";
+	$html .= "</div>\n";
+	$html .= "<div class=\"grid_3 homelink profesals\">\n";
+	$html .="<a href=\"professionals.php\">Recent High School Graduates</a>";
+	$html .= "</div>\n";
+	$html .= "<div class=\"grid_3 homelink hsgrad\">\n";
+	$html .="<a href=\"highschoolgrad.php\">Recent High School Graduates</a>";
+	$html .= "</div>\n";
+	$html .= "<div class=\"grid_3 homelink hsgrad\">\n";
+	$html .="<a href=\"highschoolgrad.php\">Recent High School Graduates</a>";
+	$html .= "</div>\n";
+	
 	$html .="<p>Imagine a world where everything runs off of efficiency.  A world where electricity isn't wasted,
 		where your appliances smartly budget the amount of power that they will need, thus saving not only you, 
 		but your community money and power.</p>\n";

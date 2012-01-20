@@ -159,3 +159,39 @@ h4 {
 	border-bottom: #DFFCD2 3px dotted;
     margin-bottom: 0;
 }
+
+/* styling for pages with special styling */
+
+/* index.php */
+/* filter links */
+
+.homelink {
+	overflow:none;
+	text-indent: -99999px;
+}
+
+/*recent high school graduate */
+.hsgrad a{
+	background-image:url(images/recenthsfront.jpg);
+	display:block;
+	height: 160px;
+	width: 100%;
+	text-decoration:none;
+}
+
+.hsgrad a:hover{
+	background-image:url(images/recenthsfronthover.jpg);
+}
+
+/* Current working professionals */
+.profesals a{
+	background-image:url(images/professionalsfront.jpg);
+	display:block;
+	height: 160px;
+	width: 100%;
+	text-decoration:none;
+}
+
+.profesals a:hover{
+	background-image:url(images/professionalsfronthover.jpg);
+}
