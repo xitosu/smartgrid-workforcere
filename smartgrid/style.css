@@ -4,6 +4,7 @@ html{
 }
 
 body {
+	background-color:#ccc;
 	font-family: Arial, Helvetica, sans-serif;
 	padding: 0;
 	margin: 0;
@@ -48,7 +49,7 @@ ul {
 h1 {
 	font-weight: normal;
 	font-size: 150%;
-	margin-bottom: .5em;
+	margin: .5em 0;
 	padding-bottom: 0;
 }
 
@@ -79,6 +80,16 @@ h4 {
 	margin-bottom: .25em;
 }
 
+.bordering {
+	background: url(images/background.png) repeat-y top center fixed;
+	margin: -20px auto;
+	padding: 20px 0;
+}
+
+.white {
+	background: #fff;	
+}
+
 .wrapper {
 	float: none;
 	margin: 0px auto 0 auto;
@@ -94,7 +105,7 @@ h4 {
 /* for the sidebar */
 
 .sidebar {
-	background-color: #DFFCD2;
+	border-right: 1px solid #eee;
 	margin: 0em auto 0 auto;
 	padding: .5em;
 }
@@ -157,7 +168,21 @@ h4 {
 
 .homepage h1 {
 	border-bottom: #DFFCD2 3px dotted;
-    margin-bottom: 0;
+    margin: .5em 0 0 0;
+}
+
+.homepage {
+	margin: 0;
+	padding: 0;	
+}
+
+/* Footer styling */
+
+.footer {
+	background: url(images/backgroundbottom.png) no-repeat top center;
+	color: #CCC;
+	min-height: 200px;
+	text-align: center;
 }
 
 /* styling for pages with special styling */
@@ -184,14 +209,41 @@ h4 {
 }
 
 /* Current working professionals */
-.profesals a{
-	background-image:url(images/professionalsfront.jpg);
+.vocation a{
+	background-image:url(images/vocational.jpg);
 	display:block;
 	height: 160px;
 	width: 100%;
 	text-decoration:none;
 }
 
-.profesals a:hover{
-	background-image:url(images/professionalsfronthover.jpg);
+.vocation a:hover{
+	background-image:url(images/vocationalhover.jpg);
+}
+
+/* technical training */
+.techt a{
+	background-image:url(images/technicaltraining.jpg);
+	display:block;
+	height: 160px;
+	width: 100%;
+	text-decoration:none;
+}
+
+.techt a:hover{
+	background-image:url(images/technicaltraininghover.jpg);
+}
+
+/* Engineering Students */
+
+.engs a{
+	background-image:url(images/engineeringstudents.jpg);
+	display:block;
+	height: 160px;
+	width: 100%;
+	text-decoration:none;
+}
+
+.engs a:hover{
+	background-image:url(images/engineeringstudentshover.jpg);
 }

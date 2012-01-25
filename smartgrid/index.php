@@ -18,20 +18,29 @@ getFooter();
 
 function indexContent() {
 	$html = "";
-	$html .= "<div class=\"grid_13 homepage\">\n";
+
+	$html .="<div class=\"grid_13\">";
+	$html .="<div>";	
+	$html .="<img src=\"images/welcome.png\" alt=\"welcome\" />";
 	
+	$html .= "<div class=\"homepage\">\n";
+	
+	$html .= "<div class=\"grid_3 homelink vocation\">\n";
+	$html .="<a href=\"vocational.php\">Vocational Training</a>";
+	$html .= "</div>\n";
+	$html .= "<div class=\"grid_3 homelink techt\">\n";
+	$html .="<a href=\"techt.php\">Technical Training</a>";
+	$html .= "</div>\n";
+	$html .= "<div class=\"grid_3 homelink engs\">\n";
+	$html .="<a href=\"engs.php\">Recent Engineering Graduates</a>";
+	$html .= "</div>\n";
 	$html .= "<div class=\"grid_3 homelink hsgrad\">\n";
-	$html .="<a href=\"highschoolgrad.php\">Recent High School Graduates</a>";
+	$html .="<a href=\"highschoolgrads.php\">Recent High School Graduates</a>";
 	$html .= "</div>\n";
-	$html .= "<div class=\"grid_3 homelink profesals\">\n";
-	$html .="<a href=\"professionals.php\">Recent High School Graduates</a>";
-	$html .= "</div>\n";
-	$html .= "<div class=\"grid_3 homelink hsgrad\">\n";
-	$html .="<a href=\"highschoolgrad.php\">Recent High School Graduates</a>";
-	$html .= "</div>\n";
-	$html .= "<div class=\"grid_3 homelink hsgrad\">\n";
-	$html .="<a href=\"highschoolgrad.php\">Recent High School Graduates</a>";
-	$html .= "</div>\n";
+	$html .="<div class=\"clear\"></div></div>";
+	
+	$html .="<br />";
+	$html .="<h1>What Is Smart Grid?</h1>";
 	
 	$html .="<p>Imagine a world where everything runs off of efficiency.  A world where electricity isn't wasted,
 		where your appliances smartly budget the amount of power that they will need, thus saving not only you, 

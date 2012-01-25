@@ -30,7 +30,8 @@ function getHeader() {
     //begin page body
     $html .= "<body>\n\n";
     //content wrapper and header div for all pages
-    $html .="<div class=\"container_16\">\n";
+	$html .="<div class=\"bordering\">\n";
+    $html .="<div class=\"container_16 white\">\n";
 	$html .="<div class=\"grid_16 header\"><img src=\"images/banner1.jpg\" alt=\"Plugging into Smart Grid\" /></div>";
 
     //echo the HTML so that it displays
@@ -61,11 +62,11 @@ function getSide() {
 	$html .= "<li><a href=\"http://www.cpuc.ca.gov/puc/\" target=\"_blank\" title=\"California Public Utilities Commission\">California Public Utilities Commission</a></li>\n";
     $html .= "<li><a href=\"http://greencapitalalliance.org/\" target=\"_blank\" title=\"Green Cap Alliance\">Green Capital Alliance</a></li>\n";
 	$html .="<li><a href=\"http://www.ladwp.com/ladwp/areaHomeIndex.jsp?contentId=LADWP_GREENLA_SCID\" target=\"_blank\" title=\"Los Angeles Department of Water and Power\">Los Angeles Department of Water and Power</a></li>\n";
-	$html .="<li><a href=\"htt://next10.org/next10/publications/green_jobs.html\" target=\"_blank\" title=\"Next10 Many Shades of Green\">Next10 Many Shades of Green</a></li>\n";
+	$html .="<li><a href=\"http://next10.org/next10/publications/green_jobs.html\" target=\"_blank\" title=\"Next10 Many Shades of Green\">Next10 Many Shades of Green</a></li>\n";
 	$html .="<li><a href=\"http://www.onetonline.org/find/green?n=3&g=Go\" target=\"_blank\" title=\"O*Net Green Sector Jobs\">ONet Green Sector Jobs</a></li>\n";
 	$html .="<li><a href=\"http://www.pge.com/smartmeter/\" target=\"_blank\" title=\"PG&E Smart Meter\">PG&amp;E SmartMeter</a></li>\n";
 	$html .= "<li><a href=\"http://seta.net/\" target=\"_blank\" title=\"Sacramento Employment and Training Agency\">Sacramento Employment and Training Agency</a></li>\n";
-	$html .="<li><a href=\http://sdge.com/clean-energy\" target=\"_blank\" title=\"San Diego Gas and Electric\">San Diego Gas and Electric</a></li>\n";
+	$html .="<li><a href=\"http://sdge.com/clean-energy\" target=\"_blank\" title=\"San Diego Gas and Electric\">San Diego Gas and Electric</a></li>\n";
 	$html .= "<li><a href=\"https://www.smud.org/en/residential/customer-service/smart-meters/\" target=\"_blank\" title=\"SMUD Smart Meters\">SMUD Smart Meters</a></li>\n";
 	//$html .="<li>words</li>\n";
     $html .= "</ul>";
@@ -119,12 +120,15 @@ function getNav() {
 
 function getFooter(){
 	$html = "";
-	$html .= "<div class=\"grid_16 footer\">";
-	$html .= "<p>California Smart Grid Center | 6000 J Street | Sacramento, CA 95819 | (916) 278-6366</p>";
-	$html .= "</div>\n";
 	$html .= "<!-- Close content. -->\n";
 	$html .= "</div>\n";
 	$html .= "</div> <!-- closes the .wrapper div -->\n";
+	$html .= "</div> <!-- closes the .bordering div -->\n";
+	$html .= "<div class=\"footer\">";
+	$html .= "<div class=\"container_16\">";
+	$html .= "<div class=\"grid_16\">";
+	$html .= "<p>California Smart Grid Center | 6000 J Street | Sacramento, CA 95819 | (916) 278-6366</p>";
+	$html .= "</div>\n";
 	$html .= "</body>\n";
 	$html .= "</html>\n";
 
