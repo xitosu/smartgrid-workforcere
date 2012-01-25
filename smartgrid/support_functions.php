@@ -75,7 +75,6 @@ function getSide() {
 
     //add $html to document
     echo $html;
-
 }
 
 /*******************************************************************

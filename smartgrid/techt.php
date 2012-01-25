@@ -22,7 +22,7 @@ function indexContent() {
 	$html .="<div class=\"grid_13\">";
 	
 	$html .="<br />";
-	$html .="<h1>Vocational Training</h1>";
+	$html .="<h1>Technical Training</h1>";
 	
 	$html .="<p>In the United States, vocational education varies from state to state. The majority of postsecondary technical and vocational training is provided by proprietary (privately owned) career schools. About 30 percent of all credentials in career training are provided by two-year community colleges, which also offer courses transferable to four-year universities; other programs are offered through military technical training government-operated adult education centers.[1] Several states operate their own institutes of technology which are on an equal accreditational footing with other state universities.</p>\n";
 	

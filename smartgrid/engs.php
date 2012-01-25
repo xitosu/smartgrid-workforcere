@@ -22,7 +22,7 @@ function indexContent() {
 	$html .="<div class=\"grid_13\">";
 	
 	$html .="<br />";
-	$html .="<h1>Vocational Training</h1>";
+	$html .="<h1>Current Engineering Student</h1>";
 	
 	$html .="<p>Engineering is the discipline, art, skill and profession of acquiring and applying scientific, mathematical, economic, social, and practical knowledge, in order to design and build structures, machines, devices, systems, materials and processes.</p>\n";
 	
