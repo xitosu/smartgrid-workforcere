@@ -17,6 +17,7 @@ indexContent();
 getFooter();
 
 function indexContent() {
+//adding a comment
 	$html = "";
 
 	$html .="<div class=\"grid_13\">";
