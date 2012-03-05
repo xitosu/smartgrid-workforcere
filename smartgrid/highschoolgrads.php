@@ -55,13 +55,13 @@ function indexContent() {
 
         $html .="<p>What field are you interested in?</p>";
 
-        $html .="<select name= "interested fields" class = "menu">";
+        $html .="<select name=\"interested fields\" class =\"menu\">";
 
-        $html .="<option value= "Select Field">Select Field</option>";
+        $html .="<option value=\"Select Field\">Select Field</option>";
 
-        $html .="<option value= "Power Engineering">Power Engineering</option>";
+        $html .="<option value=\"Power Engineering\">Power Engineering</option>";
 
-        $html .="<option value= "Electrical Engineering">Electrical Engineering</option> ";
+        $html .="<option value=\"Electrical Engineering\">Electrical Engineering</option> ";
 
         $html .="</select>";
 
@@ -71,15 +71,15 @@ function indexContent() {
 
         $html .="<p>What type of school are you interested in?</p>";
 
-        $html .="<select name= "school">";
+        $html .="<select name=\"school\">";
 
-        $html .="<option value= "Select School">Select School</option>";
+        $html .="<option value=\"Select School\">Select School</option>";
 
-        $html .="<option value= "University of California">University of California</option>";
+        $html .="<option value=\"University of California\">University of California</option>";
 
-        $html .="<option value= "California State University">California State University</option>";
+        $html .="<option value=\"California State University\">California State University</option>";
 
-        $html .="<option value= "California Community College">California Community College</option>";
+        $html .="<option value=\"California Community College\">California Community College</option>";
 
         $html .="</select>";
 
