@@ -35,17 +35,17 @@ function indexContent() {
 
         $html .="<p>What field are you interested in?</p>";
 
-        $html .="<select name="states">";
+        $html .="<select name=\"states\">";
 
-        $html .="<option value="0">Choose a state</option>";
+        $html .="<option value=\"0\">Choose a state</option>";
 
-        $html .="<option value="1">NORTH EAST</option>";
+        $html .="<option value=\"1\">NORTH EAST</option>";
 
-        $html .="<option value="2">MID WEST</option>";
+        $html .="<option value=\"2\">MID WEST</option>";
 
-        $html .="<option value="3">SOUTH</option>";
+        $html .="<option value=\"3\">SOUTH</option>";
 
-        $html .="<option value="4">WEST</option>";
+        $html .="<option value=\"4\">WEST</option>";
 
         $html .="</select>";
 
