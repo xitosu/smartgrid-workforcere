@@ -1,4 +1,4 @@
-// JavaScript Document
+﻿// JavaScript Document
 
 /********************************************************************
 * File Name:   jscript.js
@@ -614,4 +614,29 @@ function addClasses2()
   
   //eventually, re-work to use objects and use the following
   //result.innerHTML = selecter.options[selecter.selectedIndex].classes
+}
+/********************************************************************
+* File Name:   jscript.js
+*
+* Description: Diaplays the names of schools based on the type of 
+               region is been selected
+* 
+* Programmer:  Nikitha Thouta 
+*              nikitha.thouta@gmail.com
+********************************************************************/
+function setOptions(opt) { 
+var select2 = document.myform.select2; 
+select2.options.length = 0; 
+
+if (opt == "0"){
+}
+
+if ((opt == "1") || (opt == 2) || (opt == 3) || (opt == 4)) { 
+select2.options[select2.options.length] = new Option('Select School');
+select2.options[select2.options.length] = new Option('University of California');
+select2.options[select2.options.length] = new Option('California State University'); 
+select2.options[select2.options.length] = new Option('California Community College'); 
+
+}
+
 }
