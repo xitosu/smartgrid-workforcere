@@ -27,9 +27,11 @@ function indexContent() {
 
         $html .="<p>What field are you interested in?</p>";
 
-        $html .="<select name=\"states\">";
+</form name = "myform"> 
 
-        $html .="<option value=\"0\">Choose a state</option>";
+        $html .="<select name=\"select1\">";
+
+        $html .="<option value=\"0\">Select Region</option>";
 
         $html .="<option value=\"1\">NORTH EAST</option>";
 
@@ -38,6 +40,14 @@ function indexContent() {
         $html .="<option value=\"3\">SOUTH</option>";
 
         $html .="<option value=\"4\">WEST</option>";
+
+        $html .="</select>";
+
+        $html .="<p>What type of school are you interested in?</p>";
+
+        $html .="<select name=\"select2\" size=\"1\" style=\"width: 200px\" > ";
+
+        $html .="<option value = \"0\"></option>;
 
         $html .="</select>";
 
@@ -51,20 +61,6 @@ function indexContent() {
         $html .="<option value=\"Power Engineering\">Power Engineering</option>";
 
         $html .="<option value=\"Electrical Engineering\">Electrical Engineering</option> ";
-
-        $html .="</select>";
-
-        $html .="<p>What type of school are you interested in?</p>";
-
-        $html .="<select name=\"school\">";
-
-        $html .="<option value=\"Select School\">Select School</option>";
-
-        $html .="<option value=\"University of California\">University of California</option>";
-
-        $html .="<option value=\"California State University\">California State University</option>";
-
-        $html .="<option value=\"California Community College\">California Community College</option>";
 
         $html .="</select>";
 
