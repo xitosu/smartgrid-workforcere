@@ -1,0 +1,640 @@
+course_number,school_number,course_title,course_description,course_active,course_region,course_type
+110,1,Introduction to Product Development,,1,Northern,Class
+128,1,Computer-Aided Mechanical Design,,1,Northern,Class
+146,1,Energy Conversion Principles,,1,Northern,Class
+C218,1,Introduction to MEMS Design,,1,Northern,Class
+C231A,1,Experiential Advanced Control Design I.,,1,Northern,Class
+C232,1,Advanced Control Systems I.,,1,Northern,Class
+235,1,Design of Microprocessor-Based Mechanical Systems.,,1,Northern,Class
+239,1,Advanced Design and Automation,,1,Northern,Class
+290P,1,New Product Development: Design Theory and Methods,,1,Northern,Class
+290Z,1,"Topics in Control, Modeling and Optimization",,1,Northern,Class
+122,1,Introduction to Communication Networks,,1,Northern,Class
+C128,1,Feedback Control Systems.,,1,Northern,Class
+144,1,"Fundamental Algorithms for Systems Modeling, Analysis, and Optimization",,1,Northern,Class
+192,1,Mechatronic Design Laboratory.,,1,Northern,Class
+219C,1,Computer-Aided Verification,,1,Northern,Class
+C220A,1,Advanced Control Systems I,,1,Northern,Class
+224B,1,Fundamentals of Wireless Communication.,,1,Northern,Class
+249,1,"Embedded System Design: Models, Validation, and Synthesis.",,1,Northern,Class
+287,1,Advanced Robotics.,,1,Northern,Class
+161,1,Computer Security.,,1,Northern,Class
+186,1,Introduction to Database Systems.,,1,Northern,Class
+C191,1,Quantum Information Science and Technology.,,1,Northern,Class
+195,1,Social Implications of Computer Technology.,,1,Northern,Class
+C219D,1, Concurrent Models of Computation.,,1,Northern,Class
+260,1, User-Interfaces to Computer Systems.,,1,Northern,Class
+261,1,Security in Computer Systems.,,1,Northern,Class
+261N,1,Internet and Network Security,,1,Northern,Class
+268,1,Computer Networks.,,1,Northern,Class
+276,1,Cryptography.,,1,Northern,Class
+171,1,Introduction to Design of Human Work Systems and Organizations.,,1,Northern,Class
+253,1,Supply Chain Operation and Management.,,1,Northern,Class
+220,1,"Modeling Energy, Environmental, and Resource Systems.",,1,Northern,Class
+C226,1,Photovoltaic Materials; Modern Technologies in the Context of a Growing Renewable Energy Market.,,1,Northern,Class
+254,1,Electric Power Systems.,,1,Northern,Class
+280,1,Energy Economics.,,1,Northern,Class
+X423,1,Smart Grids: Introduction,"Learn about the new intelligent energy grid that supports the green-energy initiatives of the 21st century. Study real-world value propositions, business perspectives and solution scenarios from business economics and technical practicalities points of view.",1,Northern,Class
+X423.2,1,Smart Grids: Command and Control,"In this survey course, you first review the communication technology for distribution automation of AC energy and then advance into technology trade-off considerations. You build a foundation for understanding the control network.",1,Northern,Class
+X423.1,1,Smart Grids: Energy-Efficient Transmission,learn about the challenges of high-power interconnections and review quality considerations.,1,Northern,Class
+X423.4,1,Smart Grids: Internet of Things,"Taking smart energy grids as a model, you investigate topics such as wireless sensor network issues, the role of middleware, radio frequency identification (RFID) and sensor network technologies and security and privacy issues",1,Northern,Class
+X423.3,1,Smart Grids: Metering and Home Area Networks,"Gain a solid technical foundation for understanding smart meters and home power networking, including Open HAN system requirements, modern wireless sensor networks, home automation and ZigBee Smart Energy",1,Northern,Class
+X423.5 ,1,Smart Grids: Microgrids,"Variety of microgrid topics, including distributed generation, wind, photovoltaics, fuel cells, supervisory control and data acquisition (SCADA) systems, securing smart grids, matching community needs, smart meters and devices.",1,Northern,Class
+ ,1,Introduction to Sustainability Management,"Sustainability in the context of environmental, economic, and social forces that shape emerging policies and management decisions. Investigate the possibility of creating a common set of sustainability principles",1,Northern,Class
+ ,1,Climate Change and Law AB 32: What It Means for You,"Learn requirements set forth in AB 32 and other laws, and gain a solid understanding of related issues.",1,Northern,Class
+x436,1,"Energy for Sustainability: Technology, Planning and Policy","Evaluate policies, regulations, and laws at the local and state level. Learn how energy strategies impact residential and commercial sectors, corporations, and governments. Examine issues in science, technology, policy, law, and business",1,Northern,Class
+x435,1,Energy Use and Climate Change,Examine the threat from the lack of significant incentives to change behavior and shift habits toward sustainable energy consumption in the United States. Study the fundamental impacts from current energy use and the support infrastructure.,1,Northern,Class
+ER24,1,"Freshman Seminar: The science, technology, policy, and politics of California air pollution","California experiences the nation’s worst air quality. Its innovative regulatory program is a model for the nation and the world. This seminar examines current California air pollution issues including health-based air quality standards and the problems of their attainment, the next generation of clean cars, California’s evolving role in addressing global warming, and more. This seminar is an unusual opportunity to explore air pollution and climate change issues with a professor who also led relevant California regulatory programs.",1,Northern,Seminar
+ER102,1,Quantitative aspects of global environment,"Application of basic principles of natural science to the analysis of human influence on environmental conditions and processes at continental to global scale. Topics covered include dimensions of the physical world and of human modifications of it; techniques of estimation and back of the envelope calculation; box models of environmental stocks and flows: equilibrium and feedback; chemical equilibria in the environment; nutrient cycles and their disruptions; acid deposition and its consequences; climate change and its consequences; stratospheric ozone depletion; sources, fate and effects of toxic substances in the global environment; radioactivity and radiation; epidemics; biodiversity and its diminution; carrying capacity and human population growth.",1,Northern,Seminar
+ER180,1,Ecological economics in historical context,"Economists through history have explored economic and environmental interactions, physical limits to growth, what constitutes the good life, and how economic justice can be assured. Yet economists continue to use measures and models that simplify these issues and promote bad outcomes. Ecological economics responds to this tension between the desire for simplicity and the multiple perspectives needed to understand complexity in order to move toward sustainable, fulfilling, just economies",1,Northern,Seminar
+ER190-001,1,California Water,"California, technically a desert on average, provides extremely interesting examples of the politics of water, the social and environmental consequences of water development, and the relationships between water uses and energy. This course provides the historical, legal, environmental, and economic background needed to understand the current social and ecological challenges of providing water for a growing population and major economy, now also made more complex by climate change.",1,Northern,Seminar
+ER190-002,1,Behavior and sustainability (ERG Doctoral Student Facilitated),"The aggregated effects of billions of individual decisions each day have large adverse effects on human and ecosystem health, natural resource stocks, and global climate change. While the causes of environmental degradation are anthropogenic, so too are the solutions. This course examines different perspectives on the motivations of human behavior, drawing on diverse disciplines, including psychology, economics, and sociology. Theories of behavior change and behavioral intervention case studies will inform student efforts to design viable programs that promote improved sustainability through behavior change.",1,Northern,Seminar
+ER C226,1,Photovoltaic materials; modern technologies in the context of a growing renewable energy market,This technical course focuses on the fundamentals of photovoltaic energy conversion with respect to the physical principals of operation and design of efficient semiconductor solar cell devices. This course aims to equip students with the concepts and analytical skills necessary to assess the utility and viability of various modern photovoltaic technologies in the context of a growing global renewable energy market. Also listed as Materials Science and Engineering C226.,1,Northern,Seminar
+ER 273,1,Research methods in social sciences,"This course aims to introduce graduate students to the rich diversity of research methods that social scientists have developed for the empirical aspects of their work. Its primary goal is to encourage critical thinking about the research process: how we ""know,"" how we match research methods to research questions, how we design and conduct our information/data collection, what we assume explicitly and implicitly, and the ethical dilemmas raised by fieldwork-oriented studies. The course will be broad rather than deep; it is a step toward, and not a substitute for, in-depth courses on interviewing or regression analysis or the philosophy of knowledge.",1,Northern,Seminar
+ER 280,1,Energy Economics (Roomshare with ER C180 and EnvEconC180),This course explores input-output and cost benefit analysis applied to energy; exhaustion theory and economics of energy supply; patterns of energy use; trade-offs in energy conservation; the effect of energy policy on supply and demand; projecting future energy and resource supply and use. Prerequisites: Economics 100A or equivalent; basic calculus or linear algebra.,1,Northern,Seminar
+ER C283,1,Information and Communications Technology for Development,"This seminar reviews current literature and debates regarding Information and Communication Technologies and Development (ICTD). This is an interdisciplinary and practice-oriented field that draws on insights from economics, sociology, engineering, computer science, management, public health, etc.",1,Northern,Seminar
+MBA 212,1,Energy and Environmental Markets (Offered through business and engineering),"In the past 30 years, some of the largest industries have transitioned from regulated to market-based paradigms.  Managers in many transportation, information technology, and energy companies have had to devise strategies to cope with changes in economic and environmental regulations and the evolution of new markets and trading platforms.  The energy industries feature a complex mix of regulation and market-driven incentives.  Over the last decade, industries that had previously been viewed as staid and conservative have been rocked by deregulation initiatives, the California electricity crises, the Enron scandal, rising commodity prices, and now the challenge to reduce greenhouse gases.  Drawing on the tools of economics and finance, we study the business and public policy issues that these changes have raised in energy markets. Topics include the development and effect of organized spot, futures, and derivative markets in energy; the political economy of deregulation; climate change, environmental impacts and policies related to energy production and use; privatization of publicly owned energy assets; market power and antitrust; and the transportation and storage of energy commodities. We examine the economic determinants of industry structure and evolution of competition among firms in these industries; investigate successful and unsuccessful strategies for entering new markets and competing in existing markets; and analyze the rationale for and effects of public policies in energy markets.",1,Northern,Seminar
+ER 291-001,1,Science and Regulatory Policy (enrollment limited to ERG students only),"This seminar will examine the use, misuse, and abuse of the scientific process and scientific information in regulatory decisions. Topics covered will include the role and limits of science, use of scientific information in the regulatory process, identifying and controlling improper political interference, and judicial review of science-laden agency decisions. Many examples will be drawn from environmental and natural resource regulation, but the course will range well beyond those topics.",1,Northern,Seminar
+Er 282C,1,Master's project seminar (for ERG students only),"Required of second-year ERG Master's candidates. Topics include the adoption of a research project, research design, presentation of work, statistical analyses. Students will apply the interdisciplinary methods, approaches, and perspectives learned in the core curriculum. Sequence begins fall each year. Credit and grade to be awarded upon completion of the full sequence.",1,Northern,Seminar
+ER 295,1,Colloquium,"Presentations of research in energy issues by faculty, students, and visiting lecturers. Master's degree students required to enroll for three semesters.",1,Northern,Seminar
+ER 286,1,PhD Seminar,,1,Northern,Seminar
+ER 298N,1,Directed group study sustainability in Action: Cal Climate Action Course,This is an interdisciplinary course addressing both theoretical and practical aspects of campus sustainability; students will undertake individual or group projects to address particular sustainability issues on campus. Prerequisites:Graduate standing.,1,Northern,Seminar
+ER 229,1,Individual Research,,1,Northern,Seminar
+ER 301,1,Graduate Student Instructor Practicum,ERG students only - employed as Graduate Student Instructors.  Permission of instructor before enrolling.  This course does not meet the pedagogy requirement for first-time GSIs.  Seehttp://gsi.berkeley.edu/faculty/300courses.html for open courses.,1,Northern,Seminar
+ER 602,1,INDEPENDENT STUDY DOCTORAL STUDENTS,To be used by ERG students only preparing for qualifying exams. ,1,Northern,Seminar
+,2,Sustainability and the Built Environment,"This introduction to the Green Building and Sustainable Design Certificate Program highlights large-scale planned communities, infill sites and individual structures from the U.S. and other nations, as well as how these buildings are serviced and managed.",1,Northern,Class
+,2,"Sustainable Planning, Environmental Site Design and Development","Learn about fundamental sustainability issues and processes as they apply to community planning and site design situations. Discover how to identify key challenges when incorporating sustainability into planning strategies, policies and site design, and examine technical and environmental factors of site design. ",1,Northern,Class
+,2,Sustainable Water Management in Site Design and Development,"Incorporate a sustainable water resources approach into urban development and its related infrastructure at the planning, design and construction stages.",1,Northern,Class
+,2,Green Architecture,"Explore the issues, challenges and opportunities associated with green building and sustainable design. Examine innovative residential, commercial, industrial, mixed-use, and low- and high-density specialty buildings. Evaluate the micro- and macro-economic issues associated with green buildings.",1,Northern,Class
+,2,Green Building Materials and Construction Methods,"Learn to implement green building practices into homes, apartments, business complexes and office buildings. Utilize materials and techniques that promote healthy, durable and environmentally responsible construction. ",1,Northern,Class
+,2,"Energy Sources, End Uses and Impacts",Examine the energy issue from the macro perspective of the built environment to the micro approach of how heat flows throughout a building.,1,Northern,Class
+,2,Green Building Design Studio,Apply what you learned in the Green Building and Sustainable Design or Renewable Energy certificate programs to a real-world example.,1,Northern,Class
+,2,Introduction to Energy Resource Management,"Examine the four major components of energy management--supply, demand, regulation and environment--and the concepts and principles behind successful energy management.",1,Northern,Class
+,2,Energy Resource Management: Supply,"Learn to conduct market assessments and to develop sourcing and procurement strategies. Topics include energy management control systems, natural gas purchasing opportunities in the spot market, thermal energy storage, alternative energy supplies, energy security and energy trading.",1,Northern,Class
+,2,Energy Resource Management: Regulatory,"Learn the difference between regulations and tariffs pertaining to electrical generation, transmission and distribution and those pertaining to gas production, transmission and distribution.",1,Northern,Class
+,2,Energy Resource Management: Demand,"Familiarize yourself with an overview of Leadership in Energy and Environmental Design (LEED). Amp up your knowledge of: the latest lighting technologies and products, project management, fleet operation and maintenance, verification of energy savings, and best practices and benchmarking. ",1,Northern,Class
+,2,Energy Resource Management: Environment,"Explore the range of environmental issues affected by energy use. Gain perspectives on current trends and technologies. Examine the environmental fundamentals--planning, development and implementation--of WAGES (water, air, gas, electricity and steam) and renewable energy systems",1,Northern,Class
+,2,Energy Resource Management: Leadership,Examine the leadership issues involved in managing energy from organizational behavior and change management to project management and communication skills.,1,Northern,Class
+,2,Sustainability and the Built Environment,"Explore sustainability as it relates to the built environment—from the economic, environmental and social-equity perspectives. Learn how researchers and analysts define sustainability, as well as how they measure and track progress. ",1,Northern,Class
+,2,"Energy Sources, End Uses and Impacts","From solar panels and exterior shades to lighting a space and painting a roof white, learn how to analyze energy use as an effective strategy to promote energy conservation in the built environment.",1,Northern,Class
+,2,Green Building Design Studio,Apply what you learned in the Green Building and Sustainable Design or Renewable Energy certificate programs to a real-world example.,1,Northern,Class
+,2,Cogeneration and District Solutions,"Gain an overview of micro-cogeneration and district energy solutions for commercial and district applications. Learn about cogeneration system selection and sizing, preliminary feasibility study approaches, heat to power ratios, computer programs, economic and environmental issues, emerging technologies and regulations.",1,Northern,Class
+,2,Bioenergy Systems Design,"Explore the environmental, economic and social impacts. Learn about emerging bioenergy technologies, legislation and regulations.",1,Northern,Class
+,2,Geothermal Energy Systems Design,Gain the necessary knowledge to understand the promise and limitations of geothermal heat pump installation and direct use applications.,1,Northern,Class
+,2,Small Wind Energy Systems,"Learn to design and install a small wind system for residential and commercial applications. The class will examine: how to measure wind and estimate energy output; small wind system types and components; wind system selection and site criteria; economic issues; public concerns; permitting; installation, safety, operation and maintenance criteria; emerging technologies, legislation and regulations; and case studies. ",1,Northern,Class
+,2,Solar Photovoltaic (PV) Energy Systems Design,"Learn the basics of solar photovoltaic power systems for both residential and commercial use, as well as solar system physics and technology, design and implementation.",1,Northern,Class
+,2,Solar Thermal Energy Systems Design,Learn the fundamentals of designing and installing these power systems for residential and commercial applications and work in teams to design a solar thermal energy system.,1,Northern,Class
+,2,Solar Photovoltaic (PV) Energy Systems: Overview,"Gain useful background information about the solar resources in California and the various federal and state government initiatives to promote solar energy as a mainstream power source, including the latest policies and legislation. Learn about the California Solar Initiative and its future implementation, utility interconnection and net metering issues.",1,Northern,Class
+,2,Solar Thermal Energy Systems: Overview,"Gain practical information about industry trends and state-of-the-art technologies. Learn about the actual market situation and how to grow your skills in consulting, planning and design, economics and marketing.",1,Northern,Class
+,2,Solar Photovoltaic (PV) Energy Systems Design,"Learn the basics of solar photovoltaic power systems for both residential and commercial use, as well as solar system physics and technology, design and implementation.",1,Northern,Class
+,2,Solar Thermal Energy Systems Design,Learn the fundamentals of designing and installing these power systems for residential and commercial applications and work in teams to design a solar thermal energy system.,1,Northern,Class
+,2,Solar Photovoltaic (PV) Energy Systems: Compliance and Code Overview,"Learn about design and installation compliance issues for both residential & commercial solar energy systems in the areas of system sizing, array layout, electrical wiring and utility interconnection.",1,Northern,Class
+152,2,Computer-Aided Mechanism Design,,1,Northern,Class
+154,2,Mechatronics,,1,Northern,Class
+268,2,Wind Power Engineering,,1,Northern,Class
+272,2,Theory and Design of Control Systems,,1,Northern,Class
+274,2,Analysis and Design of Digital Control Systems,,1,Northern,Class
+276,2,Data Acquisition and Analysis,,1,Northern,Class
+132A,2,RF and Microwaves in Wireless Communication,,1,Northern,Class
+132B,2,RF and Microwaves in Wireless Communication,,1,Northern,Class
+132C,2,RF and Microwaves in Wireless Communication,,1,Northern,Class
+151,2,"Instrumentation Interfacing, Signals and Systems",,1,Northern,Class
+158,2,Control System Design Methods,,1,Northern,Class
+172,2,Microcomputer-Based System Design,,1,Northern,Class
+173A,2,Computer Networks,,1,Northern,Class
+173B,2,Design Projects in Communication Networks,,1,Northern,Class
+180A,2,Digital Systems I,,1,Northern,Class
+228,2,Advanced Microwave Circuit and Device Design Techniques,,1,Northern,Class
+252,2,Multivariable Control System Design,,1,Northern,Class
+274,2,"Internet Measurements, Modeling and Analysis",,1,Northern,Class
+153,2,Computer Security,,1,Northern,Class
+155,2,Computer Security for Non-Majors,,1,Northern,Class
+160,2,Introduction to Software Engineering,,1,Northern,Class
+165A,2,Database Systems,,1,Northern,Class
+165B,2,Database Systems,,1,Northern,Class
+166,2,Scientific Data Management,,1,Northern,Class
+222A,2,Design and Analysis of Algorithms,,1,Northern,Class
+227,2,Modern Cryptography,,1,Northern,Class
+228,2,Cryptography for E-Commerce,,1,Northern,Class
+235A,2,Computer and Information Security,,1,Northern,Class
+236,2,Computer Security: Intrusion Detection Based Approach,,1,Northern,Class
+257,2,Mobile and Wireless Networks,,1,Northern,Class
+186,2,Environmental Remote Sensing,,1,Northern,Class
+195,2,Integrating Environmental Science and Management,,1,Northern,Class
+MGMT X430.12,3,"Introduction to Corporate Social Responsibility, Sustainability and Green Business ","The explosion of corporate social responsibility into mainstream business decision-making has been fueled by an unprecedented number of recent environmental, financial, legal, social and climate events.",1,Southern,Class
+SOCECOL X416.5,3,Legal Developments Concerning the Environment and Climate Change,"A general sense of urgency, and the realization that there is little time to waste, has given rise to a host of legislative and regulatory enactments. Review global and federal developments, with particular attention on developments in California.",1,Southern,Class
+SOCECOL X417.21,3,Framework for Strategic Leadership,The course will also provide an overview of the LEED system for sustainable construction; examine traditional professional and contract liabilities and how these liabilities and associated risks may be expected to play out in the new arena of sustainability.,1,Southern,Class
+MGMT X461.63,3,Green Marketing Principles: Winning Strategies for a New Era,"Socio-economic, cultural and legislative pressures are creating an inevitable tide towards a future in which companies will be more socially responsible and provide cleaner and more efficient products and services that damage the planet less. ",1,Southern,Class
+ENGRCEE X468,3,Climate Protection and Environmental Sustainability ," In this course you will explore the forces driving sustainability change, the application of sustainable practices, and be guided through an analysis that will help you develop a vision and plan for implementation.",1,Southern,Class
+SOCECOL X417.26,3,"Sustainability Reporting: Drivers, Protocols and Quantitative Methods",This course introduces students to the typical drivers and stakeholders associated with sustainability programs; some of the available reporting protocols; factors to consider when selecting KPIs and metrics; and how to establish goals and describe performance on a quantitative or qualitative basis.,1,Southern,Class
+SOCECOL X417.37,3,The Social Component of Sustainability,"Identify various social impacts as opportunities for adopting sustainable practices, including life-cycle analyses and community engagement strategies that will inspire your consumer base, adding value beyond direct Return-On-Investment (ROI).",1,Southern,Class
+MAE117,3,Solar and Renewable Energy Systems,,1,Southern,Class
+MAE118,3,Sustainable Energy Systems,,1,Southern,Class
+MAE170,3,Introduction to Control Systems,,1,Southern,Class
+MAE183,3,Computer-Aided Mechanism Design,,1,Southern,Class
+MAE218,3,Sustainable Energy Systems,,1,Southern,Class
+MAE249,3,Micro-Sensors and Actuators,,1,Southern,Class
+EECS116,3,Introduction to Data Management,,1,Southern,Class
+EECS141A,3,Communication Systems,,1,Southern,Class
+EECS141B,3,Communication Systems,,1,Southern,Class
+EECS148 ,3,Introduction to Computer Networks,,1,Southern,Class
+EECS160A,3,Introduction to Control Systems,,1,Southern,Class
+EECS160LA,3,Control Systems I Laboratory,,1,Southern,Class
+EECS160B,3,Sampled-Data and Digital Control Systems,,1,Southern,Class
+EECS163,3,Power Systems,,1,Southern,Class
+EECS163L,3,Power Systems Laboratory,,1,Southern,Class
+EECS166A,3,Industrial and Power Electronics,,1,Southern,Class
+EECS166B,3,Advanced Topics in Industrial and Power Electronics,,1,Southern,Class
+EECS179,3,Microelectromechanical Systems (MEMS),,1,Southern,Class
+EECS241A,3,Digital Communications,,1,Southern,Class
+EECS244,3,Wireless Communications,,1,Southern,Class
+EECS248A,3,Internet,,1,Southern,Class
+EECS267A,3,Industrial and Power Electronics,,1,Southern,Class
+EECS267B,3,Industrial and Power Electronics,,1,Southern,Class
+EECS279 ,3,Micro-Sensors and Actuators,,1,Southern,Class
+122A,3,Introduction to Data Management,,1,Southern,Class
+122B,3,Project in Databases and Web Applications,,1,Southern,Class
+125,3,Next Generation Search Systems,,1,Southern,Class
+132,3,Computer Networks,,1,Southern,Class
+134,3,Computer and Network Security,,1,Southern,Class
+137,3,Internet Applications Engineering,,1,Southern,Class
+167,3,Introduction to Applied Cryptography,,1,Southern,Class
+168,3,Network Optimization,,1,Southern,Class
+201,3,Foundations of Cryptographic Protocols,,1,Southern,Class
+202,3,Applied Cryptography,,1,Southern,Class
+203,3,Network and Distributed Systems Security,,1,Southern,Class
+221,3,"Information Retrieval, Filtering, and Classification",,1,Southern,Class
+222,3,Principles of Data Management,,1,Southern,Class
+223,3,Transaction Processing and Distributed Data Management,,1,Southern,Class
+224,3,Advanced Topics in Data Management,,1,Southern,Class
+235,3,Internet Technology,,1,Southern,Class
+236,3,Wireless and Mobile Networking,,1,Southern,Class
+CEE110,3,"Methods III: Modeling, Economics, and Management",,1,Southern,Class
+ENGNR X 400.8,4,Plumbing Systems I: Code and Engineering Fundamentals (Online),"This course reviews codes and basic engineering principles and graphic presentations related to plumbing systems design, including load calculations, piping design, and equipment selection, based upon the latest issue of several plumbing codes. Plumbing fixtures and piping material selection are also discussed. Topics include a brief plumbing history, plumbing fixtures, sanitary waste and vent, traps, pumps and sewage ejectors, potable hot and cold water, and storm water.",1,Southern,Online
+ENGNR X 400.9,4,Plumbing Systems II: Advanced Engineering Systems,"Students are provided with a comprehensive coverage of the design, calculation, and code requirements of advanced plumbing systems, including storm water systems, pumps and pumping systems, automatic fire sprinkler and standpipe systems, gaseous agent suppression systems, medical gas systems, specialized water treatment systems (such as water softening and deionizing), and fuel oil systems.",1,Southern,Class
+ENGNR X 400.10,4,Plumbing Systems III: Systems Applications,"The course covers the contract document preparation process consisting of plans and specifications, as well as the construction administration process of shop drawings and review of construction work in progress.",1,Southern,Class
+ENGNR X 424.7,4,HVAC Fundamentals,This is a preliminary course in air conditioning design with an emphasis on heat transfer and psychrometrics. The course covers the air conditioning design process and human thermal-comfort requirements. Principles of heat transfer are used to calculate heating and cooling loads of building structures. Actual design problems are discussed and reviewed.,1,Southern,Class
+ENGNR X 424.8,4,HVAC Systems,"This course briefly reviews the Carnot cycle as a refresher for studying the performance of various HVAC systems, including air-cooled, water-cooled, and supermarket systems cooled by a multi-circuited evaporative condenser. Students are introduced to different types of system specifications typically given to contractors. Instruction shows how large HVAC water-cooled, field-assembled systems are designed by selecting a factory-packaged water-cooled chiller and water tower.",1,Southern,Class
+ENGNR X 424.9,4,HVAC Controls,"Fundamentals of HVAC controls and their application to the many elements of heating, ventilating, and air conditioning systems used in commercial buildings. Instruction in control basics, theory, and types of controls provides a background to discussions of pneumatic, electric, electronic, and digital controls.",1,Southern,Class
+ENGNR X 424.10,4,HVAC Equipment,"This course provides comprehensive coverage of HVAC equipment selection. Air conditioning topics include air handling equipment, refrigeration equipment, condensers, chillers, cooling towers, and absorption.",1,Southern,Class
+,4,,,1,Southern,Class
+133AL,4,Power Conversion Thermodynamics Laboratory.,,1,Southern,Class
+136,4,Energy and Environment.,,1,Southern,Class
+171A,4,Introduction to Feedback and Control Systems: Dynamic Systems Control I.,,1,Southern,Class
+171B,4,Digital Control of Physical Systems,,1,Southern,Class
+172,4,Control System Design Laboratory,,1,Southern,Class
+CM180,4,Introduction to Micromachining and Microelectromechanical Systems (MEMS).,,1,Southern,Class
+CM180L,4,Introduction to Micromachining and Microelectromechanical Systems (MEMS) Laboratory.,,1,Southern,Class
+273A,4,Robust Control System Analysis and Design.,,1,Southern,Class
+277,4,Advanced Digital Control for Mechatronic Systems,,1,Southern,Class
+CM280A,4,Introduction to Micromachining and Microelectromechanical Systems (MEMS).,,1,Southern,Class
+284,4,"Sensors, Actuators, and Signal Processing",,1,Southern,Class
+M117,4,Computer Networks: Physical Layer,,1,Southern,Class
+132A,4,Introduction to Communication Systems.,,1,Southern,Class
+132B,4,Data Communications and Telecommunication Networks.,,1,Southern,Class
+141,4,Principles of Feedback Control.,,1,Southern,Class
+150DL,4,Photonic Sensor Design Laboratory,,1,Southern,Class
+162A,4,Wireless Communication Links and Antennas,,1,Southern,Class
+163B,4,Microwave and Millimeter Wave Active Devices,,1,Southern,Class
+164L,4,Microwave Wireless Laboratory,,1,Southern,Class
+M171L,4,Data Communication Systems Laboratory,,1,Southern,Class
+180D,4,Systems Design,,1,Southern,Class
+215C,4,Analysis and Design of RF Circuits and Systems,,1,Southern,Class
+218,4,Network Economics and Game Theory,,1,Southern,Class
+230A,4,Estimation and Detection in Communication and Radar Engineering.,,1,Southern,Class
+230D,4,Signal Processing in Communications,,1,Southern,Class
+232B,4,Telecommunication Switching and Queueing Systems,,1,Southern,Class
+232C,4,Telecommunication Architecture and Networks,,1,Southern,Class
+232D,4,Telecommunication Networks and Multiple-Access Communications,,1,Southern,Class
+233,4,Wireless Communications Systems,,1,Southern,Class
+240B,4,Linear Optimal Control,,1,Southern,Class
+118,4,Computer Network Fundamentals,,1,Southern,Class
+130,4,Software Engineering.,,1,Southern,Class
+136,4,Introduction to Computer Security,,1,Southern,Class
+143,4,Database Systems,,1,Southern,Class
+144,4,Web Applications,,1,Southern,Class
+183,4,Introduction to Cryptography.,,1,Southern,Class
+211,4,Network Protocol and Systems Software Design for Wireless and Mobile Internet,,1,Southern,Class
+214,4,Data Transmission in Computer Communications,,1,Southern,Class
+215,4,Computer Communications and Networks.,,1,Southern,Class
+216,4,Distributed Multiaccess Control in Networks.,,1,Southern,Class
+217A,4,Internet Architecture and Protocols,,1,Southern,Class
+218,4,Advanced Computer Networks,,1,Southern,Class
+233B,4,Verification of Concurrent Programs.,,1,Southern,Class
+234,4,Computer-Aided Verification.,,1,Southern,Class
+236,4,Computer Security.,,1,Southern,Class
+240A,4,Databases and Knowledge Bases,,1,Southern,Class
+240B,4,Advanced Data and Knowledge Bases.,,1,Southern,Class
+241A,4,Object-Oriented and Semantic Database Systems.,,1,Southern,Class
+244A,4,Distributed Database Systems,,1,Southern,Class
+245A,4,Intelligent Information Systems.,,1,Southern,Class
+246,4,Web Information Management.,,1,Southern,Class
+249,4,Current Topics in Data Structures,,1,Southern,Class
+276C,4,Speech and Language Communication in Artificial Intelligence,,1,Southern,Class
+M282A,4,Cryptography,,1,Southern,Class
+M282B,4,Cryptographic Protocols,,1,Southern,Class
+400A,4,Environmental Science and Engineering Problems Course.,,1,Southern,Class
+400B,4,Environmental Science and Engineering Problems Course.,,1,Southern,Class
+400C,4,Environmental Science and Engineering Problems Course.,,1,Southern,Class
+400D,4,Environmental Science and Engineering Problems Course.,,1,Southern,Class
+284C,4,Managing Entrepreneurial Organizations,,1,Southern,Class
+410,4,Operations Technology Management,,1,Southern,Class
+ME 137 ,5,Computer Aided Engineering,,1,Central,Class
+ME 142 ,5,Mechatronics,,1,Central,Class
+MEAM 210 ,5,Linear Control System,,1,Central,Class
+MEAM 211 ,5,non Linear Control,,1,Central,Class
+EECS 250  ,5, Advanced Topics Computer Systems,,1,Central,Class
+EECS 262 ,5,Networking of Embedded Sensor Systems,,1,Central,Class
+EECS 280 ,5,Advanced Topics in Computer Networks and Distributed Systems,,1,Central,Class
+EECS 283 ,5,Advanced Topics in  Intelligent Systems,,1,Central,Class
+CSE 100,5,Algorithm Design and Analysis,,1,Central,Class
+CSE 111,5,Database Systems,,1,Central,Class
+CSE 115,5,Discrete Mathematics,,1,Central,Class
+CSE 120,5,Software Engineering,,1,Central,Class
+CSE 140,5,Computer Architecture,,1,Central,Class
+CSE 150,5,Operating Systems,,1,Central,Class
+CSE 160,5,Computer Networks,,1,Central,Class
+ENVE 121,5,Environmental Microbiology,,1,Central,Class
+ENVE 140,5,Water Resources and Management,,1,Central,Class
+ENVE 152,5,Remote Sensing of the Environment,,1,Central,Class
+ENVE 155,5,Decision Analysis in Management,,1,Central,Class
+ENVE 160,5,Sustainable Energy,,1,Central,Class
+ENVE 162,5,Modeling and Design of Energy Systems,,1,Central,Class
+ENVE 164,5,Energy Policy and Planning,,1,Central,Class
+ENGR X403,6,Energy Management-Principles and Practice,"Examine the latest trends, innovations, and best practices for reducing costs associated with facilities usage.",1,Southern,Class
+ENGR X403.01,6,Energy Resource Management,"Examines major energy resource management issues including demand, supply, utilization, management, monitoring, conservation and planning. Participants learn how to develop successful energy management strategies to eliminate waste, manage usage, control costs and plan for future demand. ",1,Southern,
+ENGR X465.39,6,"Heating, Ventilation and Air Conditioning (HVAC) Systems","Surveys air conditioning, heating and ventilation systems including cost and energy efficiency, load requirements, system design elements and tradeoffs in performance when evaluating various systems. Additional time is devoted to examine new technology and best practices currently being utilized in systems.",1,Southern,
+ENGR X465.4,6,"Heating, Ventilation and Air Conditioning (HVAC): Equipment and Controls","Examines HVAC controls and equipment and their application to the many elements of heating, ventilating, and air conditioning systems. Emphasis is placed on commercial or industrial projects.",1,Southern,
+ENGR X465.19,6,"Heating, Ventilation and Air Conditioning (HVAC): Principles and Practice","Survey the principles and practices to effectively design, implement, and maintain HVAC systems.",1,Southern,
+ENSC 803.13,6,NABCEP Solar Photovoltaic Entry Level Training and Exam,"A training course designed to prepare you to enter the solar field and to take the North American Board of Certified Energy Practitioners (NABCEP) PV Entry Level Exam. Topics include the fundamental principles of the application; design, installation and operation of grid-tied and stand-alone PV Systems; and an understanding of the objectives required by NABCEP.",1,Southern,
+ENSC X460.4,6,Economics of Sustainability,"Understand global sustainability issues and the economic impacts of population, food supply, pollution, forests, and energy in general. ",1,Southern,
+ENGR X402,6,Green Building Design,Green design is not merely an attachment or supplement to architectural design; it is an integrated and multi-disciplinary process that moves development towards a more sustainable model. ,1,Southern,
+ENSC X460.1,6,Public Policy Lecture Series: Sustainability Issues in Southern California,This lecture series explores public policy alternatives for fostering development reform and its potential economic and environmental impacts on communities in southern California.,1,Southern,
+ENSC X460,6,"Sustainable Planning, Design and Development","Both urban and rural planning can benefit from including sustainability as a central criterion when designing roads, streets, buildings, and other components of the built environment. ",1,Southern,
+ENSC X460.5,6,Sustainable Resource Management,"The current concerns about climate change, renewable energy supply, low-carbon economy, and solid resources, with emphasis on the sustainable management of water.",1,Southern,
+ENSC X460.6,6,Trends in Energy Efficiencies and Technologies,,1,Southern,
+ENSC X460.2,6,Green Construction and Building Methods,Life-cycle-based materials selection tools for better decision making in relation to their energy and environmental impacts and benefits.,1,Southern,
+ENSC X401,6,Planning Strategies for Sustainable Food Systems,"Food systems planning strategies for more sustainable and self-reliant communities. You will review each phase within a food system, including production, processing and distribution; consumption and waste; best practices, promoting closed-loop resource recovery systems; and case studies",1,Southern,
+ENSC X427.10,6,Climate Action Planning,"Case law, state regulations and science are driving the development of climate action planning. You will discuss global climate change and the consequences; direct and indirect greenhouse gas emissions; reducing emissions measures; adaptation strategies; ",1,Southern,
+ART X461.64,6,Sustainable Interior Design,"Teaches designers and consumers the fundamental principles and benefits of sustainable interior design. Designed to equip you with a systematic strategy for assessing the degree of sustainability and cost effectiveness of green design products. A thorough exploration of eco-friendly materials, energy saving appliances, and their sources will be covered. ",1,Southern,
+ENSC X460.8,6,Public Health and the Built Environment,"Examine public health issues that are grounded in and addressed by development patterns and urban form. Learn about the ongoing research, and how the relationship between land use and urban form affect personal activity, healthy food availability, air quality, access to health facilities, and safety.",1,Southern,
+ME 004,6,Energy and the Environment,,1,Southern,
+ME 120,6,Linear Systems and Control,,1,Southern,
+ME 121,6,Feedback Control,,1,Southern,
+ME 133,6,Introduction to Mechatronics,,1,Southern,
+ME 270,6,Introduction to Microelectromechanical Systems,,1,Southern,
+EE 115,6,Introduction to Communication System,,1,Southern,
+EE 123,6,Power Electronic,,1,Southern,
+EE 128,6,"Data Acquisition, Instrumentation, and Process Control",,1,Southern,
+EE 132,6,Automatic Control,,1,Southern,
+EE 144,6,Introduction to Robotic,,1,Southern,
+EE 150,6,Digital Communication,,1,Southern,
+EE 151,6,Introduction to Digital Control,,1,Southern,
+EE 160,6,Fiber-Optic Communication System,,1,Southern,
+EE 224,6,Digital Communication Theory and System,,1,Southern,
+EE 226,6,Wireless Communication,,1,Southern,
+EE 235,6,Linear System Theory,,1,Southern,
+EE 237,6,Nonlinear Systems and Control,,1,Southern,
+CS 100,6,Software Construction,,1,Southern,
+CS 120B,6,Introduction to Embedded Systems,,1,Southern,
+CS 122A,6,Intermediate Embedded and Real-Time Systems,,1,Southern,
+CS 122B,6,Advanced Embedded and Real-Time Systems,,1,Southern,
+CS 164. ,6,Computer Networks,,1,Southern,
+CS 165. ,6,Computer Security ,,1,Southern,
+CS 166,6,Database Management Systems,,1,Southern,
+CS 169,6,Mobile Wireless Networks,,1,Southern,
+CS 180,6,Introduction to Software Engineering,,1,Southern,
+CS 204,6,Advanced Computer Networks,,1,Southern,
+CS 206,6,Testing and Verification Techniques in Software Engineering,,1,Southern,
+CS 236,6,Database Management Systems,,1,Southern,
+CS 240,6,Network Routing,,1,Southern,
+CS 241,6,Advanced Topics in Network Measurements and Security,,1,Southern,
+CS 245,6,Software Evolution,,1,Southern,
+CS 246,6,Advanced Verification Techniques in Software Engineering,,1,Southern,
+CS 253,6,Distributed Systems,,1,Southern,
+CS 255,6,Computer Security,,1,Southern,
+CS 257,6,Wireless Networks and Mobile Computing,,1,Southern,
+CEE 232,6,Green Engineering,,1,Southern,
+AMES-40170,7,HVAC DDC Basics,"Covering the basics of Heating, Ventilating and Air Conditioning (HVAC) Direct Digital Controls (DDC), this course enables students to understand the simple basic fundamentals of HVAC DDC Systems Design.",1,Southern,Class
+AMES-40000,7,HVAC DDC System Design,"Explore heating, ventilating, and air conditioning (HVAC) and direct digital control (DDC) system design and application. The course reviews air handling, chilled water, and hot water systems control for constant volume and Variable Air Volume (VAV) applications. ",1,Southern,Class
+AMES-40019,7,HVAC Design Calculations,"Learn the fundamentals and required calculations for the HVAC design of buildings. Topics include: cooling and heating load calculations for commercial/residential buildings, psychometric chart analysis, HVAC energy, and return on investment analysis.",1,Southern,Class
+AMES-40139,7,HVAC DDC Networking Design,Course focuses on practical scenarios of communication and networking between DDC controllers and DDC systems.,1,Southern,Class
+AMES-40021,7,HVAC Systems Design,"Practical course is divide into single topics. Each lecture is followed by problem-solving and practical applications session. Topics include HVAC systems, air distribution systems, fan curves and fan selection, piping design.",1,Southern,Class
+EE-40168,7,Wind Energy Principles and  Applications,"Discover the basics of wind energy systems and wind turbine design. This course will expand on the knowledge base to current renewable energy professionals and provide others interested in careers in wind energy whether in wind turbine design, procurement, resource assessment, plant design, development, or plant maintenance.",1,Southern,Class
+ECE-40263,7,Solar Energy Principles and Applications,"The principles of photovoltaic’s - components, electrical terminology, energy and voltage calculations, wiring, and variables affecting output - will be discussed. In addition, you will also learn about the operation of solar systems, site analysis, and the critical factors required for a location to be ideal, and what factors impact the dramatically increasing Return on Investment (ROI). You will also review the vast array of incentives available for residents and businesses. The class will also view an active solar installation.",1,Southern,Class
+MAE 118,7,Introduction to Energy Systems,,1,Southern,Class
+MAE 119,7,Introduction to Renewable Energy: Solar and Wind  ,,1,Southern,Class
+MAE 120 ,7,Introduction to Nuclear Energy,,1,Southern,Class
+MAE 124 ,7,Environmental Challenges: Science and Solutions,,1,Southern,Class
+MAE 125C ,7,Case Studies In Environmental Engineering,,1,Southern,Class
+MAE 126A ,7,Environmental Engineering Laboratory I,,1,Southern,Class
+MAE 126B ,7,Environmental Engineering Laboratory II,,1,Southern,Class
+MAE 143B ,7,Linear Control,,1,Southern,Class
+MAE 143C ,7,Digital Control Systems,,1,Southern,Class
+MAE 149 ,7,Sensor Networks,,1,Southern,Class
+MAE 171B ,7,Mechanical Engineering Laboratory II,,1,Southern,Class
+MAE 241 ,7,Advances in Control Applications,,1,Southern,Class
+MAE 246 ,7,Boundary Layer and Renewable Energy Meteorology,,1,Southern,Class
+MAE 254 ,7,Energy Materials and Applications,,1,Southern,Class
+MAE 280A ,7,Linear Systems Theory,,1,Southern,Class
+MAE 280B ,7,Linear Control Design,,1,Southern,Class
+MAE 281B ,7,Nonlinear Control,,1,Southern,Class
+MAE 282 ,7,Adaptive Control,,1,Southern,Class
+MAE 283B ,7,Approximate Identification and Control,,1,Southern,Class
+MAE 284 ,7,Robust and Multi-Variable Control,,1,Southern,Class
+MAE 286 ,7,Hybrid Systems,,1,Southern,Class
+MAE 287 ,7,Control of Distributed Parameter Systems,,1,Southern,Class
+154A,7,Communications Systems I,,1,Southern,Class
+154B,7,Communications Systems II,,1,Southern,Class
+154C,7,Communications Systems III,,1,Southern,Class
+155B,7,Digital Recording Projects I,,1,Southern,Class
+155C,7,Digital Recording Projects II,,1,Southern,Class
+156,7,Sensor Networks,,1,Southern,Class
+157A,7,Communications Systems Laboratory I,,1,Southern,Class
+157B,7,Communications Systems Laboratory II,,1,Southern,Class
+257B,7,Principles of Wireless Networks,,1,Southern,Class
+257C,7,Stochastic Wireless Networks Models,,1,Southern,Class
+258A,7,Digital Communication,,1,Southern,Class
+258B,7,Digital Communication,,1,Southern,Class
+265A,7,Communication Circuit Design I,,1,Southern,Class
+265B,7,Communication Circuit Design II,,1,Southern,Class
+265C,7,Power Amplifiers for Wireless Communications,,1,Southern,Class
+267,7,Wireless Embedded and Networked Systems,,1,Southern,Class
+CSE 107,7,Introduction to Modern Cryptography,,1,Southern,Class
+CSE 110,7,Software Engineering,,1,Southern,Class
+CSE 112,7,Advanced Software Engineering,,1,Southern,Class
+CSE 123,7,Computer Networks,,1,Southern,Class
+CSE 127,7,Introduction to Computer Security,,1,Southern,Class
+CSE 132A,7,Database System Principles,,1,Southern,Class
+CSE 132B,7,Database Systems Applications,,1,Southern,Class
+CSE 181,7,Molecular Sequence Analysis,,1,Southern,Class
+CSE 206A,7,Lattice Algorithms and Applications,,1,Southern,Class
+CSE 207,7,Modern Cryptography,,1,Southern,Class
+CSE 208,7,Advanced Cryptography,,1,Southern,Class
+CSE 210,7,Principles of Software Engineering,,1,Southern,Class
+CSE 222A,7,Computer Communication Networks,,1,Southern,Class
+CSE 222B,7,Internet Algorithmics,,1,Southern,Class
+CSE 223A,7,Principles of Distributed Computing,,1,Southern,Class
+CSE 223B,7,Distributed Computing and Systems,,1,Southern,Class
+CSE 226,7,Storage Systems,,1,Southern,Class
+CSE 227,7,Computer Security,,1,Southern,Class
+CSE 232,7,Principles of Database Systems,,1,Southern,Class
+CSE 232B,7,Database System Implementation,,1,Southern,Class
+CSE 233,7,Database Theory,,1,Southern,Class
+ESYS 103,7,Environmental Challenges: Science and Solutions,,1,Southern,Class
+MAE 124,7,Environmental Challenges: Science and Solutions,,1,Southern,Class
+ECON 131,7,Economics of the Environment,,1,Southern,Class
+ECON 132,7,Energy Economics,,1,Southern,Class
+ECON 267,7,Topics in Environmental and Resource Economics,,1,Southern,Class
+ENV S X489,8,Sustainability: A Green Building Overview," This introductory course covers the importance of, and provides an overview of, basic green building principles and practices. This introductory course covers the importance of, and provides an overview of, basic green building principles and practices",1,Southern,Class
+ENV S X489.1,8,Energy Sources: Their End Uses and Impacts,"Introduces the basics of energy generation, energy consumption, and resulting impacts. This knowledge will help garner a better understanding of energy use as a system and offers valuable insight in how and why our buildings work the way they do",1,Southern,Class
+ENV S X489.2,8,Green Building Materials,"Course introduces students to the utilization of green materials and their significance in today's building practices in home design and construction. Through lectures and site visits, students gain exposure to real green building projects, products, and professionals in the field.",1,Southern,Class
+ENV S X489.3,8,Waste Management and Green Purchasing,"Course helps students identify waste management strategies, notice patterns of acquisition and disposal, and make sound choices when it comes to purchasing new items and disposing of old ones.",1,Southern,Class
+ENV S X489.4,8,Sustainable Water Management,"Students gain a better understanding of water sources and delivery mechanisms, consumption patterns, treatment options, and a variety of demand management strategies.",1,Southern,Class
+ENV S X489.5,8,Sustainable Planning and Site Design,"Site location and development can be just as critical to good sustainable design as the building itself. Through lectures, case studies, and site visits, students learn about the environmental, physical, and social aspects of sustainable planning and site design.",1,Southern,Class
+ME 104,8,Mechatronics,,1,Southern,Class
+ME 112,8,Energy,,1,Southern,Class
+ME 134,8,Advanced Thermal Science,,1,Southern,Class
+ME 155A,8,Control System Design,,1,Southern,Class
+ME 155B,8,Control System Design,,1,Southern,Class
+ME 158,8,Computer Aided Design and Manufacturing,,1,Southern,Class
+ME 236,8,Nonlinear Control Systems,,1,Southern,Class
+ME 237,8,Nonlinear Control Design,,1,Southern,Class
+ME 243A,8,Linear Systems I,,1,Southern,Class
+ME 243B,8,Linear Systems II,,1,Southern,Class
+ME 256,8,Introductory Robust Control with Applications,,1,Southern,Class
+ECE 145A,8,Communication Electronics,,1,Southern,Class
+ECE 145B,8,Communication Electronics II,,1,Southern,Class
+ECE 145C,8,Communication Electronics III,,1,Southern,Class
+ECE 147A,8,Feedback Control Systems - Theory and Design,,1,Southern,Class
+ECE 147B,8,Digital Control Systems - Theory and Design,,1,Southern,Class
+ECE 147C,8,Control System Design Project,,1,Southern,Class
+ECE 153B,8,Sensor and Peripheral Interface Design,,1,Southern,Class
+ECE 155A,8,Introduction to Computer Networks,,1,Southern,Class
+ECE 155B,8,Network Computing,,1,Southern,Class
+ECE 203,8,"THz Science, Technology, and Systems",,1,Southern,Class
+ECE 218C,8,Communication Electronics III,,1,Southern,Class
+ECE 229,8,Hybrid Systems,,1,Southern,Class
+ECE 230A,8,Linear Systems I,,1,Southern,Class
+ECE 230B,8,Linear Systems II,,1,Southern,Class
+ECE 232,8,Introductory Robust Control with Applications,,1,Southern,Class
+ECE 234,8,"Modeling, Identification, and Validation for Control",,1,Southern,Class
+ECE 236,8,Nonlinear Control Systems,,1,Southern,Class
+ECE 237,8,Nonlinear Control Design,,1,Southern,Class
+ECE 238,8,Advanced Control Design Laboratory,,1,Southern,Class
+ECE 243A,8,Digital Communication Theory,,1,Southern,Class
+ECE 243B,8,Advanced Digital Communication Theory,,1,Southern,Class
+ECE 249,8,Adaptive Control Systems,,1,Southern,Class
+ECE 250,8,Wireless Communication and Networking,,1,Southern,Class
+ECE 268,8,Internet Computing and Web Technologies,,1,Southern,Class
+ECE 271C,8,Optimal Control of Dynamic Systems,,1,Southern,Class
+CMPSC 172,8,Software Engineering,,1,Southern,Class
+CMPSC 174A,8,Fundamentals of Database Systems,,1,Southern,Class
+CMPSC 174B,8,Design and Implementation Techniques of Database Systems,,1,Southern,Class
+CMPSC 176A,8,Introduction to Computer Communication Networks,,1,Southern,Class
+CMPSC 176B,8,Network Computing,,1,Southern,Class
+CMPSC 176C,8,Advanced Topics in Internet Computing,,1,Southern,Class
+CMPSC 177,8,Computer Security,,1,Southern,Class
+CMPSC 178,8,Introduction to Cryptography,,1,Southern,Class
+CMPSC 209,8,Logic and Applications in Computer Science,,1,Southern,Class
+CMPSC 274,8,Advanced Topics in Database Systems,,1,Southern,Class
+CMPSC 276,8,Advanced Topics in Networking,,1,Southern,Class
+CMPSC 279,8,Advanced Topics in Security,,1,Southern,Class
+ESM 204,8,Economics of Environmental Management,,1,Southern,Class
+ESM 206,8,Data Analysis for Environmental Science and Management,,1,Southern,Class
+ESM 206A,8,Data Analysis for Environmental Science and Management,,1,Southern,Class
+ESM 207,8,Environmental Law and Policy,,1,Southern,Class
+ESM 266,8,Remote Sensing of the Environment,,1,Southern,Class
+ESM 272,8,Energy and Resource Productivity,,1,Southern,Class
+80J,9,Renewable Energy Sources,,1,Northern,Class
+81C,9,Technological Innovation and Environmental Challenges,,1,Northern,Class
+130,9,Introduction to Optoelectronics and Photonics,,1,Northern,Class
+151,9,Communications Systems,,1,Northern,Class
+152,9,Introduction to Wireless Communications,,1,Northern,Class
+154,9,Feedback Control Systems,,1,Northern,Class
+175,9,Energy Generation and Control,,1,Northern,Class
+175L,9,Energy Generation and Control Laboratory,,1,Northern,Class
+176,9,Energy Conservation and Control,,1,Northern,Class
+176L,9,Energy Conversion and Control Laboratory,,1,Northern,Class
+178,9,Device Electronics,,1,Northern,Class
+180J,9,Advanced Renewable Energy Sources,,1,Northern,Class
+215,9,Micro-Electro-Mechanical Systems (MEMS) Design,,1,Northern,Class
+241,9,Introduction to Feedback Control Systems,,1,Northern,Class
+251,9,Principles of Digital Communications,,1,Northern,Class
+252,9,Wireless Communications,,1,Northern,Class
+254,9,Multi-User Information Theory,,1,Northern,Class
+255,9,Multiple-Antenna Wireless Communications,,1,Northern,Class
+115,9,Software Methodology,,1,Northern,Class
+116,9,Software Design Project,,1,Northern,Class
+122,9,Computer Security,,1,Northern,Class
+129,9,Data Storage Systems,,1,Northern,Class
+180,9,Database Systems I,,1,Northern,Class
+180W,9,Database Systems,,1,Northern,Class
+181,9,Database Systems II,,1,Northern,Class
+182,9,Introduction to Database Management Systems,,1,Northern,Class
+223,9,Advanced Computer Security,,1,Northern,Class
+229,9,Storage Systems,,1,Northern,Class
+232,9,Distributed Systems,,1,Northern,Class
+277,9,Principles of Database Systems,,1,Northern,Class
+278,9,Design and Implementation of Database Systems,,1,Northern,Class
+290X,9,Cryptography and Computer Security,,1,Northern,Class
+80N,9,Introduction to Networking and the Internet,,1,Northern,Class
+118,9,Introduction to Mechatronics,,1,Northern,Class
+118L,9,Introduction to Mechatronics Laboratory,,1,Northern,Class
+150,9,Introduction to Computer Networks,,1,Northern,Class
+150L,9,Introduction to Computer Networks Laboratory,,1,Northern,Class
+151,9,Advanced Computer Networks,,1,Northern,Class
+151L,9,Advanced Computer Networks Laboratory,,1,Northern,Class
+167,9,Sensing and Sensor Technologies,,1,Northern,Class
+167L,9,Sensing and Sensor Technologies Lab,,1,Northern,Class
+218,9,Mechatronics,,1,Northern,Class
+218L,9,Mechatronics Lab,,1,Northern,Class
+241,9,Introduction to Feedback Control Systems,,1,Northern,Class
+242,9,Applied Feedback Control,,1,Northern,Class
+252A,9,Computer Networks,,1,Northern,Class
+252B,9,Principles of Computer Communication,,1,Northern,Class
+253,9,Network Security,,1,Northern,Class
+254,9,High Speed Computer Networks,,1,Northern,Class
+256,9,Design Project in Computer Networks,,1,Northern,Class
+257,9,Wireless and Mobile Networks,,1,Northern,Class
+259,9,Sensor Networks,,1,Northern,Class
+25,9,Environmental Policy and Economics,,1,Northern,Class
+141,9,Ecological Economics,,1,Northern,Class
+145,9,Green Building Design,,1,Northern,Class
+240,9,Public Policy and Conservation,,1,Northern,Class
+CMPS 211,10,Internet Programming and Web Design,,1,Southern,
+CMPS 312,10,Algorithm Analysis and Design,,1,Southern,
+CMPS 340,10,Introduction to Digital Forensics,,1,Southern,
+CMPS 342,10,Database Systems,,1,Southern,
+CMPS 376,10,Database Systems,,1,Southern,
+CMPS 394,10,"Java :  Client ,  Server,   and   Internet Programming",,1,Southern,
+CMPS 420,10,Embedded Systems,,1,Southern,
+CMPS 432,10,"Instrumentation ,  Control , and  Data Acquisition",,1,Southern,
+CMPS 442,10,Advanced Database Systems,,1,Southern,
+CMPS 476,10,Advanced  Computer  Networks   and Computer Security,,1,Southern,
+CENG 304,10,Linear Systems,,1,Southern,
+CENG 420,10,Embedded System,,1,Southern,
+CENG 423,10,Digital Communication,,1,Southern,
+CENG 432,10,"Instrumentation ,  Control , and  Data Acquisition",,1,Southern,
+CENG 434,10,Introduction to Control Theory,,1,Southern,
+ECON 370,10,Introduction to Control Theory,,1,Southern,
+COMP 102,11,Web Development,,1,Southern,
+COMP 350,11,Introduction To Software Engineering,,1,Southern,
+COMP 351,11,Distributed Computing,,1,Southern,
+COMP 420,11,Database Theory  And Design,,1,Southern,
+COMP 424,11,Computer System Security,,1,Southern,
+COMP 429,11,Computer Networks,,1,Southern,
+COMP 449,11,Human-Computer Interaction,,1,Southern,
+COMP 520,11,Advanced Database Systems,,1,Southern,
+COMP 524,11,Security,,1,Southern,
+COMP 529,11,Network Computing,,1,Southern,
+COMP 550,11,Advanced Software  Engineering ,,1,Southern,
+IT 280,11,Web Programming,,1,Southern,
+IT 400,11,Ecommerce,,1,Southern,
+IT 401,11,Web Intelligence ,,1,Southern,
+PHSC 170,11,Foundations In Physical Science,,1,Southern,
+PHSC 344,11,Energy And Society,,1,Southern,
+CINS 370,12,Introduction to Databases,,1,Northern,
+CINS 448,12,Computer Security,,1,Northern,
+CINS 465,12,Web Programming Fundamentals,,1,Northern,
+CINS 548,12,Advanced Computer Security,,1,Northern,
+CINS 570,12,Advanced Database Management Systems,,1,Northern,
+CINS 674,12,Database Administration II: Advanced Tuning and Recovery,,1,Northern,
+CSCI 346,12,Introduction to Computer Networks and Network Management,,1,Northern,
+CSCI 430,12,Software Engineering,,1,Northern,
+CSCI 611,12,Distributed Computing,,1,Northern,
+CSCI 630,12,Software Engineering,,1,Northern,
+CSCI 639,12,Topics in Software Engineering,,1,Northern,
+,12,Advanced Database Architecture and Administration I,,1,Northern,
+CSCI 546,12,Advanced Network Management,,1,Northern,
+CSCI 547,12,Advanced Computer Networks,,1,Northern,
+CSCI 649,12,Topics in Networking,,1,Northern,
+CSCI 679,12,Topics in Database Systems,,1,Northern,
+EECE 453,12,Communication Systems Design,,1,Northern,
+EECE 482,12,Control System Design,,1,Northern,
+EECE 685,12,Adaptive Control Systems,,1,Northern,
+MECA 380,12,Measurements and Instrumentation,,1,Northern,
+MECA 482,12,Control System Design,,1,Northern,
+MECA 432,12,Energy Systems,,1,Northern,
+MECA 436,12,Air Pollution Control,,1,Northern,
+MECA 439,12,Building Energy Analysis and Design,,1,Northern,
+CSC 255,13,Dynamic Web Programming,,1,Southern,
+CSC 301,13,Computers and Society ,,1,Southern,
+CSC 451,13,Computer Networks,,1,Southern,
+CSC 453,13,Data Management,,1,Southern,
+CSC 455,13,World Wide Web Design and Management,,1,Southern,
+CSC 459,13,Security Engineering,,1,Southern,
+CSC 481,13,Software Engineering,,1,Southern,
+CSC 546,13,Human Computer Interaction and Interface Design,,1,Southern,
+CSC 551,13,Data Communications and Computer Networks ,,1,Southern,
+CSC 553,13,Advanced Database Management Systems,,1,Southern,
+CSC 555,13,Information Assurance and Network Security,,1,Southern,
+CSC 581,13,Advanced Software Engineering,,1,Southern,
+CSC 583,13,Software Engineering Processes,,1,Southern,
+CSC 584,13,Software Project Planning and Management,,1,Southern,
+CSC 585,13,Advanced Software Quality Assurance,,1,Southern,
+CTC 310,13,Software Project Management,,1,Southern,
+CTC 328,13,PC Forensic,,1,Southern,
+CTC 362,13,Communication Systems Security ,,1,Southern,
+CTC 428,13,OS Security,,1,Southern,
+CTC 452,13,Network Security and Hacking Prevention,,1,Southern,
+CS 6591,14,Communications Network Analysis and Design ,,1,Northern,
+CS 4594,14,Broadband Networks and Communications,,1,Northern,
+CS 6320,14,Software Engineering of Web-Based Systems,,1,Northern,
+CS 6522,14,Advanced WWW Software Development,,1,Northern,
+CS 6525,14,Network Securit,,1,Northern,
+CS 6526,14,"Security in Mobile, Wireless, Grid and Pervasive Computing",,1,Northern,
+CS 6592,14,Network Management ,,1,Northern,
+CS 6596,14,Wireless and Mobile Networking Architecture,,1,Northern,
+CS 3590,14,Data Communication and Networking ,,1,Northern,
+CS 4310,14,Software Engineering I,,1,Northern,
+CS 4590,14,Computer Networks,,1,Northern,
+CS 4592,14,Network Operations and Administration,,1,Northern,
+CS 4594,14,Broadband Networks and Communications,,1,Northern,
+CS 4596,14,Wireless and Mobile Networking,,1,Northern,
+ENGR 4300,14,Quality Engineering ,,1,Northern,
+ENGR 6200,14,Project Management,,1,Northern,
+CS 3520,14,Web Site Development ,,1,Northern,
+CS 3560,14,Introduction to Systems Programming,,1,Northern,
+CS 4311,14,Software Engineering II ,,1,Northern,
+CS 4320,14,Software Testing and Quality Assurance ,,1,Northern,
+CS 4330,14,Building Secure Software,,1,Northern,
+CS 4525,14,Principles of Network Security,,1,Northern,
+CS 4660,14,Database Architecture,,1,Northern,
+CS 4835,14,Human-Computer Interaction ,,1,Northern,
+6310,14,Advanced Software Engineering,,1,Northern,
+6320,14,Software Engineering of Web-Based Systems,,1,Northern,
+6330,14,Secure Software Development,,1,Northern,
+6520,14,Cryptography and Data Security,,1,Northern,
+6522,14,Advanced WWW Software Development,,1,Northern,
+6525,14,Network Security,,1,Northern,
+6526,14,"Security in Wireless, Mobile, Grid and Pervasive Computing",,1,Northern,
+6591,14,Communication Network Analysis and Design,,1,Northern,
+6592,14,Network Management,,1,Northern,
+6594,14,Broadband and Multimedia Networks,,1,Northern,
+6596,14,Wireless and Mobile Network Architecture,,1,Northern,
+6660,14,Database Systems,,1,Northern,
+ME 166,15,Energy Systems Design,,1,Central,
+ECE 121,15,Electromechanical Systems and Energy Conversion,,1,Central,
+ECE 121L,15,Electromechanical Systems and Energy Conversion Laboratory,,1,Central,
+ECE 151,15,Electrical Power Systems,,1,Central,
+ECE 152,15,Power Systems Protection and Control,,1,Central,
+ECE 153,15,Power Electronics,,1,Central,
+ECE 155,15,Control Systems,,1,Central,
+ECE 232,15,Optimal Control Systems,,1,Central,
+ECE 253,15,Power Systems Dynamics,,1,Central,
+CSCI 126,15,Database Systems,,1,Central,
+CSCI 156,15,Internetworking Systems and Protocols,,1,Central,
+CSCI 226,15,Advanced Database Systems,,1,Central,
+EGME 476A,16,Dynamic Systems and Controls Lab,,1,Southern,
+EGME 476B,16,Energy and Power Lab,,1,Southern,
+EGME 476A,16,Dynamic Systems and Controls Lab,,1,Southern,
+431,16,Energy and Power Lab,,1,Southern,
+433,16,Data Security and Encryption Technique,,1,Southern,
+477,16,Introduction to Grid Computing,,1,Southern,
+531,16,Advanced Database Management,,1,Southern,
+558,16,Advanced Computer Networking,,1,Southern,
+313L,16,Power Laboratory,,1,Southern,
+416,16,Feedback Control System,,1,Southern,
+443,16,Electronic Communication System,,1,Southern,
+519B,16,Computer Networks and the Internet,,1,Southern,
