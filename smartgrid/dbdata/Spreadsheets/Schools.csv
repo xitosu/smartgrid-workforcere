@@ -1,72 +1,72 @@
-school_number,school_name,school_description,school_image,school_region
-,UC Berkeley,,,Northern
-,UC Davis,,,Northern
-,UC Irvine,,,Southern
-,UCLA,,,Southern
-,UC Merced,,,Central
-,UC Riverside,,,Southern
-,UC San Diego,,,Southern
-,UC Santa Barbara,,,Southern
-,UC Santa Cruz,,,Northern
-,CSU Bakersfield,,,Southern
-,CSU Channel Islands,,,Southern
-,CSU Chico,,,Northern
-,CSU Dominguez Hills,,,Southern
-,CSU East Bay,,,Northern
-,CSU Fresno,,,Central
-,CSU Fullerton,,,Southern
-,CSU Long Beach,,,Southern
-,CSU Los Angeles,,,Southern
-,Humboldt State University,,,Northern
-,American River College,,,Northern
-,Berkeley City College,,,Northern
-,Butte College,,,Northern
-,Cabrillo College,,,Northern
-,Canada College,,,Northern
-,Chabot College,,,Northern
-,College of Alameda,,,Northern
-,College of Marin,,,Northern
-,College of Redwood,,,Northern
-,College of San Mateo,,,Northern
-,College of Sequoias,,,Central
-,College of the Siskiyous,,,Northern
-,Columbia Community College,,,Northern
-,Contra Costa College,,,Northern
-,Consumnes River College,,,Northern
-,DeAnza College,,,Northern
-,Diablo Valley College,,,Northern
-,Evergreen Valley College,,,Northern
-,Feather River College,,,Northern
-,Folsom Lake College,,,Northern
-,Foothill College ,,,Northern
-,Fresno City College,,,Central
-,Gavilan College,,,Central
-,Hartnell College,,,Central
-,Lake Tahoe Community College,,,Northern
-,Laney Community College,,,Northern
-,Las Positas College,,,Northern
-,Lassen College,,,Northern
-,Los Medanos College,,,Northern
-,Mendocino College,,,Northern
-,Merced College,,,Central
-,Merritt College,,,Northern
-,Mission College,,,Northern
-,Modesto Junior College,,,Central
-,Monterey Peninsula College,,,Central
-,Napa Valley College,,,Northern
-,Ohlone College,,,Northern
-,Reedley College,,,Central
-,Sacramento City College,,,Northern
-,City College of San Francisco,,,Northern
-,San Joaquin Delta College,,,Northern
-,San Jose City College,,,Central
-,Santa Rosa Junior College ,,,Northern
-,Shasta College,,,Northern
-,Sierra College,,,Northern
-,Skyline College,,,Northern
-,Solano Community College,,,Northern
-,West Hills College Coalinga,,,Central
-,West Hills College Leemore,,,Central
-,West Valley Community College,,,Central
-,Woodland Community College,,,Northern
-,Yuba Community College,,,Northern
+school_name,school_region
+UC Berkeley,Northern
+UC Davis,Northern
+UC Irvine,Southern
+UCLA,Southern
+UC Merced,Central
+UC Riverside,Southern
+UC San Diego,Southern
+UC Santa Barbara,Southern
+UC Santa Cruz,Northern
+CSU Bakersfield,Southern
+CSU Channel Islands,Southern
+CSU Chico,Northern
+CSU Dominguez Hills,Southern
+CSU East Bay,Northern
+CSU Fresno,Central
+CSU Fullerton,Southern
+CSU Long Beach,Southern
+CSU Los Angeles,Southern
+Humboldt State University,Northern
+American River College,Northern
+Berkeley City College,Northern
+Butte College,Northern
+Cabrillo College,Northern
+Canada College,Northern
+Chabot College,Northern
+College of Alameda,Northern
+College of Marin,Northern
+College of Redwood,Northern
+College of San Mateo,Northern
+College of Sequoias,Central
+College of the Siskiyous,Northern
+Columbia Community College,Northern
+Contra Costa College,Northern
+Consumnes River College,Northern
+DeAnza College,Northern
+Diablo Valley College,Northern
+Evergreen Valley College,Northern
+Feather River College,Northern
+Folsom Lake College,Northern
+Foothill College ,Northern
+Fresno City College,Central
+Gavilan College,Central
+Hartnell College,Central
+Lake Tahoe Community College,Northern
+Laney Community College,Northern
+Las Positas College,Northern
+Lassen College,Northern
+Los Medanos College,Northern
+Mendocino College,Northern
+Merced College,Central
+Merritt College,Northern
+Mission College,Northern
+Modesto Junior College,Central
+Monterey Peninsula College,Central
+Napa Valley College,Northern
+Ohlone College,Northern
+Reedley College,Central
+Sacramento City College,Northern
+City College of San Francisco,Northern
+San Joaquin Delta College,Northern
+San Jose City College,Central
+Santa Rosa Junior College ,Northern
+Shasta College,Northern
+Sierra College,Northern
+Skyline College,Northern
+Solano Community College,Northern
+West Hills College Coalinga,Central
+West Hills College Leemore,Central
+West Valley Community College,Central
+Woodland Community College,Northern
+Yuba Community College,Northern

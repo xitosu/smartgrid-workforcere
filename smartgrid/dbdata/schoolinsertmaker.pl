@@ -6,16 +6,15 @@ open(INFILE, $ARGV[0]);
 
 while (<INFILE>)
 {
-    chomp;
+    chomp @values; #yummy!
     
     @values = split('\t', $_); #splits by tabs
-    print "(School_number,school_name,school_description,school_image,school_region) ";
-    print "$values[0],"; #gets the School Number
-    print "$values[1],"; #gets School Name
-    print "$values[2],"; #gets School Description
-    print "$values[3],"; #gets School Image
-    print "$values[4]"; #gets School Region
-    print"); \n";
+    print "INSERT into schools(school_name,school_region) ";
+    print "values('";
+    print "$values[0]"; #gets School Name
+	print "','";
+    print "$values[1]"; #gets School region
+    print"'); \n";
 }
 
 close (INFILE);
