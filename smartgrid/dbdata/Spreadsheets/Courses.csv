@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 course_number,school_number,course_title,course_description,course_active,course_region,course_type,,,,,
 110,1,Introduction to Product Development,,1,Northern,,,,,,
 128,1,Computer-Aided Mechanical Design,,1,Northern,,,,,,
@@ -1334,3 +1335,1105 @@ PHYS 0004B ,69,Engineering Physics Electricity and Magnetism,"Electricity and ma
 CIS 015 ,69,Software Design ,,1,Central,,,,,,
 ENGR 020 ,69,Engineering Graphics ,"A study of orthographic projection, sections, auxiliary (single and double) dimensioning, tolerancing, subassemblies, threads and fasteners and weldments.",1,Central,,,,,,
 ENGR 023 ,69,Vector Mechanics ,"Application of static principles for solution of problems with particles, trusses, frames, cables and other structural components under concentrated distributed force systems.",1,Central,,,,,,
+=======
+school_number,course_title,course_active,course_type
+1,Introduction to Product Development,1,Class
+1,Computer-Aided Mechanical Design,1,Class
+1,Energy Conversion Principles,1,Class
+1,Introduction to MEMS Design,1,Class
+1,Experiential Advanced Control Design I.,1,Class
+1,Advanced Control Systems I.,1,Class
+1,Design of Microprocessor-Based Mechanical Systems.,1,Class
+1,Advanced Design and Automation,1,Class
+1,New Product Development: Design Theory and Methods,1,Class
+1,"Topics in Control, Modeling and Optimization",1,Class
+1,Introduction to Communication Networks,1,Class
+1,Feedback Control Systems.,1,Class
+1,"Fundamental Algorithms for Systems Modeling, Analysis, and Optimization",1,Class
+1,Mechatronic Design Laboratory.,1,Class
+1,Computer-Aided Verification,1,Class
+1,Advanced Control Systems I,1,Class
+1,Fundamentals of Wireless Communication.,1,Class
+1,"Embedded System Design: Models, Validation, and Synthesis.",1,Class
+1,Advanced Robotics.,1,Class
+1,Computer Security.,1,Class
+1,Introduction to Database Systems.,1,Class
+1,Quantum Information Science and Technology.,1,Class
+1,Social Implications of Computer Technology.,1,Class
+1, Concurrent Models of Computation.,1,Class
+1, User-Interfaces to Computer Systems.,1,Class
+1,Security in Computer Systems.,1,Class
+1,Internet and Network Security,1,Class
+1,Computer Networks.,1,Class
+1,Cryptography.,1,Class
+1,Introduction to Design of Human Work Systems and Organizations.,1,Class
+1,Supply Chain Operation and Management.,1,Class
+1,"Modeling Energy, Environmental, and Resource Systems.",1,Class
+1,Photovoltaic Materials; Modern Technologies in the Context of a Growing Renewable Energy Market.,1,Class
+1,Electric Power Systems.,1,Class
+1,Energy Economics.,1,Class
+1,Smart Grids: Introduction,1,Class
+1,Smart Grids: Command and Control,1,Class
+1,Smart Grids: Energy-Efficient Transmission,1,Class
+1,Smart Grids: Internet of Things,1,Class
+1,Smart Grids: Metering and Home Area Networks,1,Class
+1,Smart Grids: Microgrids,1,Class
+1,Introduction to Sustainability Management,1,Class
+1,Climate Change and Law AB 32: What It Means for You,1,Class
+1,"Energy for Sustainability: Technology, Planning and Policy",1,Class
+1,Energy Use and Climate Change,1,Class
+1,"Freshman Seminar: The science, technology, policy, and politics of California air pollution",1,Seminar
+1,Quantitative aspects of global environment,1,Seminar
+1,Ecological economics in historical context,1,Seminar
+1,California Water,1,Seminar
+1,Behavior and sustainability (ERG Doctoral Student Facilitated),1,Seminar
+1,Photovoltaic materials; modern technologies in the context of a growing renewable energy market,1,Seminar
+1,Research methods in social sciences,1,Seminar
+1,Energy Economics (Roomshare with ER C180 and EnvEconC180),1,Seminar
+1,Information and Communications Technology for Development,1,Seminar
+1,Energy and Environmental Markets (Offered through business and engineering),1,Seminar
+1,Science and Regulatory Policy (enrollment limited to ERG students only),1,Seminar
+1,Master's project seminar (for ERG students only),1,Seminar
+1,Colloquium,1,Seminar
+1,PhD Seminar,1,Seminar
+1,Directed group study sustainability in Action: Cal Climate Action Course,1,Seminar
+1,Individual Research,1,Seminar
+1,Graduate Student Instructor Practicum,1,Seminar
+1,INDEPENDENT STUDY DOCTORAL STUDENTS,1,Seminar
+2,Sustainability and the Built Environment,1,Class
+2,"Sustainable Planning, Environmental Site Design and Development",1,Class
+2,Sustainable Water Management in Site Design and Development,1,Class
+2,Green Architecture,1,Class
+2,Green Building Materials and Construction Methods,1,Class
+2,"Energy Sources, End Uses and Impacts",1,Class
+2,Green Building Design Studio,1,Class
+2,Introduction to Energy Resource Management,1,Class
+2,Energy Resource Management: Supply,1,Class
+2,Energy Resource Management: Regulatory,1,Class
+2,Energy Resource Management: Demand,1,Class
+2,Energy Resource Management: Environment,1,Class
+2,Energy Resource Management: Leadership,1,Class
+2,Sustainability and the Built Environment,1,Class
+2,"Energy Sources, End Uses and Impacts",1,Class
+2,Green Building Design Studio,1,Class
+2,Cogeneration and District Solutions,1,Class
+2,Bioenergy Systems Design,1,Class
+2,Geothermal Energy Systems Design,1,Class
+2,Small Wind Energy Systems,1,Class
+2,Solar Photovoltaic (PV) Energy Systems Design,1,Class
+2,Solar Thermal Energy Systems Design,1,Class
+2,Solar Photovoltaic (PV) Energy Systems: Overview,1,Class
+2,Solar Thermal Energy Systems: Overview,1,Class
+2,Solar Photovoltaic (PV) Energy Systems Design,1,Class
+2,Solar Thermal Energy Systems Design,1,Class
+2,Solar Photovoltaic (PV) Energy Systems: Compliance and Code Overview,1,Class
+2,Computer-Aided Mechanism Design,1,Class
+2,Mechatronics,1,Class
+2,Wind Power Engineering,1,Class
+2,Theory and Design of Control Systems,1,Class
+2,Analysis and Design of Digital Control Systems,1,Class
+2,Data Acquisition and Analysis,1,Class
+2,RF and Microwaves in Wireless Communication,1,Class
+2,RF and Microwaves in Wireless Communication,1,Class
+2,RF and Microwaves in Wireless Communication,1,Class
+2,"Instrumentation Interfacing, Signals and Systems",1,Class
+2,Control System Design Methods,1,Class
+2,Microcomputer-Based System Design,1,Class
+2,Computer Networks,1,Class
+2,Design Projects in Communication Networks,1,Class
+2,Digital Systems I,1,Class
+2,Advanced Microwave Circuit and Device Design Techniques,1,Class
+2,Multivariable Control System Design,1,Class
+2,"Internet Measurements, Modeling and Analysis",1,Class
+2,Computer Security,1,Class
+2,Computer Security for Non-Majors,1,Class
+2,Introduction to Software Engineering,1,Class
+2,Database Systems,1,Class
+2,Database Systems,1,Class
+2,Scientific Data Management,1,Class
+2,Design and Analysis of Algorithms,1,Class
+2,Modern Cryptography,1,Class
+2,Cryptography for E-Commerce,1,Class
+2,Computer and Information Security,1,Class
+2,Computer Security: Intrusion Detection Based Approach,1,Class
+2,Mobile and Wireless Networks,1,Class
+2,Environmental Remote Sensing,1,Class
+2,Integrating Environmental Science and Management,1,Class
+3,"Introduction to Corporate Social Responsibility, Sustainability and Green Business ",1,Class
+3,Legal Developments Concerning the Environment and Climate Change,1,Class
+3,Framework for Strategic Leadership,1,Class
+3,Green Marketing Principles: Winning Strategies for a New Era,1,Class
+3,Climate Protection and Environmental Sustainability ,1,Class
+3,"Sustainability Reporting: Drivers, Protocols and Quantitative Methods",1,Class
+3,The Social Component of Sustainability,1,Class
+3,Solar and Renewable Energy Systems,1,Class
+3,Sustainable Energy Systems,1,Class
+3,Introduction to Control Systems,1,Class
+3,Computer-Aided Mechanism Design,1,Class
+3,Sustainable Energy Systems,1,Class
+3,Micro-Sensors and Actuators,1,Class
+3,Introduction to Data Management,1,Class
+3,Communication Systems,1,Class
+3,Communication Systems,1,Class
+3,Introduction to Computer Networks,1,Class
+3,Introduction to Control Systems,1,Class
+3,Control Systems I Laboratory,1,Class
+3,Sampled-Data and Digital Control Systems,1,Class
+3,Power Systems,1,Class
+3,Power Systems Laboratory,1,Class
+3,Industrial and Power Electronics,1,Class
+3,Advanced Topics in Industrial and Power Electronics,1,Class
+3,Microelectromechanical Systems (MEMS),1,Class
+3,Digital Communications,1,Class
+3,Wireless Communications,1,Class
+3,Internet,1,Class
+3,Industrial and Power Electronics,1,Class
+3,Industrial and Power Electronics,1,Class
+3,Micro-Sensors and Actuators,1,Class
+3,Introduction to Data Management,1,Class
+3,Project in Databases and Web Applications,1,Class
+3,Next Generation Search Systems,1,Class
+3,Computer Networks,1,Class
+3,Computer and Network Security,1,Class
+3,Internet Applications Engineering,1,Class
+3,Introduction to Applied Cryptography,1,Class
+3,Network Optimization,1,Class
+3,Foundations of Cryptographic Protocols,1,Class
+3,Applied Cryptography,1,Class
+3,Network and Distributed Systems Security,1,Class
+3,"Information Retrieval, Filtering, and Classification",1,Class
+3,Principles of Data Management,1,Class
+3,Transaction Processing and Distributed Data Management,1,Class
+3,Advanced Topics in Data Management,1,Class
+3,Internet Technology,1,Class
+3,Wireless and Mobile Networking,1,Class
+3,"Methods III: Modeling, Economics, and Management",1,Class
+4,Plumbing Systems I: Code and Engineering Fundamentals (Online),1,Online
+4,Plumbing Systems II: Advanced Engineering Systems,1,Class
+4,Plumbing Systems III: Systems Applications,1,Class
+4,HVAC Fundamentals,1,Class
+4,HVAC Systems,1,Class
+4,HVAC Controls,1,Class
+4,HVAC Equipment,1,Class
+4,,1,Class
+4,Power Conversion Thermodynamics Laboratory.,1,Class
+4,Energy and Environment.,1,Class
+4,Introduction to Feedback and Control Systems: Dynamic Systems Control I.,1,Class
+4,Digital Control of Physical Systems,1,Class
+4,Control System Design Laboratory,1,Class
+4,Introduction to Micromachining and Microelectromechanical Systems (MEMS).,1,Class
+4,Introduction to Micromachining and Microelectromechanical Systems (MEMS) Laboratory.,1,Class
+4,Robust Control System Analysis and Design.,1,Class
+4,Advanced Digital Control for Mechatronic Systems,1,Class
+4,Introduction to Micromachining and Microelectromechanical Systems (MEMS).,1,Class
+4,"Sensors, Actuators, and Signal Processing",1,Class
+4,Computer Networks: Physical Layer,1,Class
+4,Introduction to Communication Systems.,1,Class
+4,Data Communications and Telecommunication Networks.,1,Class
+4,Principles of Feedback Control.,1,Class
+4,Photonic Sensor Design Laboratory,1,Class
+4,Wireless Communication Links and Antennas,1,Class
+4,Microwave and Millimeter Wave Active Devices,1,Class
+4,Microwave Wireless Laboratory,1,Class
+4,Data Communication Systems Laboratory,1,Class
+4,Systems Design,1,Class
+4,Analysis and Design of RF Circuits and Systems,1,Class
+4,Network Economics and Game Theory,1,Class
+4,Estimation and Detection in Communication and Radar Engineering.,1,Class
+4,Signal Processing in Communications,1,Class
+4,Telecommunication Switching and Queueing Systems,1,Class
+4,Telecommunication Architecture and Networks,1,Class
+4,Telecommunication Networks and Multiple-Access Communications,1,Class
+4,Wireless Communications Systems,1,Class
+4,Linear Optimal Control,1,Class
+4,Computer Network Fundamentals,1,Class
+4,Software Engineering.,1,Class
+4,Introduction to Computer Security,1,Class
+4,Database Systems,1,Class
+4,Web Applications,1,Class
+4,Introduction to Cryptography.,1,Class
+4,Network Protocol and Systems Software Design for Wireless and Mobile Internet,1,Class
+4,Data Transmission in Computer Communications,1,Class
+4,Computer Communications and Networks.,1,Class
+4,Distributed Multiaccess Control in Networks.,1,Class
+4,Internet Architecture and Protocols,1,Class
+4,Advanced Computer Networks,1,Class
+4,Verification of Concurrent Programs.,1,Class
+4,Computer-Aided Verification.,1,Class
+4,Computer Security.,1,Class
+4,Databases and Knowledge Bases,1,Class
+4,Advanced Data and Knowledge Bases.,1,Class
+4,Object-Oriented and Semantic Database Systems.,1,Class
+4,Distributed Database Systems,1,Class
+4,Intelligent Information Systems.,1,Class
+4,Web Information Management.,1,Class
+4,Current Topics in Data Structures,1,Class
+4,Speech and Language Communication in Artificial Intelligence,1,Class
+4,Cryptography,1,Class
+4,Cryptographic Protocols,1,Class
+4,Environmental Science and Engineering Problems Course.,1,Class
+4,Environmental Science and Engineering Problems Course.,1,Class
+4,Environmental Science and Engineering Problems Course.,1,Class
+4,Environmental Science and Engineering Problems Course.,1,Class
+4,Managing Entrepreneurial Organizations,1,Class
+4,Operations Technology Management,1,Class
+5,Computer Aided Engineering,1,Class
+5,Mechatronics,1,Class
+5,Linear Control System,1,Class
+5,non Linear Control,1,Class
+5, Advanced Topics Computer Systems,1,Class
+5,Networking of Embedded Sensor Systems,1,Class
+5,Advanced Topics in Computer Networks and Distributed Systems,1,Class
+5,Advanced Topics in  Intelligent Systems,1,Class
+5,Algorithm Design and Analysis,1,Class
+5,Database Systems,1,Class
+5,Discrete Mathematics,1,Class
+5,Software Engineering,1,Class
+5,Computer Architecture,1,Class
+5,Operating Systems,1,Class
+5,Computer Networks,1,Class
+5,Environmental Microbiology,1,Class
+5,Water Resources and Management,1,Class
+5,Remote Sensing of the Environment,1,Class
+5,Decision Analysis in Management,1,Class
+5,Sustainable Energy,1,Class
+5,Modeling and Design of Energy Systems,1,Class
+5,Energy Policy and Planning,1,Class
+6,Energy Management-Principles and Practice,1,Class
+6,Energy Resource Management,1,
+6,"Heating, Ventilation and Air Conditioning (HVAC) Systems",1,
+6,"Heating, Ventilation and Air Conditioning (HVAC): Equipment and Controls",1,
+6,"Heating, Ventilation and Air Conditioning (HVAC): Principles and Practice",1,
+6,NABCEP Solar Photovoltaic Entry Level Training and Exam,1,
+6,Economics of Sustainability,1,
+6,Green Building Design,1,
+6,Public Policy Lecture Series: Sustainability Issues in Southern California,1,
+6,"Sustainable Planning, Design and Development",1,
+6,Sustainable Resource Management,1,
+6,Trends in Energy Efficiencies and Technologies,1,
+6,Green Construction and Building Methods,1,
+6,Planning Strategies for Sustainable Food Systems,1,
+6,Climate Action Planning,1,
+6,Sustainable Interior Design,1,
+6,Public Health and the Built Environment,1,
+6,Energy and the Environment,1,
+6,Linear Systems and Control,1,
+6,Feedback Control,1,
+6,Introduction to Mechatronics,1,
+6,Introduction to Microelectromechanical Systems,1,
+6,Introduction to Communication System,1,
+6,Power Electronic,1,
+6,"Data Acquisition, Instrumentation, and Process Control",1,
+6,Automatic Control,1,
+6,Introduction to Robotic,1,
+6,Digital Communication,1,
+6,Introduction to Digital Control,1,
+6,Fiber-Optic Communication System,1,
+6,Digital Communication Theory and System,1,
+6,Wireless Communication,1,
+6,Linear System Theory,1,
+6,Nonlinear Systems and Control,1,
+6,Software Construction,1,
+6,Introduction to Embedded Systems,1,
+6,Intermediate Embedded and Real-Time Systems,1,
+6,Advanced Embedded and Real-Time Systems,1,
+6,Computer Networks,1,
+6,Computer Security ,1,
+6,Database Management Systems,1,
+6,Mobile Wireless Networks,1,
+6,Introduction to Software Engineering,1,
+6,Advanced Computer Networks,1,
+6,Testing and Verification Techniques in Software Engineering,1,
+6,Database Management Systems,1,
+6,Network Routing,1,
+6,Advanced Topics in Network Measurements and Security,1,
+6,Software Evolution,1,
+6,Advanced Verification Techniques in Software Engineering,1,
+6,Distributed Systems,1,
+6,Computer Security,1,
+6,Wireless Networks and Mobile Computing,1,
+6,Green Engineering,1,
+7,HVAC DDC Basics,1,Class
+7,HVAC DDC System Design,1,Class
+7,HVAC Design Calculations,1,Class
+7,HVAC DDC Networking Design,1,Class
+7,HVAC Systems Design,1,Class
+7,Wind Energy Principles and  Applications,1,Class
+7,Solar Energy Principles and Applications,1,Class
+7,Introduction to Energy Systems,1,Class
+7,Introduction to Renewable Energy: Solar and Wind  ,1,Class
+7,Introduction to Nuclear Energy,1,Class
+7,Environmental Challenges: Science and Solutions,1,Class
+7,Case Studies In Environmental Engineering,1,Class
+7,Environmental Engineering Laboratory I,1,Class
+7,Environmental Engineering Laboratory II,1,Class
+7,Linear Control,1,Class
+7,Digital Control Systems,1,Class
+7,Sensor Networks,1,Class
+7,Mechanical Engineering Laboratory II,1,Class
+7,Advances in Control Applications,1,Class
+7,Boundary Layer and Renewable Energy Meteorology,1,Class
+7,Energy Materials and Applications,1,Class
+7,Linear Systems Theory,1,Class
+7,Linear Control Design,1,Class
+7,Nonlinear Control,1,Class
+7,Adaptive Control,1,Class
+7,Approximate Identification and Control,1,Class
+7,Robust and Multi-Variable Control,1,Class
+7,Hybrid Systems,1,Class
+7,Control of Distributed Parameter Systems,1,Class
+7,Communications Systems I,1,Class
+7,Communications Systems II,1,Class
+7,Communications Systems III,1,Class
+7,Digital Recording Projects I,1,Class
+7,Digital Recording Projects II,1,Class
+7,Sensor Networks,1,Class
+7,Communications Systems Laboratory I,1,Class
+7,Communications Systems Laboratory II,1,Class
+7,Principles of Wireless Networks,1,Class
+7,Stochastic Wireless Networks Models,1,Class
+7,Digital Communication,1,Class
+7,Digital Communication,1,Class
+7,Communication Circuit Design I,1,Class
+7,Communication Circuit Design II,1,Class
+7,Power Amplifiers for Wireless Communications,1,Class
+7,Wireless Embedded and Networked Systems,1,Class
+7,Introduction to Modern Cryptography,1,Class
+7,Software Engineering,1,Class
+7,Advanced Software Engineering,1,Class
+7,Computer Networks,1,Class
+7,Introduction to Computer Security,1,Class
+7,Database System Principles,1,Class
+7,Database Systems Applications,1,Class
+7,Molecular Sequence Analysis,1,Class
+7,Lattice Algorithms and Applications,1,Class
+7,Modern Cryptography,1,Class
+7,Advanced Cryptography,1,Class
+7,Principles of Software Engineering,1,Class
+7,Computer Communication Networks,1,Class
+7,Internet Algorithmics,1,Class
+7,Principles of Distributed Computing,1,Class
+7,Distributed Computing and Systems,1,Class
+7,Storage Systems,1,Class
+7,Computer Security,1,Class
+7,Principles of Database Systems,1,Class
+7,Database System Implementation,1,Class
+7,Database Theory,1,Class
+7,Environmental Challenges: Science and Solutions,1,Class
+7,Environmental Challenges: Science and Solutions,1,Class
+7,Economics of the Environment,1,Class
+7,Energy Economics,1,Class
+7,Topics in Environmental and Resource Economics,1,Class
+8,Sustainability: A Green Building Overview,1,Class
+8,Energy Sources: Their End Uses and Impacts,1,Class
+8,Green Building Materials,1,Class
+8,Waste Management and Green Purchasing,1,Class
+8,Sustainable Water Management,1,Class
+8,Sustainable Planning and Site Design,1,Class
+8,Mechatronics,1,Class
+8,Energy,1,Class
+8,Advanced Thermal Science,1,Class
+8,Control System Design,1,Class
+8,Control System Design,1,Class
+8,Computer Aided Design and Manufacturing,1,Class
+8,Nonlinear Control Systems,1,Class
+8,Nonlinear Control Design,1,Class
+8,Linear Systems I,1,Class
+8,Linear Systems II,1,Class
+8,Introductory Robust Control with Applications,1,Class
+8,Communication Electronics,1,Class
+8,Communication Electronics II,1,Class
+8,Communication Electronics III,1,Class
+8,Feedback Control Systems - Theory and Design,1,Class
+8,Digital Control Systems - Theory and Design,1,Class
+8,Control System Design Project,1,Class
+8,Sensor and Peripheral Interface Design,1,Class
+8,Introduction to Computer Networks,1,Class
+8,Network Computing,1,Class
+8,"THz Science, Technology, and Systems",1,Class
+8,Communication Electronics III,1,Class
+8,Hybrid Systems,1,Class
+8,Linear Systems I,1,Class
+8,Linear Systems II,1,Class
+8,Introductory Robust Control with Applications,1,Class
+8,"Modeling, Identification, and Validation for Control",1,Class
+8,Nonlinear Control Systems,1,Class
+8,Nonlinear Control Design,1,Class
+8,Advanced Control Design Laboratory,1,Class
+8,Digital Communication Theory,1,Class
+8,Advanced Digital Communication Theory,1,Class
+8,Adaptive Control Systems,1,Class
+8,Wireless Communication and Networking,1,Class
+8,Internet Computing and Web Technologies,1,Class
+8,Optimal Control of Dynamic Systems,1,Class
+8,Software Engineering,1,Class
+8,Fundamentals of Database Systems,1,Class
+8,Design and Implementation Techniques of Database Systems,1,Class
+8,Introduction to Computer Communication Networks,1,Class
+8,Network Computing,1,Class
+8,Advanced Topics in Internet Computing,1,Class
+8,Computer Security,1,Class
+8,Introduction to Cryptography,1,Class
+8,Logic and Applications in Computer Science,1,Class
+8,Advanced Topics in Database Systems,1,Class
+8,Advanced Topics in Networking,1,Class
+8,Advanced Topics in Security,1,Class
+8,Economics of Environmental Management,1,Class
+8,Data Analysis for Environmental Science and Management,1,Class
+8,Data Analysis for Environmental Science and Management,1,Class
+8,Environmental Law and Policy,1,Class
+8,Remote Sensing of the Environment,1,Class
+8,Energy and Resource Productivity,1,Class
+9,Renewable Energy Sources,1,Class
+9,Technological Innovation and Environmental Challenges,1,Class
+9,Introduction to Optoelectronics and Photonics,1,Class
+9,Communications Systems,1,Class
+9,Introduction to Wireless Communications,1,Class
+9,Feedback Control Systems,1,Class
+9,Energy Generation and Control,1,Class
+9,Energy Generation and Control Laboratory,1,Class
+9,Energy Conservation and Control,1,Class
+9,Energy Conversion and Control Laboratory,1,Class
+9,Device Electronics,1,Class
+9,Advanced Renewable Energy Sources,1,Class
+9,Micro-Electro-Mechanical Systems (MEMS) Design,1,Class
+9,Introduction to Feedback Control Systems,1,Class
+9,Principles of Digital Communications,1,Class
+9,Wireless Communications,1,Class
+9,Multi-User Information Theory,1,Class
+9,Multiple-Antenna Wireless Communications,1,Class
+9,Software Methodology,1,Class
+9,Software Design Project,1,Class
+9,Computer Security,1,Class
+9,Data Storage Systems,1,Class
+9,Database Systems I,1,Class
+9,Database Systems,1,Class
+9,Database Systems II,1,Class
+9,Introduction to Database Management Systems,1,Class
+9,Advanced Computer Security,1,Class
+9,Storage Systems,1,Class
+9,Distributed Systems,1,Class
+9,Principles of Database Systems,1,Class
+9,Design and Implementation of Database Systems,1,Class
+9,Cryptography and Computer Security,1,Class
+9,Introduction to Networking and the Internet,1,Class
+9,Introduction to Mechatronics,1,Class
+9,Introduction to Mechatronics Laboratory,1,Class
+9,Introduction to Computer Networks,1,Class
+9,Introduction to Computer Networks Laboratory,1,Class
+9,Advanced Computer Networks,1,Class
+9,Advanced Computer Networks Laboratory,1,Class
+9,Sensing and Sensor Technologies,1,Class
+9,Sensing and Sensor Technologies Lab,1,Class
+9,Mechatronics,1,Class
+9,Mechatronics Lab,1,Class
+9,Introduction to Feedback Control Systems,1,Class
+9,Applied Feedback Control,1,Class
+9,Computer Networks,1,Class
+9,Principles of Computer Communication,1,Class
+9,Network Security,1,Class
+9,High Speed Computer Networks,1,Class
+9,Design Project in Computer Networks,1,Class
+9,Wireless and Mobile Networks,1,Class
+9,Sensor Networks,1,Class
+9,Environmental Policy and Economics,1,Class
+9,Ecological Economics,1,Class
+9,Green Building Design,1,Class
+9,Public Policy and Conservation,1,Class
+10,Internet Programming and Web Design,1,
+10,Algorithm Analysis and Design,1,
+10,Introduction to Digital Forensics,1,
+10,Database Systems,1,
+10,Database Systems,1,
+10,"Java :  Client ,  Server,   and   Internet Programming",1,
+10,Embedded Systems,1,
+10,"Instrumentation ,  Control , and  Data Acquisition",1,
+10,Advanced Database Systems,1,
+10,Advanced  Computer  Networks   and Computer Security,1,
+10,Linear Systems,1,
+10,Embedded System,1,
+10,Digital Communication,1,
+10,"Instrumentation ,  Control , and  Data Acquisition",1,
+10,Introduction to Control Theory,1,
+10,Introduction to Control Theory,1,
+11,Web Development,1,
+11,Introduction To Software Engineering,1,
+11,Distributed Computing,1,
+11,Database Theory  And Design,1,
+11,Computer System Security,1,
+11,Computer Networks,1,
+11,Human-Computer Interaction,1,
+11,Advanced Database Systems,1,
+11,Security,1,
+11,Network Computing,1,
+11,Advanced Software  Engineering ,1,
+11,Web Programming,1,
+11,Ecommerce,1,
+11,Web Intelligence ,1,
+11,Foundations In Physical Science,1,
+11,Energy And Society,1,
+12,Introduction to Databases,1,
+12,Computer Security,1,
+12,Web Programming Fundamentals,1,
+12,Advanced Computer Security,1,
+12,Advanced Database Management Systems,1,
+12,Database Administration II: Advanced Tuning and Recovery,1,
+12,Introduction to Computer Networks and Network Management,1,
+12,Software Engineering,1,
+12,Distributed Computing,1,
+12,Software Engineering,1,
+12,Topics in Software Engineering,1,
+12,Advanced Database Architecture and Administration I,1,
+12,Advanced Network Management,1,
+12,Advanced Computer Networks,1,
+12,Topics in Networking,1,
+12,Topics in Database Systems,1,
+12,Communication Systems Design,1,
+12,Control System Design,1,
+12,Adaptive Control Systems,1,
+12,Measurements and Instrumentation,1,
+12,Control System Design,1,
+12,Energy Systems,1,
+12,Air Pollution Control,1,
+12,Building Energy Analysis and Design,1,
+13,Dynamic Web Programming,1,
+13,Computers and Society ,1,
+13,Computer Networks,1,
+13,Data Management,1,
+13,World Wide Web Design and Management,1,
+13,Security Engineering,1,
+13,Software Engineering,1,
+13,Human Computer Interaction and Interface Design,1,
+13,Data Communications and Computer Networks ,1,
+13,Advanced Database Management Systems,1,
+13,Information Assurance and Network Security,1,
+13,Advanced Software Engineering,1,
+13,Software Engineering Processes,1,
+13,Software Project Planning and Management,1,
+13,Advanced Software Quality Assurance,1,
+13,Software Project Management,1,
+13,PC Forensic,1,
+13,Communication Systems Security ,1,
+13,OS Security,1,
+13,Network Security and Hacking Prevention,1,
+14,Communications Network Analysis and Design ,1,
+14,Broadband Networks and Communications,1,
+14,Software Engineering of Web-Based Systems,1,
+14,Advanced WWW Software Development,1,
+14,Network Securit,1,
+14,"Security in Mobile, Wireless, Grid and Pervasive Computing",1,
+14,Network Management ,1,
+14,Wireless and Mobile Networking Architecture,1,
+14,Data Communication and Networking ,1,
+14,Software Engineering I,1,
+14,Computer Networks,1,
+14,Network Operations and Administration,1,
+14,Broadband Networks and Communications,1,
+14,Wireless and Mobile Networking,1,
+14,Quality Engineering ,1,
+14,Project Management,1,
+14,Web Site Development ,1,
+14,Introduction to Systems Programming,1,
+14,Software Engineering II ,1,
+14,Software Testing and Quality Assurance ,1,
+14,Building Secure Software,1,
+14,Principles of Network Security,1,
+14,Database Architecture,1,
+14,Human-Computer Interaction ,1,
+14,Advanced Software Engineering,1,
+14,Software Engineering of Web-Based Systems,1,
+14,Secure Software Development,1,
+14,Cryptography and Data Security,1,
+14,Advanced WWW Software Development,1,
+14,Network Security,1,
+14,"Security in Wireless, Mobile, Grid and Pervasive Computing",1,
+14,Communication Network Analysis and Design,1,
+14,Network Management,1,
+14,Broadband and Multimedia Networks,1,
+14,Wireless and Mobile Network Architecture,1,
+14,Database Systems,1,
+15,Energy Systems Design,1,
+15,Electromechanical Systems and Energy Conversion,1,
+15,Electromechanical Systems and Energy Conversion Laboratory,1,
+15,Electrical Power Systems,1,
+15,Power Systems Protection and Control,1,
+15,Power Electronics,1,
+15,Control Systems,1,
+15,Optimal Control Systems,1,
+15,Power Systems Dynamics,1,
+15,Database Systems,1,
+15,Internetworking Systems and Protocols,1,
+15,Advanced Database Systems,1,
+16,Dynamic Systems and Controls Lab,1,
+16,Energy and Power Lab,1,
+16,Dynamic Systems and Controls Lab,1,
+16,Energy and Power Lab,1,
+16,Data Security and Encryption Technique,1,
+16,Introduction to Grid Computing,1,
+16,Advanced Database Management,1,
+16,Advanced Computer Networking,1,
+16,Power Laboratory,1,
+16,Feedback Control System,1,
+16,Electronic Communication System,1,
+16,Computer Networks and the Internet,1,
+21,Intro to Instrumentation II,1,
+21,Intro to Data Communications & Networking,1,
+21,Database Programming for the Web,1,
+23,Networking Fundamentals and Theory,1,
+23,Intro to Operating Systems,1,
+23,Fundamentals of Computer Security,1,
+23,CCNA Security,1,
+23,Intro to Computer Hardware and Software,1,
+23,Intro to Routing Technologies and Theory,1,
+23,Switched Networks and WANs ,1,
+23,Implementing IP Switching,1,
+23,Intro to Client/Server Relational Database Management Systems,1,
+23,Intro to Data Structures and Algorithms,1,
+23,Intro to Internet Programming,1,
+23,Intro to Programming Database-Driven Websites with PHP,1,
+23,Electromechanical Systems,1,
+24,Programming Methods I: C++/Lab I: C++,1,
+24,Programming Methods II: C++/Lab II C++,1,
+24,Circuits and Devices,1,
+25,Computer Literacy ,1,
+25,Digital Logic Systems ,1,
+25,Materials of Engineering ,1,
+25,Microcontroller Systems,1,
+25,Digital Logic Systems,1,
+25,Wireless Communication Systems,1,
+26,Database Management,1,
+26,Networking Concepts,1,
+27,Intro to Database Design and Programming,1,
+27,Networking Essentials,1,
+27,Intro to HTML Programming ,1,
+27,Implementing and Administering a Network Infrastructure for a PC Operating System,1,
+27,Implementing and Administering a Network Infrastructure for a PC Operating System,1,
+27,Computer Network Security Basics ,1,
+27,Intro to Computer System Hardware,1,
+27,Computer Operating Systems,1,
+27,Fundamentals of Electronics,1,
+27,Solar Installation and Integration ,1,
+27,Comp Numerical Control Machining/Mill,1,
+27,Comp Numerical Control Machining/Lathe,1,
+27,Data Structures and Algorithms,1,
+27,Introductory Engineering Graphics,1,
+27,Electric Circuit Analysis,1,
+27,Fundamentals of Electronics,1,
+28,Database Applications,1,
+28,Networking Essentials,1,
+28,Network Operating Systems,1,
+28,Solar Thermal Design and Installation,1,
+28,Intro to Solar Thermal Systems,1,
+28,Photo-Voltaic Design and Installation,1,
+28,Intro to Solar Photovoltaic Systems,1,
+29,Data Structures: Java,1,
+29,Data Structures: C++,1,
+29,Networks and Digital Communications,1,
+29,Network Security Fundamentals,1,
+29,Computer Forensics: Network Analysis and Defense,1,
+29,Computer Forensics: Search and Seizure,1,
+29,Intro to Electronics Fundamentals,1,
+29,Enterprise Database Management with MySQL,1,
+29,Fundamentals of Electric Motor Control,1,
+29,Sensors and Data Transmission Systems,1,
+29,D.C. Electronics,1,
+29,A.C. Electronics,1,
+29,Solar Energy Fundamentals,1,
+29,Circuits and Devices,1,
+29,Engineering Graphics,1,
+30,Database Processing,1,
+30,Computer Operating Systems,1,
+30,Electricity and Controls for HVAC,1,
+30,Intro to Engineering,1,
+30,PC Troubleshooting and Repair,1,
+30,Comp Networking Fundamentals,1,
+30,Network Administration,1,
+30,Elec Motor Control/Prog Control,1,
+30,Advanced Prog Logic Controllers,1,
+31,Electrical Generation and Transmission ,1,
+31,Instrumentation and Control ,1,
+31,Introduction to Surveying ,1,
+31,Forest Products ,1,
+31,Computer Network ,1,
+31,PC Hardware Certification,1,
+31,PC Software Certification,1,
+31,Wireless Communications,1,
+31,Web Design,1,
+31,Web Programming,1,
+31,Web Publishing I,1,
+31,Web Publishing II,1,
+31,Visual Basic Programming,1,
+31,Programming I ,1,
+31,Intro to Circuit Analysis ,1,
+31,Mechanics for Engineers – Statics ,1,
+33,Introduction to Alternate Energy Systems,1,
+33,Photovoltaic Systems Design and  Installation ,1,
+35,SolidWorks,1,
+35,SolidWorks,1,
+35,SolidWorks,1,
+35,SolidWorks,1,
+35,SolidWorks,1,
+35,SolidWorks,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Creo Parametric ,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Creo Parametric,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Creo Parametric ,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Creo Parametric ,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Creo Parametric ,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,Creo Parametric ,1,
+35,Pro/ENGINEER,1,
+35,Pro/ENGINEER Wildfire ,1,
+35,AutoCAD,1,
+35,AutoCAD,1,
+35,AutoCAD Civil 3D ,1,
+35,AutoDesk Revit Architecture ,1,
+35,AutoDesk Inventor ,1,
+35,Intro. to Data Communication & Networking,1,
+35,Introduction to Network Security ,1,
+35,Intro to Green Building,1,
+35,Intro to Energy Management Technology,1,
+35,HVAC Systems,1,
+35,Lighting Distribution Systems,1,
+35,Electric Power Systems ,1,
+35,Solar Thermal Systems,1,
+35,Energy Management Systems and Controls,1,
+35,Renewable and Alternative Energy Systems,1,
+35,Intro to PV Technology,1,
+35,PV Technology Field Project,1,
+35,"Humans, the Environment and Sustainability",1,
+37,Comp Science I: Intro to Program Structures,1,
+37,Comp Science II: Intro to Data Structures,1,
+37,Telecommunications and Computer Networks,1,
+37,Intro to Database Systems,1,
+37,Engineering Processes & Tools,1,
+37,Engineering Design & Graphics,1,
+40,Intro to Clean Energy Technology,1,
+40,Intro to Data Management Systems,1,
+40,Software Engineering,1,
+40,Network Fundamentals & the TCP/IP Protocol Suite,1,
+40,Intro to Computer Networking,1,
+40,Microsoft SQL Server Implementation & Maintenance,1,
+40,Programmable Logic Controllers; Low-Voltage Systems & High-Voltage Systems,1,
+40,Electrical Systems,1,
+40,Publishing on the Web Using HTML/XHTML,1,
+40,Advanced Topics in Web Publishing,1,
+40,"Energy, Society and the Environment",1,
+40,Power Systems,1,
+40,Solar PV Systems,1,
+40,Smart Energy Systems (Smart Grid),1,
+41,Industrial Electronics ,1,
+41,Instrumentation Systems ,1,
+41,Programmable Logic Controllers ,1,
+41,Wireless Networking ,1,
+41,Network Security Fundamentals ,1,
+41,Network Defense and Countermeasures ,1,
+41,Network Defense and Countermeasures ,1,
+41,Data Communications ,1,
+41,Computer Operating Systems ,1,
+41,Fundamentals of Networking ,1,
+41,Networking Essentials ,1,
+41,PROGRAMMING IN THE PASCAL LANGUAGE ,1,
+41,Engineering Materials ,1,
+41,Routing Protocols and Concepts,1,
+41,Advanced Routing and Switching,1,
+41,Advanced Networking and Management,1,
+41,Building Multilayer Switched Networks,1,
+41,Optimizing Converged Networks,1,
+41,Fund of Network Security-Firewalls,1,
+42,PC Hardware,1,
+42,Operating Systems,1,
+42,Applied Networking,1,
+42,Intro to Info Security,1,
+42,Web Page Authoring I,1,
+42,Web Page Authoring II,1,
+42,C++ Programming II,1,
+42,"Electrical Circuits, Devices and Systems",1,
+43,Database Management,1,
+43,Operating Systems,1,
+43,Comp Systems and Info Literacy,1,
+43,Networking Fundamentals,1,
+43,Comp Security Principles,1,
+43,Networking Administration and Storage Management,1,
+43,Network Security Principles,1,
+43,Green Building Materials and Methods,1,
+43,Green Building Remodel and Retrofit,1,
+43,Sustainable Building Design,1,
+43,Plumbing and HVAC,1,
+43,Renewable Energy and Energy Efficiency,1,
+43,Engineering Design with SolidWorks,1,
+45,Mechanical Drafting and Design II,1,
+45,Civil Engineer Drafting,1,
+45,Intro to Sustainable Architectural Design Applications ,1,
+45,Systems Principles for Sustainable Residential Adaptation ,1,
+45,Intro to Operating Systems,1,
+45,Operating Systems Scripting,1,
+45,Data Communications and Networks,1,
+45,Data Structures and Algorithms,1,
+45,UNIX/LINUX Operating Systems ,1,
+45,Commercial Electricity for HVAC ,1,
+45,Control Systems Networking for Building Automation ,1,
+45,Intro to Photovoltaics,1,
+45,Lighting Efficiency Technology,1,
+45,The Sustainable Built Environment,1,
+45,Photovoltaic NABCEP Test Preparation,1,
+45,Intro to Electrical Engineering ,1,
+45,Fundamentals of Electricity for ECT,1,
+45,Intro to PC Hardware and Software for Building Technicians ,1,
+45,Intro to Direct Digital Controls ,1,
+45,Commercial HVAC Systems,1,
+45,Commercial HVAC Systems,1,
+45,Green Construction Techniques and Materials ,1,
+45,Energy Management and Efficiency for Buildings,1,
+45,HVAC Installation Practices,1,
+45,Mechanical and Electrical Devices ,1,
+45,HVAC Systems Design,1,
+45,Introduction to Control Systems Networking,1,
+45,Measurement of Building Energy Efficiency 2,1,
+45,Energy Auditing and Computer Analysis of Building Efficiency,1,
+45,The Financial Case for Clean Energy ,1,
+46,Web Programming ,1,
+46,Java Servlets and JSP ,1,
+46,Advanced Web Programming ,1,
+46,Database Programming ,1,
+46,Web Development: HTML/XHTML ,1,
+46,Web Development: Web Design Technologies and Tools ,1,
+46,Networking Fundamentals ,1,
+46,Networking Fundamentals ,1,
+46,Wireless Networks and Security CWNA ,1,
+46,Network Security Sec+ ,1,
+46,Adv Prog w/Data Structures/C++ ,1,
+46,C# Programming ,1,
+46,Radio Communications II ,1,
+46,Computer Assembly and Usage ,1,
+46,PC Troubleshooting/User Maint ,1,
+46,Networking Fundamentals ,1,
+46,Intro to Circuit Analysis ,1,
+46,ENERGY AND SUSTAINABILITY ,1,
+49,Database Software,1,
+49,Database Systems ,1,
+49,Web Page Design & Development,1,
+49,Intro to Computer Science,1,
+49,Cisco Networking Academies I,1,
+49,Cisco Networking Academies II,1,
+49,Cisco Networking Academies III,1,
+49,Cisco Networking Academies IV ,1,
+49,Home Comp Security,1,
+49,Sustainability Overview,1,
+49,Intro to Green Business Principles and Practices,1,
+49,Intro to CleanTech,1,
+49,Construction Fundamentals and Green Building,1,
+49,The New Green Economy: Trends and Opportunities,1,
+49,Intro to Residential Electrical Systems,1,
+49,Intro to Photovoltaics,1,
+49,Residential Solar Thermal (Hot Water),1,
+49,Efficient Heating and Cooling,1,
+49,Intro to HVAC maintenance and Repair,1,
+49,Developing Web Applications ,1,
+49,Automotive Electrical Systems,1,
+49,Manual Transmissions/Power Trains,1,
+49,Automatic Transmissions/Power Trains,1,
+49,Automotive Air Conditioning/Heating Systems,1,
+50,Programming Concepts and Methodology I,1,
+50,Programming Concepts and Methodology II,1,
+50,Intro to Management Information Systems,1,
+50,Networking Topologies and Cabling,1,
+50,Networking for Home and Small Businesses,1,
+50,Designing and Supporting Comp Networks,1,
+50,"Electrical Motors, Generators, Transformers and AC Distribution",1,
+50,Power Transmission ,1,
+50,Ventilation & Air Conditioning Systems,1,
+50,"Microcontrollers, Programming, and Interfacing with Robotics Applications",1,
+50,Industrial Instrumentation and process Control,1,
+50,Digital Logic Circuits and Systems,1,
+50,Programmable Logic Controllers,1,
+50,Intro to Engineering,1,
+50,Elementary Mechanics,1,
+50,Intro to Environmental Technology,1,
+50,"Industrial Hazardous Waste Generation, Treatment, and Reduction ",1,
+50,HVAC Heating and Control Systems,1,
+50,Industrial Technical Skills,1,
+50,Power Equipment Electrical Systems,1,
+50,Power Equipment Air Conditioning,1,
+51,Database Management,1,
+51,Internet Programming in JavaScript,1,
+51,Microcomputer Operating Systems,1,
+51,Intro to Computer Hardware,1,
+51,Intro to Sustainable Environmental Systems,1,
+51,Sustainable Urban and Regional Planning,1,
+51,Intro to Green Building and Ecological Design,1,
+51,Sustainable Energy Options,1,
+52,Software Development with Java,1,
+52,Web Dev with PHP and MySQL,1,
+52,Intro to Networking,1,
+52,Cisco Networking Fundamentals,1,
+52,LAN Switching and Wireless,1,
+52,Implementing Cisco IP Routing,1,
+52,Desktop Operating Systems,1,
+52,Engineering Graphics and Design,1,
+54,Intro to Comp Hardware/A+ Prep,1,
+54,Networking Fundamentals,1,
+54,Network Security Fundamentals,1,
+54,Adv. Routing & Switching Implementations,1,
+54,Comp. Science Advanced Programming,1,
+54,Database Processing,1,
+54,Web Publishing Using MS FrontPage,1,
+54,Engineering Circuits,1,
+54,Robotics,1,
+54,Configure & Secure your Home Network,1,
+54,Adv. Publishing on the World Wide Web,1,
+55,Networking Fundamentals,1,
+55,Network Administration,1,
+55,Network Technical Support,1,
+55,Network and Comp Security,1,
+55,Database,1,
+55,"Energy, the Environment & Sustainability ",1,
+55,Geographic Info Systems & Science,1,
+55,Intro to Satellite Based (GPS) Data Collection Methods,1,
+56,Comp Applications in Biotechnology,1,
+56,Network Operating Systems,1,
+56,Data Communications,1,
+56,Network Fundamentals,1,
+56,Implementing Cisco Secure WANs CCNP II,1,
+56,Optimizing Converged Networks,1,
+56,PC Hardware and Software,1,
+56,Linux Networking,1,
+56,Wireless Networks,1,
+56,Network Security,1,
+56,Intro to Engineering,1,
+56,Electric Circuit Analysis,1,
+56,Programming with Data Structures,1,
+56,Data Communications,1,
+56,Linux Security ,1,
+56,Engineering Mechanics – Statics,1,
+56,Linux System Administration,1,
+56,Network Technician Training,1,
+56,Routing Protocols and Concepts,1,
+56,LAN Switching and Wireless,1,
+56,Computing Concepts in Biotechnology,1,
+56,Database Fundamentals I: Database Architecture and Administration,1,
+56,Database Fundamentals II: Database Backup and Recovery,1,
+56,Microsoft Client Operating Systems,1,
+56,Electronics for Technology,1,
+56,Linux Installation and Configuration,1,
+56,Windows Network Infrastructure Administration,1,
+56,Solar Photovoltaic Design and Installation ,1,
+56,Energy: Development and Sustainability,1,
+56,Wind Energy: Design and Development ,1,
+56,Intro to Sustainable Agriculture ,1,
+56,Urbanization: Towards Green Communities,1,
+56,Advanced .NET Programming,1,
+56,Web Site Design,1,
+56,XHTML,1,
+56,XML ,1,
+56,Intro to Robotics and Automated Systems,1,
+56,Info Security,1,
+57,Java Programming,1,
+57,Programming for Scientists and Engineering,1,
+57,Database Concepts and Design,1,
+57,Operating Systems ,1,
+57,Advanced Database Concepts and Design,1,
+57,Fundamentals of Networking ,1,
+57,Advanced Networking Concepts,1,
+57,Advanced Internet Concepts and Design,1,
+57,Business and Web Graphics,1,
+57,Beginning Java Programming,1,
+57,Computer Concepts,1,
+59,Green and Sustainable Business,1,
+59,Achieving San Francisco Green Business Certification,1,
+59,Green Marketing For Small Business,1,
+59,Cost Benefits of Being Green,1,
+59,The Green Supply Chain,1,
+59,Green Certification,1,
+59,Green and Sustainable Business,1,
+59,Computer Hardware,1,
+59,Intro to Networks,1,
+59,Network Security,1,
+59,Operating Systems Technologies,1,
+59,"Interactive Web Pages, Java Script and AJAX",1,
+59,Ethical Hacking & Network Defense,1,
+59,Wireless Networks Advanced,1,
+59,Wireless LANs,1,
+59,Prog Fundamentals I (C++/Java),1,
+59,Intro to Programming (C++/Java),1,
+59,Oracle SQL Databases,1,
+59,Oracle Database Administration,1,
+59,Intro to ENGN: Software Tools & Design,1,
+59,Biotech Process Instrumentation,1,
+59,Electronics I: Electronic Measurements,1,
+59,Electronics IV: Micro-control Intf,1,
+59,HVAC/Pipe CAD Design,1,
+59,Biotech Calibration and Validation,1,
+59,Intro to Alternative Energy,1,
+59,Intro to Alternative Energy Laboratory,1,
+61,CISCO Network Essentials,1,
+61,Database Technology,1,
+61,Web Application Security,1,
+61,Networking TCP/IP on NOT 4.0 #688,1,
+61,CISCO Router and IOS Software,1,
+61,CISCO Local Area Network Design,1,
+61,CISCO Wide Area Network Design,1,
+61,JavaScript Programming,1,
+61,Discrete Mathematics,1,
+61,Intro to PV Installation ,1,
+62,Civil Engineering Design/ Drafting ,1,
+62,Data Structures and Algorithms ,1,
+62,Fundamentals of Electronic Devices ,1,
+62,Photovoltaic Systems Design and Installation ,1,
+62,Advanced Photovoltaic Systems ,1,
+62,Electric Circuits & Devices ,1,
+62,Engineering Graphics and Design,1,
+63,Physics (Mechanics),1,
+63,Intro to Database Management,1,
+63,CCNA 1 – Networking/Home and Small Business,1,
+63,CCNA 4 – Designing/Supporting Computer Networks ,1,
+63,Server 2008 Network Infrastructure,1,
+63,Fundamentals of Electronics,1,
+63,Web Programming Using Java/PHP/Flash,1,
+63,HTML,1,
+63,Fundamentals of Electronics,1,
+63,Renewable Energy and Sustainable Development ,1,
+63,Photovoltaic Technology I,1,
+63,Photovoltaic Technology II,1,
+63,Residential Estimating,1,
+63,Map and Computer-Aided Drafting,1,
+63,Solid Modeling Computer-Aided Drafting,1,
+65,Database Applications I: Access,1,
+65,Database Applications II: Access,1,
+65,Network Fundamentals ,1,
+65,Fundamentals of Electronics,1,
+65,Intro to Solar Installation and Integration ,1,
+65,"Solar Design, Estimation and Sales ",1,
+65,Intro to Environmental Science,1,
+65,Fundamentals of Electronics,1,
+65,Intro to Solar Installation and Integration ,1,
+65,"Telecommunications, Networking and Wireless Technologies",1,
+65,Electrical Fundamentals for Telecommunications,1,
+65,Structured Wiring and Cabling for Telecommunications and Networking ,1,
+65,Wireless and Mobile Communications Fundamentals ,1,
+65,Signal Transmission and Radio Frequency Fundamentals ,1,
+65,Transport Networks and the Fundamentals of Digital Communications,1,
+65,Wireless Local Area Networks,1,
+65,Network Fundamentals,1,
+65,Network Systems Administration,1,
+65,Network Switches - Concepts and Applications,1,
+65,Network Security,1,
+65,Troubleshooting the Internetwork,1,
+67,Database Creation & Management ,1,
+68,Database Creation & management (Access),1,
+68,Internet Programming XML,1,
+68,Networking Essentials ,1,
+68,Electrical Circuits ,1,
+68,Engineering Mechanics: Statics,1,
+69,Engineering Physics Mechanics,1,
+69,Engineering Physics Electricity and Magnetism,1,
+69,Software Design ,1,
+69,Engineering Graphics ,1,
+69,Vector Mechanics ,1,
+>>>>>>> origin/master
