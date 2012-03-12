@@ -32,7 +32,7 @@ function getHeader() {
     //content wrapper and header div for all pages
 	$html .="<div class=\"bordering\">\n";
     $html .="<div class=\"container_16 white\">\n";
-	$html .="<div class=\"grid_16 header\"><img src=\"images/banner1.jpg\" alt=\"Plugging into Smart Grid\" /></div>";
+	$html .="<div class=\"grid_16 header\"><img src=\"images/hideous_header.jpg\" alt=\"Plugging into Smart Grid\" /></div>";
 
     //echo the HTML so that it displays
     echo $html;
