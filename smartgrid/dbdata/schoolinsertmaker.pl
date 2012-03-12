@@ -1,4 +1,4 @@
-# mysqlMaker.pl, A program that takes CSV files and puts them into
+# schoolinsertmaker.pl, A program that takes excel.csv files and puts them into
 # a MySQL database
 
 open(INFILE, $ARGV[0]);
