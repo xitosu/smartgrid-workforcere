@@ -624,19 +624,15 @@ function addClasses2()
 * Programmer:  Nikitha Thouta 
 *              nikitha.thouta@gmail.com
 ********************************************************************/
-function setOptions(opt) { 
-var select2 = document.myform.select2; 
-select2.options.length = 0; 
-
-if (opt == "0"){
-}
-
-if ((opt == "1") || (opt == 2) || (opt == 3) || (opt == 4)) { 
-select2.options[select2.options.length] = new Option('Select School');
-select2.options[select2.options.length] = new Option('University of California');
-select2.options[select2.options.length] = new Option('California State University'); 
-select2.options[select2.options.length] = new Option('California Community College'); 
-
-}
-
+var lastDiv = "";
+function showDiv(divName) {
+    // hide last div
+    if (lastDiv) {
+        document.getElementById(lastDiv).className = "hiddenMenu";
+    }
+    //if value of the box is not nothing and an object with that name exists, then change the class
+    if (divName && document.getElementById(divName)) {
+        document.getElementById(divName).className = "visibleMenu";
+        lastDiv = divName;
+    }
 }

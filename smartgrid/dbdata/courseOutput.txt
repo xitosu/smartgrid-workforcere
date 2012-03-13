@@ -1,9 +1,7 @@
 INSERT INTO course(course_number,school_number,course_title,course_description,course_active,course_region,course_type) values(course_number','school_number','course_title','course_description','course_active','course_region','course_type
 ); 
-INSERT INTO course(course_number,school_number,course_title,course_description,course_active,course_region,course_type) values(110','1','Introduction to Product Development','','1','Northern','
-); 
-INSERT INTO course(course_number,school_number,course_title,course_description,course_active,course_region,course_type) values(128','1','Computer-Aided Mechanical Design','','1','Northern','
-); 
+INSERT INTO smartgrid.courses(course_number,school_number,course_title,course_description,course_active,course_type) values('110','1',"Introduction to Product Development","",'1',""); 
+INSERT INTO smartgrid.courses(course_number,school_number,course_title,course_description,course_active,course_type) values('128','1',"Computer-Aided Mechanical Design","",'1',""); 
 INSERT INTO course(course_number,school_number,course_title,course_description,course_active,course_region,course_type) values(146','1','Energy Conversion Principles','','1','Northern','
 ); 
 INSERT INTO course(course_number,school_number,course_title,course_description,course_active,course_region,course_type) values(C218','1','Introduction to MEMS Design','','1','Northern','
