@@ -7,14 +7,13 @@ while (<INFILE>)
 {
     chomp @values; #yummy!
     @values = split('\t', $_); #splits by tabs
-    print "INSERT INTO smartgrid.courses(course_number,school_number,course_title,course_description,course_active,course_type) ";
+    print "INSERT INTO smartgrid.courses(school_number,course_title,course_description,course_active,course_type) ";
     print "values(";
     print "'$values[0]',"; #get course number
     print "'$values[1]',"; #gets School Number
-    print "\"$values[2]\","; #gets Course Title
-    print "\"$values[3]\","; #gets Course Description
+    print "\'$values[2]\',"; #gets Course Title
+    print "\'$values[3]\',"; #gets Course Description
     print "'$values[4]',"; #gets Course Active
-    print "\"$values[5]\""; #Course Type
     print ");\n";
 }
 
