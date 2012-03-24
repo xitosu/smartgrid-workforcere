@@ -35,15 +35,15 @@ function indexContent() {
 
 	//form for determing what track to send them on.
 	$html .="<form action=\"highschoolgrads.php\" method=\"post\" enctype=\"multipart/form-data\">";
-     
+     $html .="<input type=\"hidden\" id=\"forminfo\" value=\"highschoolgrads\"/>";
 	 //drop down menu for region
 	 $html .="<div class=\"form-input\">";
 	 $html .="<div class=\"float-left grid_6\">";
 	 $html .="<label id=\"select region\">Please select a region </label>";
 	 $html .= "</div>\n";
 	 $html .="<div class=\"float-left grid_6\">";
-     $html .="<select id=\"category\" id=\"region\" style=\"width: 200px\" onchange=\"showInterest();\">";
-     $html .="<option value=\"select_region\">Select Region</option>";
+     $html .="<select id=\"region_select\" style=\"width: 200px\" onchange=\"showInterest();\">";
+     $html .="<option value=\"no_region\">Select Region</option>";
      $html .="<option value=\"Northern\">Northern</option>";
      $html .="<option value=\"Central\">Central</option>";
      $html .="<option value=\"Southern\">Southern</option>";
@@ -56,8 +56,8 @@ function indexContent() {
         $html .="<label>Please select a field of interest:</label>";
 		$html .= "</div>\n";
 		$html .="<div class=\"float-left grid_6\">";
-        $html .="<select id=\"interest_fields\" class =\"menu\" disabled=\"true=\" onchange=\"showProgram();\">";
-        $html .="<option value=\"Select Field\">Select Field</option>";
+        $html .="<select id=\"interest_select\" class =\"menu\" disabled=\"true=\" onchange=\"showProgram();\">";
+        $html .="<option value=\"no_interest\">Select Field</option>";
         $html .="<option value=\"mechanical_engineering\">Mechanical Engineering</option>";
         $html .="<option value=\"electrical_engineering\">Electrical Engineering</option>";
         $html .="</select>";
@@ -70,7 +70,7 @@ function indexContent() {
 		$html .= "</div>\n";
 		$html .="<div class=\"float-left grid_6\">";
         $html .="<select id=\"programs_select\" class =\"menu\" disabled=\"true=\" onchange=\"enableSubmit();\">";
-        $html .="<option value=\"select_program\">Select Program</option>";
+        $html .="<option value=\"no_program\">Select Program</option>";
         $html .="<option value=\"cert\">Certification Program</option>";
         $html .="<option value=\"twoyear\">Two Year Program</option>";
 		$html .="<option value=\"fouryear\">Four Year University</option>";
@@ -79,10 +79,36 @@ function indexContent() {
 		
 		//select button to submit this information
 		$html .="<div class=\"submit_button\">";
-		$html .="<input type=\"button\" disabled=\"true\" id=\"track_submit\" value=\"Complete form to submit!\" />";
+		$html .="<input type=\"button\" disabled=\"true\" id=\"track_submit\" value=\"Complete form to submit!\" onclick=\"submitFilters();\"/>";
 		$html .="</div>";
 		
 	$html .="</form>";
+	
+	//thset of divs to become populated with stuff based on choices.
+	$html .="<div class=\"nomargin nopadding\" id=\"errordiv\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-fouryear\"></div>";
 
 	$html .= "</div>\n";
 

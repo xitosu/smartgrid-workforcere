@@ -628,7 +628,7 @@ function addClasses2()
 ********************************************************************/
 function showInterest() {
     //Get the ID of the Interest select
-	document.getElementById('interest_fields').disabled=false;
+	document.getElementById('interest_select').disabled=false;
 }
 
 /********************************************************************
@@ -636,7 +636,7 @@ function showInterest() {
 *
 * Description: Enables interest dropdown upon change of Interest.
 * 
-* Programmer2:  Kim Holmes
+* Programmer:  Kim Holmes
 *              yes@kimiscool.me
 ********************************************************************/
 function showProgram() {
@@ -649,10 +649,70 @@ function showProgram() {
 *
 * Description: Enables interest dropdown upon change of program.
 * 
-* Programmer2:  Kim Holmes
+* Programmer:  Kim Holmes
 *              yes@kimiscool.me
 ********************************************************************/
 function enableSubmit() {
     //Get the ID of the Interest select
 	document.getElementById('track_submit').disabled=false;
+}
+
+/********************************************************************
+* File Name:   jscript.js
+*
+* Description: Displays results of form input.
+* 
+* Programmer2:  Kim Holmes
+*              yes@kimiscool.me
+********************************************************************/
+
+function submitFilters() {
+	//document.getElementById('northern-mechanicaleng-certification').innerHTML = "Dinosaurs go 'rawr'";
+	
+	var formpage = document.getElementById('forminfo').value;
+	var region = document.getElementById('region_select').value;
+	var interest = document.getElementById('interest_select').value;
+	var programType = document.getElementById('programs_select').value;
+	var errordiv = document.getElementById('errordiv').innerHTML;
+	errordiv = "";
+	
+	var divIDFilter = "";
+	if(formpage == 'highschoolgrads'){
+		
+		switch(region)
+			{
+				case "Northern": divIDFilter += "northern-";
+									break;
+				case 'Central': divIDFilter += "central-";
+									break;
+				case 'Southern': divIDFilter += "southern-";
+									break;
+				case 'no_region': document.getElementById('errordiv').innerHTML += "Please enter a region. ";
+									break;
+			}
+		switch(interest)
+			{
+				case 'mechanical_engineering': divIDFilter +="mecheng-";
+									break;
+				case 'electrical_engineering': divIDFilter +="electricaleng-";
+									break;
+				case 'no_interest': document.getElementById('errordiv').innerHTML += "Please enter an area of interest. ";
+									break;
+			}
+		switch(programType)
+			{
+				case "cert": divIDFilter += "cert";
+									break;
+				case 'twoyear': divIDFilter += "twoyear";
+									break;
+				case 'fouryear': divIDFilter += "fouryear";
+									break;
+				case 'no_program': document.getElementById('errordiv').innerHTML += "Please enter a program type. ";
+			}
+			//test error handling
+			//document.getElementById('errordiv').innerHTML += "<br /><br />" + region + interest + programType + "<br /><br />" + divIDFilter;
+	}
+	//test error handling
+	//document.getElementById('errordiv').innerHTML += "<br /><br />" + region + interest + programType + "<br /><br />" + divIDFilter;
+	document.getElementById(divIDFilter).innerHTML = "<br/><br />School information goes here.";
 }
