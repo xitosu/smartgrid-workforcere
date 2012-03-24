@@ -42,12 +42,12 @@ function indexContent() {
 	 $html .="<label id=\"select region\">Please select a region </label>";
 	 $html .= "</div>\n";
 	 $html .="<div class=\"float-left grid_6\">";
-        $html .="<select id=\"category\" id=\"region\" style=\"width: 200px\" onchange=\"showDiv(this.value);\">";
-        $html .="<option value=\"select_region\">Select Region</option>";
-        $html .="<option value=\"Northern\">Northern</option>";
-        $html .="<option value=\"Central\">Central</option>";
-        $html .="<option value=\"Southern\">Southern</option>";
-        $html .="</select>";
+     $html .="<select id=\"category\" id=\"region\" style=\"width: 200px\" onchange=\"showInterest();\">";
+     $html .="<option value=\"select_region\">Select Region</option>";
+     $html .="<option value=\"Northern\">Northern</option>";
+     $html .="<option value=\"Central\">Central</option>";
+     $html .="<option value=\"Southern\">Southern</option>";
+     $html .="</select>";
 		$html .= "</div><div style=\"clear:both;\"></div></div>\n";
 
 		//drop down for field of interest
@@ -56,7 +56,7 @@ function indexContent() {
         $html .="<label>Please select a field of interest:</label>";
 		$html .= "</div>\n";
 		$html .="<div class=\"float-left grid_6\">";
-        $html .="<select id=\"interested fields\" class =\"menu\">";
+        $html .="<select id=\"interest_fields\" class =\"menu\" disabled=\"true=\" onchange=\"showProgram();\">";
         $html .="<option value=\"Select Field\">Select Field</option>";
         $html .="<option value=\"mechanical_engineering\">Mechanical Engineering</option>";
         $html .="<option value=\"electrical_engineering\">Electrical Engineering</option>";
@@ -69,7 +69,7 @@ function indexContent() {
 		$html .="<label>Please select the type of program you are interested in:</label>";
 		$html .= "</div>\n";
 		$html .="<div class=\"float-left grid_6\">";
-        $html .="<select id=\"interested fields\" class =\"menu\">";
+        $html .="<select id=\"programs_select\" class =\"menu\" disabled=\"true=\" onchange=\"enableSubmit();\">";
         $html .="<option value=\"select_program\">Select Program</option>";
         $html .="<option value=\"cert\">Certification Program</option>";
         $html .="<option value=\"twoyear\">Two Year Program</option>";

@@ -615,24 +615,44 @@ function addClasses2()
   //eventually, re-work to use objects and use the following
   //result.innerHTML = selecter.options[selecter.selectedIndex].classes
 }
+
 /********************************************************************
 * File Name:   jscript.js
 *
-* Description: Diaplays the names of schools based on the type of 
-               region is been selected
+* Description: Enables interest dropdown upon change of region.
 * 
-* Programmer:  Nikitha Thouta 
+* Programmer1:  Nikitha Thouta 
 *              nikitha.thouta@gmail.com
+* Programmer2:  Kim Holmes
+*              yes@kimiscool.me
 ********************************************************************/
-var lastDiv = "";
-function showDiv(divName) {
-    // hide last div
-    if (lastDiv) {
-        document.getElementById(lastDiv).className = "hiddenMenu";
-    }
-    //if value of the box is not nothing and an object with that name exists, then change the class
-    if (divName && document.getElementById(divName)) {
-        document.getElementById(divName).className = "visibleMenu";
-        lastDiv = divName;
-    }
+function showInterest() {
+    //Get the ID of the Interest select
+	document.getElementById('interest_fields').disabled=false;
+}
+
+/********************************************************************
+* File Name:   jscript.js
+*
+* Description: Enables interest dropdown upon change of Interest.
+* 
+* Programmer2:  Kim Holmes
+*              yes@kimiscool.me
+********************************************************************/
+function showProgram() {
+    //Get the ID of the Program select
+	document.getElementById('programs_select').disabled=false;
+}
+
+/********************************************************************
+* File Name:   jscript.js
+*
+* Description: Enables interest dropdown upon change of program.
+* 
+* Programmer2:  Kim Holmes
+*              yes@kimiscool.me
+********************************************************************/
+function enableSubmit() {
+    //Get the ID of the Interest select
+	document.getElementById('track_submit').disabled=false;
 }
