@@ -247,3 +247,22 @@ h4 {
 .engs a:hover{
 	background-image:url(images/engineeringstudentshover.jpg);
 }
+
+
+/* styling for forms */
+.float-left{
+	float: left;
+	padding:0;
+	margin:0;
+}
+
+.form-input{
+	border: #eee dotted 1px;
+	padding: .5em;
+}
+
+.submit_button {
+	width: 200px;
+	margin: .5em auto 0;
+	
+}
