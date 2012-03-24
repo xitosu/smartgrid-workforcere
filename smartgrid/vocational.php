@@ -24,10 +24,84 @@ function indexContent() {
 	$html .="<br />";
 	$html .="<h1>Vocational Training</h1>";
 	
-	$html .="<p>Vocational education may be classified as teaching procedural knowledge. This can be contrasted with declarative knowledge, as used in education in a usually broader scientific field, which might concentrate on theory and abstract conceptual knowledge, characteristic of tertiary education. Vocational education can be at the secondary or post-secondary level and can interact with the apprenticeship system. Increasingly, vocational education can be recognised in terms of recognition of prior learning and partial academic credit towards tertiary education (e.g., at a university) as credit; however, it is rarely considered in its own form to fall under the traditional definition of higher education.</p>\n";
+	//form for determing what track to send them on.
+	$html .="<form action=\"highschoolgrads.php\" method=\"post\" enctype=\"multipart/form-data\">";
+     $html .="<input type=\"hidden\" id=\"forminfo\" value=\"vocational\"/>";
+	 //drop down menu for region
+	 $html .="<div class=\"form-input\">";
+	 $html .="<div class=\"float-left grid_6\">";
+	 $html .="<label id=\"select region\">Please select a region </label>";
+	 $html .= "</div>\n";
+	 $html .="<div class=\"float-left grid_6\">";
+     $html .="<select id=\"region_select\" style=\"width: 200px\" onchange=\"showInterest();\">";
+     $html .="<option value=\"no_region\">Select Region</option>";
+     $html .="<option value=\"Northern\">Northern</option>";
+     $html .="<option value=\"Central\">Central</option>";
+     $html .="<option value=\"Southern\">Southern</option>";
+     $html .="</select>";
+		$html .= "</div><div style=\"clear:both;\"></div></div>\n";
+
+		//drop down for field of interest
+		$html .="<div class=\"form-input\">";
+		$html .="<div class=\"float-left grid_6\">";
+        $html .="<label>Please select a field of interest:</label>";
+		$html .= "</div>\n";
+		$html .="<div class=\"float-left grid_6\">";
+        $html .="<select id=\"interest_select\" class =\"menu\" disabled=\"true=\" onchange=\"showProgram();\">";
+        $html .="<option value=\"no_interest\">Select Field</option>";
+        $html .="<option value=\"mechanical_engineering\">Mechanical Engineering</option>";
+        $html .="<option value=\"electrical_engineering\">Electrical Engineering</option>";
+        $html .="</select>";
+		$html .= "</div><div style=\"clear:both;\"></div></div>\n";
+		
+		//program type
+		$html .="<div class=\"form-input\">";
+		$html .="<div class=\"float-left grid_6\">";
+		$html .="<label>Please select the type of program you are interested in:</label>";
+		$html .= "</div>\n";
+		$html .="<div class=\"float-left grid_6\">";
+        $html .="<select id=\"programs_select\" class =\"menu\" disabled=\"true=\" onchange=\"enableSubmit();\">";
+        $html .="<option value=\"no_program\">Select Program</option>";
+        $html .="<option value=\"cert\">Certification Program</option>";
+        $html .="<option value=\"twoyear\">Two Year Program</option>";
+		$html .="<option value=\"fouryear\">Four Year University</option>";
+        $html .="</select>";
+		$html .= "</div><div style=\"clear:both;\"></div></div>\n";
+		
+		//select button to submit this information
+		$html .="<div class=\"submit_button\">";
+		$html .="<input type=\"button\" disabled=\"true\" id=\"track_submit\" value=\"Complete form to submit!\" onclick=\"submitFilters();\"/>";
+		$html .="</div>";
+		
+	$html .="</form>";
 	
-	$html .="<p>Up until the end of the twentieth century, vocational education focused on specific trades such as, for example, those of automobile mechanic or welder, and it was therefore associated with the activities of lower social classes. As a consequence, it carries some social stigma. Vocational education is related to the age-old apprenticeship system of learning.</p>\n\n";
-	$html .="<p>However, as the labor market becomes more specialized and economies demand higher levels of skill, governments and businesses are increasingly investing in the future of vocational education through publicly funded training organizations and subsidized apprenticeship or traineeship initiatives for businesses. At the post-secondary level vocational education is typically provided by an institute of technology, or by a local community college.</p>\n\n";
+	//thset of divs to become populated with stuff based on choices.
+	$html .="<div class=\"nomargin nopadding\" id=\"errordiv\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-mecheng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"northern-electricaleng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-mecheng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"central-electricaleng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-mecheng-fouryear\"></div>";
+	
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-cert\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-twoyear\"></div>";
+	$html .="<div class=\"nomargin nopadding\" id=\"southern-electricaleng-fouryear\"></div>";
+
+	$html .= "</div>\n";
 	$html .= "</div>\n";
 	echo $html;
 }
