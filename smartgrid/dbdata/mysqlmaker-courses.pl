@@ -13,7 +13,7 @@ while (<INFILE>)
     print "'$values[1]',"; #gets School Number
     print "\'$values[2]\',"; #gets Course Title
     print "\'$values[3]\',"; #gets Course Description
-    print "'$values[4]',"; #gets Course Active
+    print "'$values[4]'"; #gets Course Active
     print ");\n";
 }
 
