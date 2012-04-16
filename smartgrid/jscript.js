@@ -16,7 +16,7 @@ function addClasses()
   //define some classes for each
   //UC Berkeley
   var berkClasses = "<h1>University of California, Berkeley</h1>";
-  var berkClasses = "<a href=\"#fulltime\">Skip to full time courses >></a>";
+  berkClasses += "<a href=\"#fulltime\">Skip to full time courses >></a>";
   berkClasses += "<p>Below are a list of courses one can take at the University to gain knowledge into the various streams on Engineering to gain base knowledge of Smart Grid.</p>";
   berkClasses += "<h2>UC Berkeley Specialized Programs of Study:</h2>";
 
@@ -670,12 +670,27 @@ function enableSubmit() {
 function submitFilters() {
 	//document.getElementById('northern-mechanicaleng-certification').innerHTML = "Dinosaurs go 'rawr'";
 	
+	//grab all of the elements that are of class clearfilter.  This clears them all out so that they
+	//don't have the same contents each time this function is called.
+	var clearfilterdivs;
+	if(document.getElementsByClassName) {
+		clearfilterdivs = document.getElementsByClassName('clearfilter');
+	}
+	
+	for(var i = 0; i < clearfilterdivs.length; i++) {
+		if(clearfilterdivs[i].textContent != '') {
+			clearfilterdivs[i].setAttribute('style', 'display:none');
+		}
+	}
+	
 	var formpage = document.getElementById('forminfo').value;
 	var region = document.getElementById('region_select').value;
 	var interest = document.getElementById('interest_select').value;
 	var programType = document.getElementById('programs_select').value;
 	var errordiv = document.getElementById('errordiv').innerHTML;
 	errordiv = "";
+	//this variable will show what school has been selected.
+	var schoolshow;
 	
 	var divIDFilter = "";
 	if(formpage == 'highschoolgrads'){
@@ -823,5 +838,20 @@ function submitFilters() {
 	}
 	//test error handling
 	//document.getElementById('errordiv').innerHTML += "<br /><br />" + region + interest + programType + "<br /><br />" + divIDFilter;
+	
+	
+	
 	document.getElementById(divIDFilter).innerHTML = "<br/><br />School information goes here.";
+}
+
+function clearDivs() {
+if(document.getElementsByClassName) {
+		clearfilterdivs = document.getElementsByClassName('clearfilter');
+	}
+	
+	for(var i = 0; i < clearfilterdivs.length; i++) {
+		if(clearfilterdivs[i].textContent != '') {
+			clearfilterdivs[i].setAttribute('style', 'display:none');
+		}
+	}	
 }
