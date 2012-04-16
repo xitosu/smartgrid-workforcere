@@ -841,7 +841,7 @@ function submitFilters() {
 	
 	
 	
-	document.getElementById(divIDFilter).innerHTML = "<br/><br />School information goes here.";
+	document.getElementById(divIDFilter).setAttribute('style', 'display:block');
 }
 
 function clearDivs() {
